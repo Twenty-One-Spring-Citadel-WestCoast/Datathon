@@ -5,17 +5,23 @@ import altair as alt
 
 # Read data
 
-## Data provided by Citadel
-owid = pd.read_csv("data/1_owid/owid-covid-data.csv")
+## US daily COVID-19 features
+US_daily = pd.read_csv("data/cleaned/US_daily_cleaned.csv", index_col=0)
+US_daily["date"] = pd.to_datetime(US_daily["date"], format="%Y%m%d")
 
-ecdc_daily = pd.read_csv("data/2_ecdc/dailynotificationeu.csv")
-ecdc_weekly = pd.read_csv("data/2_ecdc/weeklynotificationeu.csv")
-ecdc_testing = pd.read_csv("data/2_ecdc/testing.csv")
-ecdc_admission = pd.read_csv("data/2_ecdc/admissionrates.csv")
-ecdc_age = pd.read_csv("data/2_ecdc/agerangenotificationeu.csv")
-ecec_response = pd.read_csv("data/2_ecdc/country_response_measures.csv")
-ecdc_world = pd.read_csv("data/2_ecdc/notification.csv")
+## US mobility
+US_mobility = pd.read_csv("data/cleaned/US_mobility_state_cleaned.csv", index_col=0)
+US_mobility["date"] = pd.to_datetime(US_mobility["date"], format="%Y-%m-%d")
 
-us_national = pd.read_csv("data/3_covidtracking/national-history.csv")
+daily_df = pd.merge(US_daily, US_mobility, on=["state", "date"], how="left")
 
-## Google Trend Data
+## US_response
+US_response = pd.read_csv("data/cleaned/US_response_cleaned.csv", index_col=0)
+US_response["date"] = pd.to_datetime(US_response["Date"], format="%Y%m%d")
+US_response = US_response.drop("Date", axis=1)
+
+daily_df = pd.merge(daily_df, US_response, on=["state", "date"], how="left")
+
+# Aggregate data
+
+daily_df.to_csv("data/cleaned/US_daily_cleaned.csv")
