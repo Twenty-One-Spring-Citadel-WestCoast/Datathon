@@ -61,3 +61,5 @@ US_daily = US_daily.drop("state", axis=1)
 US_state_abb = pd.read_csv("data/US_state_abb.csv")
 US_state_abb.columns = ["state", "state_abb"]
 US_daily = pd.merge(US_daily, US_state_abb, on="state_abb", how="left")
+
+US_daily.to_csv("data/cleaned/US_daily_cleaned.csv")

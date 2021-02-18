@@ -37,4 +37,4 @@ US_response = US_response[
 US_response["state"] = US_response["RegionName"]
 US_response = US_response.drop("RegionName", axis=1)
 
-US_response.to_csv("data/us_response/US_response_cleaned.csv")
+US_response.to_csv("data/cleaned/US_response_cleaned.csv")
