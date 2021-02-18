@@ -109,6 +109,7 @@ for kw in kws:
         ignore_index=True,
     )
 
+# Save cleaned data
 month_state_transformed.to_csv("data/cleaned/trend_month_state.csv")
 month_DMA_transformed.to_csv("data/cleaned/trend_month_DMA.csv")
 data_all_time_state_transformed.to_csv("data/cleaned/trend_all_time_state.csv")
