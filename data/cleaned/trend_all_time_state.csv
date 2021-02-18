@@ -1,0 +1,52 @@
+,geocode,trend_index,keyword,date_range,state,geoCode
+0,,64.0,plandemic,2020-03-01 2021-01-31,Alabama,US-AL
+1,,65.0,plandemic,2020-03-01 2021-01-31,Alaska,US-AK
+2,,67.0,plandemic,2020-03-01 2021-01-31,Arizona,US-AZ
+3,,52.0,plandemic,2020-03-01 2021-01-31,Arkansas,US-AR
+4,,69.0,plandemic,2020-03-01 2021-01-31,California,US-CA
+5,,86.0,plandemic,2020-03-01 2021-01-31,Colorado,US-CO
+6,,58.0,plandemic,2020-03-01 2021-01-31,Connecticut,US-CT
+7,,39.0,plandemic,2020-03-01 2021-01-31,Delaware,US-DE
+8,,77.0,plandemic,2020-03-01 2021-01-31,District of Columbia,US-DC
+9,,53.0,plandemic,2020-03-01 2021-01-31,Florida,US-FL
+10,,49.0,plandemic,2020-03-01 2021-01-31,Georgia,US-GA
+11,,77.0,plandemic,2020-03-01 2021-01-31,Hawaii,US-HI
+12,,72.0,plandemic,2020-03-01 2021-01-31,Idaho,US-ID
+13,,71.0,plandemic,2020-03-01 2021-01-31,Illinois,US-IL
+14,,69.0,plandemic,2020-03-01 2021-01-31,Indiana,US-IN
+15,,80.0,plandemic,2020-03-01 2021-01-31,Iowa,US-IA
+16,,86.0,plandemic,2020-03-01 2021-01-31,Kansas,US-KS
+17,,68.0,plandemic,2020-03-01 2021-01-31,Kentucky,US-KY
+18,,53.0,plandemic,2020-03-01 2021-01-31,Louisiana,US-LA
+19,,96.0,plandemic,2020-03-01 2021-01-31,Maine,US-ME
+20,,63.0,plandemic,2020-03-01 2021-01-31,Maryland,US-MD
+21,,65.0,plandemic,2020-03-01 2021-01-31,Massachusetts,US-MA
+22,,76.0,plandemic,2020-03-01 2021-01-31,Michigan,US-MI
+23,,97.0,plandemic,2020-03-01 2021-01-31,Minnesota,US-MN
+24,,45.0,plandemic,2020-03-01 2021-01-31,Mississippi,US-MS
+25,,79.0,plandemic,2020-03-01 2021-01-31,Missouri,US-MO
+26,,90.0,plandemic,2020-03-01 2021-01-31,Montana,US-MT
+27,,93.0,plandemic,2020-03-01 2021-01-31,Nebraska,US-NE
+28,,63.0,plandemic,2020-03-01 2021-01-31,Nevada,US-NV
+29,,100.0,plandemic,2020-03-01 2021-01-31,New Hampshire,US-NH
+30,,69.0,plandemic,2020-03-01 2021-01-31,New Jersey,US-NJ
+31,,53.0,plandemic,2020-03-01 2021-01-31,New Mexico,US-NM
+32,,59.0,plandemic,2020-03-01 2021-01-31,New York,US-NY
+33,,60.0,plandemic,2020-03-01 2021-01-31,North Carolina,US-NC
+34,,78.0,plandemic,2020-03-01 2021-01-31,North Dakota,US-ND
+35,,77.0,plandemic,2020-03-01 2021-01-31,Ohio,US-OH
+36,,54.0,plandemic,2020-03-01 2021-01-31,Oklahoma,US-OK
+37,,86.0,plandemic,2020-03-01 2021-01-31,Oregon,US-OR
+38,,81.0,plandemic,2020-03-01 2021-01-31,Pennsylvania,US-PA
+39,,46.0,plandemic,2020-03-01 2021-01-31,Rhode Island,US-RI
+40,,60.0,plandemic,2020-03-01 2021-01-31,South Carolina,US-SC
+41,,78.0,plandemic,2020-03-01 2021-01-31,South Dakota,US-SD
+42,,69.0,plandemic,2020-03-01 2021-01-31,Tennessee,US-TN
+43,,50.0,plandemic,2020-03-01 2021-01-31,Texas,US-TX
+44,,84.0,plandemic,2020-03-01 2021-01-31,Utah,US-UT
+45,,81.0,plandemic,2020-03-01 2021-01-31,Vermont,US-VT
+46,,67.0,plandemic,2020-03-01 2021-01-31,Virginia,US-VA
+47,,98.0,plandemic,2020-03-01 2021-01-31,Washington,US-WA
+48,,70.0,plandemic,2020-03-01 2021-01-31,West Virginia,US-WV
+49,,74.0,plandemic,2020-03-01 2021-01-31,Wisconsin,US-WI
+50,,97.0,plandemic,2020-03-01 2021-01-31,Wyoming,US-WY

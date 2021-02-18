@@ -22,6 +22,7 @@ us_national = pd.read_csv("data/3_covidtracking/national-history.csv")
 us_mobility = pd.read_csv("data/google_mobility/2020_US_Region_Mobility_Report.csv")
 
 ## Google Trend Data
+### Cleaned in a separate file
 
 AUT_owid = owid.loc[owid["iso_code"] == "AUT"]
 alt.Chart(AUT_owid).mark_line().encode(x="date", y="positive_rate")

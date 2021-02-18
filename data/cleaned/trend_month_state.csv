@@ -1,0 +1,562 @@
+,geocode,trend_index,keyword,date_range,state,geoCode
+0,,0.0,plandemic,2020-03-01 2020-03-31,Alabama,US-AL
+1,,0.0,plandemic,2020-03-01 2020-03-31,Alaska,US-AK
+2,,0.0,plandemic,2020-03-01 2020-03-31,Arizona,US-AZ
+3,,0.0,plandemic,2020-03-01 2020-03-31,Arkansas,US-AR
+4,,0.0,plandemic,2020-03-01 2020-03-31,California,US-CA
+5,,0.0,plandemic,2020-03-01 2020-03-31,Colorado,US-CO
+6,,0.0,plandemic,2020-03-01 2020-03-31,Connecticut,US-CT
+7,,0.0,plandemic,2020-03-01 2020-03-31,Delaware,US-DE
+8,,0.0,plandemic,2020-03-01 2020-03-31,District of Columbia,US-DC
+9,,0.0,plandemic,2020-03-01 2020-03-31,Florida,US-FL
+10,,48.0,plandemic,2020-03-01 2020-03-31,Georgia,US-GA
+11,,0.0,plandemic,2020-03-01 2020-03-31,Hawaii,US-HI
+12,,0.0,plandemic,2020-03-01 2020-03-31,Idaho,US-ID
+13,,0.0,plandemic,2020-03-01 2020-03-31,Illinois,US-IL
+14,,96.0,plandemic,2020-03-01 2020-03-31,Indiana,US-IN
+15,,0.0,plandemic,2020-03-01 2020-03-31,Iowa,US-IA
+16,,0.0,plandemic,2020-03-01 2020-03-31,Kansas,US-KS
+17,,0.0,plandemic,2020-03-01 2020-03-31,Kentucky,US-KY
+18,,0.0,plandemic,2020-03-01 2020-03-31,Louisiana,US-LA
+19,,0.0,plandemic,2020-03-01 2020-03-31,Maine,US-ME
+20,,0.0,plandemic,2020-03-01 2020-03-31,Maryland,US-MD
+21,,0.0,plandemic,2020-03-01 2020-03-31,Massachusetts,US-MA
+22,,59.0,plandemic,2020-03-01 2020-03-31,Michigan,US-MI
+23,,100.0,plandemic,2020-03-01 2020-03-31,Minnesota,US-MN
+24,,0.0,plandemic,2020-03-01 2020-03-31,Mississippi,US-MS
+25,,0.0,plandemic,2020-03-01 2020-03-31,Missouri,US-MO
+26,,0.0,plandemic,2020-03-01 2020-03-31,Montana,US-MT
+27,,0.0,plandemic,2020-03-01 2020-03-31,Nebraska,US-NE
+28,,0.0,plandemic,2020-03-01 2020-03-31,Nevada,US-NV
+29,,0.0,plandemic,2020-03-01 2020-03-31,New Hampshire,US-NH
+30,,0.0,plandemic,2020-03-01 2020-03-31,New Jersey,US-NJ
+31,,0.0,plandemic,2020-03-01 2020-03-31,New Mexico,US-NM
+32,,0.0,plandemic,2020-03-01 2020-03-31,New York,US-NY
+33,,0.0,plandemic,2020-03-01 2020-03-31,North Carolina,US-NC
+34,,0.0,plandemic,2020-03-01 2020-03-31,North Dakota,US-ND
+35,,0.0,plandemic,2020-03-01 2020-03-31,Ohio,US-OH
+36,,0.0,plandemic,2020-03-01 2020-03-31,Oklahoma,US-OK
+37,,0.0,plandemic,2020-03-01 2020-03-31,Oregon,US-OR
+38,,44.0,plandemic,2020-03-01 2020-03-31,Pennsylvania,US-PA
+39,,0.0,plandemic,2020-03-01 2020-03-31,Rhode Island,US-RI
+40,,0.0,plandemic,2020-03-01 2020-03-31,South Carolina,US-SC
+41,,0.0,plandemic,2020-03-01 2020-03-31,South Dakota,US-SD
+42,,0.0,plandemic,2020-03-01 2020-03-31,Tennessee,US-TN
+43,,0.0,plandemic,2020-03-01 2020-03-31,Texas,US-TX
+44,,0.0,plandemic,2020-03-01 2020-03-31,Utah,US-UT
+45,,0.0,plandemic,2020-03-01 2020-03-31,Vermont,US-VT
+46,,0.0,plandemic,2020-03-01 2020-03-31,Virginia,US-VA
+47,,73.0,plandemic,2020-03-01 2020-03-31,Washington,US-WA
+48,,0.0,plandemic,2020-03-01 2020-03-31,West Virginia,US-WV
+49,,0.0,plandemic,2020-03-01 2020-03-31,Wisconsin,US-WI
+50,,0.0,plandemic,2020-03-01 2020-03-31,Wyoming,US-WY
+51,,44.0,plandemic,2020-04-01 2020-04-30,Alabama,US-AL
+52,,0.0,plandemic,2020-04-01 2020-04-30,Alaska,US-AK
+53,,52.0,plandemic,2020-04-01 2020-04-30,Arizona,US-AZ
+54,,0.0,plandemic,2020-04-01 2020-04-30,Arkansas,US-AR
+55,,8.0,plandemic,2020-04-01 2020-04-30,California,US-CA
+56,,0.0,plandemic,2020-04-01 2020-04-30,Colorado,US-CO
+57,,43.0,plandemic,2020-04-01 2020-04-30,Connecticut,US-CT
+58,,0.0,plandemic,2020-04-01 2020-04-30,Delaware,US-DE
+59,,0.0,plandemic,2020-04-01 2020-04-30,District of Columbia,US-DC
+60,,8.0,plandemic,2020-04-01 2020-04-30,Florida,US-FL
+61,,32.0,plandemic,2020-04-01 2020-04-30,Georgia,US-GA
+62,,0.0,plandemic,2020-04-01 2020-04-30,Hawaii,US-HI
+63,,0.0,plandemic,2020-04-01 2020-04-30,Idaho,US-ID
+64,,0.0,plandemic,2020-04-01 2020-04-30,Illinois,US-IL
+65,,0.0,plandemic,2020-04-01 2020-04-30,Indiana,US-IN
+66,,0.0,plandemic,2020-04-01 2020-04-30,Iowa,US-IA
+67,,0.0,plandemic,2020-04-01 2020-04-30,Kansas,US-KS
+68,,0.0,plandemic,2020-04-01 2020-04-30,Kentucky,US-KY
+69,,0.0,plandemic,2020-04-01 2020-04-30,Louisiana,US-LA
+70,,0.0,plandemic,2020-04-01 2020-04-30,Maine,US-ME
+71,,53.0,plandemic,2020-04-01 2020-04-30,Maryland,US-MD
+72,,45.0,plandemic,2020-04-01 2020-04-30,Massachusetts,US-MA
+73,,18.0,plandemic,2020-04-01 2020-04-30,Michigan,US-MI
+74,,0.0,plandemic,2020-04-01 2020-04-30,Minnesota,US-MN
+75,,0.0,plandemic,2020-04-01 2020-04-30,Mississippi,US-MS
+76,,32.0,plandemic,2020-04-01 2020-04-30,Missouri,US-MO
+77,,0.0,plandemic,2020-04-01 2020-04-30,Montana,US-MT
+78,,0.0,plandemic,2020-04-01 2020-04-30,Nebraska,US-NE
+79,,61.0,plandemic,2020-04-01 2020-04-30,Nevada,US-NV
+80,,0.0,plandemic,2020-04-01 2020-04-30,New Hampshire,US-NH
+81,,17.0,plandemic,2020-04-01 2020-04-30,New Jersey,US-NJ
+82,,100.0,plandemic,2020-04-01 2020-04-30,New Mexico,US-NM
+83,,8.0,plandemic,2020-04-01 2020-04-30,New York,US-NY
+84,,16.0,plandemic,2020-04-01 2020-04-30,North Carolina,US-NC
+85,,0.0,plandemic,2020-04-01 2020-04-30,North Dakota,US-ND
+86,,0.0,plandemic,2020-04-01 2020-04-30,Ohio,US-OH
+87,,0.0,plandemic,2020-04-01 2020-04-30,Oklahoma,US-OK
+88,,0.0,plandemic,2020-04-01 2020-04-30,Oregon,US-OR
+89,,0.0,plandemic,2020-04-01 2020-04-30,Pennsylvania,US-PA
+90,,0.0,plandemic,2020-04-01 2020-04-30,Rhode Island,US-RI
+91,,0.0,plandemic,2020-04-01 2020-04-30,South Carolina,US-SC
+92,,0.0,plandemic,2020-04-01 2020-04-30,South Dakota,US-SD
+93,,56.0,plandemic,2020-04-01 2020-04-30,Tennessee,US-TN
+94,,0.0,plandemic,2020-04-01 2020-04-30,Texas,US-TX
+95,,0.0,plandemic,2020-04-01 2020-04-30,Utah,US-UT
+96,,0.0,plandemic,2020-04-01 2020-04-30,Vermont,US-VT
+97,,0.0,plandemic,2020-04-01 2020-04-30,Virginia,US-VA
+98,,23.0,plandemic,2020-04-01 2020-04-30,Washington,US-WA
+99,,0.0,plandemic,2020-04-01 2020-04-30,West Virginia,US-WV
+100,,0.0,plandemic,2020-04-01 2020-04-30,Wisconsin,US-WI
+101,,0.0,plandemic,2020-04-01 2020-04-30,Wyoming,US-WY
+102,,51.0,plandemic,2020-05-01 2020-05-31,Alabama,US-AL
+103,,96.0,plandemic,2020-05-01 2020-05-31,Alaska,US-AK
+104,,64.0,plandemic,2020-05-01 2020-05-31,Arizona,US-AZ
+105,,62.0,plandemic,2020-05-01 2020-05-31,Arkansas,US-AR
+106,,59.0,plandemic,2020-05-01 2020-05-31,California,US-CA
+107,,72.0,plandemic,2020-05-01 2020-05-31,Colorado,US-CO
+108,,50.0,plandemic,2020-05-01 2020-05-31,Connecticut,US-CT
+109,,38.0,plandemic,2020-05-01 2020-05-31,Delaware,US-DE
+110,,100.0,plandemic,2020-05-01 2020-05-31,District of Columbia,US-DC
+111,,49.0,plandemic,2020-05-01 2020-05-31,Florida,US-FL
+112,,51.0,plandemic,2020-05-01 2020-05-31,Georgia,US-GA
+113,,48.0,plandemic,2020-05-01 2020-05-31,Hawaii,US-HI
+114,,79.0,plandemic,2020-05-01 2020-05-31,Idaho,US-ID
+115,,63.0,plandemic,2020-05-01 2020-05-31,Illinois,US-IL
+116,,72.0,plandemic,2020-05-01 2020-05-31,Indiana,US-IN
+117,,78.0,plandemic,2020-05-01 2020-05-31,Iowa,US-IA
+118,,87.0,plandemic,2020-05-01 2020-05-31,Kansas,US-KS
+119,,66.0,plandemic,2020-05-01 2020-05-31,Kentucky,US-KY
+120,,52.0,plandemic,2020-05-01 2020-05-31,Louisiana,US-LA
+121,,84.0,plandemic,2020-05-01 2020-05-31,Maine,US-ME
+122,,64.0,plandemic,2020-05-01 2020-05-31,Maryland,US-MD
+123,,62.0,plandemic,2020-05-01 2020-05-31,Massachusetts,US-MA
+124,,83.0,plandemic,2020-05-01 2020-05-31,Michigan,US-MI
+125,,87.0,plandemic,2020-05-01 2020-05-31,Minnesota,US-MN
+126,,58.0,plandemic,2020-05-01 2020-05-31,Mississippi,US-MS
+127,,72.0,plandemic,2020-05-01 2020-05-31,Missouri,US-MO
+128,,82.0,plandemic,2020-05-01 2020-05-31,Montana,US-MT
+129,,80.0,plandemic,2020-05-01 2020-05-31,Nebraska,US-NE
+130,,56.0,plandemic,2020-05-01 2020-05-31,Nevada,US-NV
+131,,77.0,plandemic,2020-05-01 2020-05-31,New Hampshire,US-NH
+132,,67.0,plandemic,2020-05-01 2020-05-31,New Jersey,US-NJ
+133,,48.0,plandemic,2020-05-01 2020-05-31,New Mexico,US-NM
+134,,60.0,plandemic,2020-05-01 2020-05-31,New York,US-NY
+135,,62.0,plandemic,2020-05-01 2020-05-31,North Carolina,US-NC
+136,,75.0,plandemic,2020-05-01 2020-05-31,North Dakota,US-ND
+137,,83.0,plandemic,2020-05-01 2020-05-31,Ohio,US-OH
+138,,58.0,plandemic,2020-05-01 2020-05-31,Oklahoma,US-OK
+139,,83.0,plandemic,2020-05-01 2020-05-31,Oregon,US-OR
+140,,86.0,plandemic,2020-05-01 2020-05-31,Pennsylvania,US-PA
+141,,54.0,plandemic,2020-05-01 2020-05-31,Rhode Island,US-RI
+142,,57.0,plandemic,2020-05-01 2020-05-31,South Carolina,US-SC
+143,,71.0,plandemic,2020-05-01 2020-05-31,South Dakota,US-SD
+144,,83.0,plandemic,2020-05-01 2020-05-31,Tennessee,US-TN
+145,,51.0,plandemic,2020-05-01 2020-05-31,Texas,US-TX
+146,,81.0,plandemic,2020-05-01 2020-05-31,Utah,US-UT
+147,,37.0,plandemic,2020-05-01 2020-05-31,Vermont,US-VT
+148,,61.0,plandemic,2020-05-01 2020-05-31,Virginia,US-VA
+149,,74.0,plandemic,2020-05-01 2020-05-31,Washington,US-WA
+150,,71.0,plandemic,2020-05-01 2020-05-31,West Virginia,US-WV
+151,,76.0,plandemic,2020-05-01 2020-05-31,Wisconsin,US-WI
+152,,40.0,plandemic,2020-05-01 2020-05-31,Wyoming,US-WY
+153,,0.0,plandemic,2020-06-01 2020-06-30,Alabama,US-AL
+154,,100.0,plandemic,2020-06-01 2020-06-30,Alaska,US-AK
+155,,22.0,plandemic,2020-06-01 2020-06-30,Arizona,US-AZ
+156,,0.0,plandemic,2020-06-01 2020-06-30,Arkansas,US-AR
+157,,25.0,plandemic,2020-06-01 2020-06-30,California,US-CA
+158,,13.0,plandemic,2020-06-01 2020-06-30,Colorado,US-CO
+159,,19.0,plandemic,2020-06-01 2020-06-30,Connecticut,US-CT
+160,,0.0,plandemic,2020-06-01 2020-06-30,Delaware,US-DE
+161,,0.0,plandemic,2020-06-01 2020-06-30,District of Columbia,US-DC
+162,,8.0,plandemic,2020-06-01 2020-06-30,Florida,US-FL
+163,,24.0,plandemic,2020-06-01 2020-06-30,Georgia,US-GA
+164,,44.0,plandemic,2020-06-01 2020-06-30,Hawaii,US-HI
+165,,0.0,plandemic,2020-06-01 2020-06-30,Idaho,US-ID
+166,,15.0,plandemic,2020-06-01 2020-06-30,Illinois,US-IL
+167,,5.0,plandemic,2020-06-01 2020-06-30,Indiana,US-IN
+168,,29.0,plandemic,2020-06-01 2020-06-30,Iowa,US-IA
+169,,11.0,plandemic,2020-06-01 2020-06-30,Kansas,US-KS
+170,,14.0,plandemic,2020-06-01 2020-06-30,Kentucky,US-KY
+171,,0.0,plandemic,2020-06-01 2020-06-30,Louisiana,US-LA
+172,,41.0,plandemic,2020-06-01 2020-06-30,Maine,US-ME
+173,,0.0,plandemic,2020-06-01 2020-06-30,Maryland,US-MD
+174,,19.0,plandemic,2020-06-01 2020-06-30,Massachusetts,US-MA
+175,,27.0,plandemic,2020-06-01 2020-06-30,Michigan,US-MI
+176,,14.0,plandemic,2020-06-01 2020-06-30,Minnesota,US-MN
+177,,0.0,plandemic,2020-06-01 2020-06-30,Mississippi,US-MS
+178,,14.0,plandemic,2020-06-01 2020-06-30,Missouri,US-MO
+179,,30.0,plandemic,2020-06-01 2020-06-30,Montana,US-MT
+180,,0.0,plandemic,2020-06-01 2020-06-30,Nebraska,US-NE
+181,,8.0,plandemic,2020-06-01 2020-06-30,Nevada,US-NV
+182,,0.0,plandemic,2020-06-01 2020-06-30,New Hampshire,US-NH
+183,,14.0,plandemic,2020-06-01 2020-06-30,New Jersey,US-NJ
+184,,14.0,plandemic,2020-06-01 2020-06-30,New Mexico,US-NM
+185,,12.0,plandemic,2020-06-01 2020-06-30,New York,US-NY
+186,,14.0,plandemic,2020-06-01 2020-06-30,North Carolina,US-NC
+187,,0.0,plandemic,2020-06-01 2020-06-30,North Dakota,US-ND
+188,,18.0,plandemic,2020-06-01 2020-06-30,Ohio,US-OH
+189,,26.0,plandemic,2020-06-01 2020-06-30,Oklahoma,US-OK
+190,,24.0,plandemic,2020-06-01 2020-06-30,Oregon,US-OR
+191,,18.0,plandemic,2020-06-01 2020-06-30,Pennsylvania,US-PA
+192,,0.0,plandemic,2020-06-01 2020-06-30,Rhode Island,US-RI
+193,,11.0,plandemic,2020-06-01 2020-06-30,South Carolina,US-SC
+194,,0.0,plandemic,2020-06-01 2020-06-30,South Dakota,US-SD
+195,,16.0,plandemic,2020-06-01 2020-06-30,Tennessee,US-TN
+196,,14.0,plandemic,2020-06-01 2020-06-30,Texas,US-TX
+197,,33.0,plandemic,2020-06-01 2020-06-30,Utah,US-UT
+198,,0.0,plandemic,2020-06-01 2020-06-30,Vermont,US-VT
+199,,3.0,plandemic,2020-06-01 2020-06-30,Virginia,US-VA
+200,,13.0,plandemic,2020-06-01 2020-06-30,Washington,US-WA
+201,,0.0,plandemic,2020-06-01 2020-06-30,West Virginia,US-WV
+202,,14.0,plandemic,2020-06-01 2020-06-30,Wisconsin,US-WI
+203,,0.0,plandemic,2020-06-01 2020-06-30,Wyoming,US-WY
+204,,26.0,plandemic,2020-07-01 2020-07-31,Alabama,US-AL
+205,,100.0,plandemic,2020-07-01 2020-07-31,Alaska,US-AK
+206,,11.0,plandemic,2020-07-01 2020-07-31,Arizona,US-AZ
+207,,12.0,plandemic,2020-07-01 2020-07-31,Arkansas,US-AR
+208,,30.0,plandemic,2020-07-01 2020-07-31,California,US-CA
+209,,21.0,plandemic,2020-07-01 2020-07-31,Colorado,US-CO
+210,,19.0,plandemic,2020-07-01 2020-07-31,Connecticut,US-CT
+211,,27.0,plandemic,2020-07-01 2020-07-31,Delaware,US-DE
+212,,0.0,plandemic,2020-07-01 2020-07-31,District of Columbia,US-DC
+213,,26.0,plandemic,2020-07-01 2020-07-31,Florida,US-FL
+214,,28.0,plandemic,2020-07-01 2020-07-31,Georgia,US-GA
+215,,0.0,plandemic,2020-07-01 2020-07-31,Hawaii,US-HI
+216,,18.0,plandemic,2020-07-01 2020-07-31,Idaho,US-ID
+217,,27.0,plandemic,2020-07-01 2020-07-31,Illinois,US-IL
+218,,42.0,plandemic,2020-07-01 2020-07-31,Indiana,US-IN
+219,,20.0,plandemic,2020-07-01 2020-07-31,Iowa,US-IA
+220,,22.0,plandemic,2020-07-01 2020-07-31,Kansas,US-KS
+221,,14.0,plandemic,2020-07-01 2020-07-31,Kentucky,US-KY
+222,,28.0,plandemic,2020-07-01 2020-07-31,Louisiana,US-LA
+223,,40.0,plandemic,2020-07-01 2020-07-31,Maine,US-ME
+224,,15.0,plandemic,2020-07-01 2020-07-31,Maryland,US-MD
+225,,23.0,plandemic,2020-07-01 2020-07-31,Massachusetts,US-MA
+226,,16.0,plandemic,2020-07-01 2020-07-31,Michigan,US-MI
+227,,5.0,plandemic,2020-07-01 2020-07-31,Minnesota,US-MN
+228,,0.0,plandemic,2020-07-01 2020-07-31,Mississippi,US-MS
+229,,42.0,plandemic,2020-07-01 2020-07-31,Missouri,US-MO
+230,,60.0,plandemic,2020-07-01 2020-07-31,Montana,US-MT
+231,,30.0,plandemic,2020-07-01 2020-07-31,Nebraska,US-NE
+232,,26.0,plandemic,2020-07-01 2020-07-31,Nevada,US-NV
+233,,76.0,plandemic,2020-07-01 2020-07-31,New Hampshire,US-NH
+234,,12.0,plandemic,2020-07-01 2020-07-31,New Jersey,US-NJ
+235,,28.0,plandemic,2020-07-01 2020-07-31,New Mexico,US-NM
+236,,22.0,plandemic,2020-07-01 2020-07-31,New York,US-NY
+237,,17.0,plandemic,2020-07-01 2020-07-31,North Carolina,US-NC
+238,,89.0,plandemic,2020-07-01 2020-07-31,North Dakota,US-ND
+239,,16.0,plandemic,2020-07-01 2020-07-31,Ohio,US-OH
+240,,9.0,plandemic,2020-07-01 2020-07-31,Oklahoma,US-OK
+241,,31.0,plandemic,2020-07-01 2020-07-31,Oregon,US-OR
+242,,20.0,plandemic,2020-07-01 2020-07-31,Pennsylvania,US-PA
+243,,22.0,plandemic,2020-07-01 2020-07-31,Rhode Island,US-RI
+244,,12.0,plandemic,2020-07-01 2020-07-31,South Carolina,US-SC
+245,,40.0,plandemic,2020-07-01 2020-07-31,South Dakota,US-SD
+246,,4.0,plandemic,2020-07-01 2020-07-31,Tennessee,US-TN
+247,,13.0,plandemic,2020-07-01 2020-07-31,Texas,US-TX
+248,,8.0,plandemic,2020-07-01 2020-07-31,Utah,US-UT
+249,,0.0,plandemic,2020-07-01 2020-07-31,Vermont,US-VT
+250,,14.0,plandemic,2020-07-01 2020-07-31,Virginia,US-VA
+251,,30.0,plandemic,2020-07-01 2020-07-31,Washington,US-WA
+252,,43.0,plandemic,2020-07-01 2020-07-31,West Virginia,US-WV
+253,,14.0,plandemic,2020-07-01 2020-07-31,Wisconsin,US-WI
+254,,0.0,plandemic,2020-07-01 2020-07-31,Wyoming,US-WY
+255,,29.0,plandemic,2020-08-01 2020-08-31,Alabama,US-AL
+256,,0.0,plandemic,2020-08-01 2020-08-31,Alaska,US-AK
+257,,51.0,plandemic,2020-08-01 2020-08-31,Arizona,US-AZ
+258,,27.0,plandemic,2020-08-01 2020-08-31,Arkansas,US-AR
+259,,46.0,plandemic,2020-08-01 2020-08-31,California,US-CA
+260,,43.0,plandemic,2020-08-01 2020-08-31,Colorado,US-CO
+261,,24.0,plandemic,2020-08-01 2020-08-31,Connecticut,US-CT
+262,,0.0,plandemic,2020-08-01 2020-08-31,Delaware,US-DE
+263,,67.0,plandemic,2020-08-01 2020-08-31,District of Columbia,US-DC
+264,,25.0,plandemic,2020-08-01 2020-08-31,Florida,US-FL
+265,,27.0,plandemic,2020-08-01 2020-08-31,Georgia,US-GA
+266,,100.0,plandemic,2020-08-01 2020-08-31,Hawaii,US-HI
+267,,42.0,plandemic,2020-08-01 2020-08-31,Idaho,US-ID
+268,,28.0,plandemic,2020-08-01 2020-08-31,Illinois,US-IL
+269,,26.0,plandemic,2020-08-01 2020-08-31,Indiana,US-IN
+270,,24.0,plandemic,2020-08-01 2020-08-31,Iowa,US-IA
+271,,40.0,plandemic,2020-08-01 2020-08-31,Kansas,US-KS
+272,,41.0,plandemic,2020-08-01 2020-08-31,Kentucky,US-KY
+273,,17.0,plandemic,2020-08-01 2020-08-31,Louisiana,US-LA
+274,,47.0,plandemic,2020-08-01 2020-08-31,Maine,US-ME
+275,,9.0,plandemic,2020-08-01 2020-08-31,Maryland,US-MD
+276,,35.0,plandemic,2020-08-01 2020-08-31,Massachusetts,US-MA
+277,,20.0,plandemic,2020-08-01 2020-08-31,Michigan,US-MI
+278,,28.0,plandemic,2020-08-01 2020-08-31,Minnesota,US-MN
+279,,0.0,plandemic,2020-08-01 2020-08-31,Mississippi,US-MS
+280,,34.0,plandemic,2020-08-01 2020-08-31,Missouri,US-MO
+281,,71.0,plandemic,2020-08-01 2020-08-31,Montana,US-MT
+282,,33.0,plandemic,2020-08-01 2020-08-31,Nebraska,US-NE
+283,,59.0,plandemic,2020-08-01 2020-08-31,Nevada,US-NV
+284,,68.0,plandemic,2020-08-01 2020-08-31,New Hampshire,US-NH
+285,,18.0,plandemic,2020-08-01 2020-08-31,New Jersey,US-NJ
+286,,0.0,plandemic,2020-08-01 2020-08-31,New Mexico,US-NM
+287,,16.0,plandemic,2020-08-01 2020-08-31,New York,US-NY
+288,,25.0,plandemic,2020-08-01 2020-08-31,North Carolina,US-NC
+289,,0.0,plandemic,2020-08-01 2020-08-31,North Dakota,US-ND
+290,,30.0,plandemic,2020-08-01 2020-08-31,Ohio,US-OH
+291,,20.0,plandemic,2020-08-01 2020-08-31,Oklahoma,US-OK
+292,,37.0,plandemic,2020-08-01 2020-08-31,Oregon,US-OR
+293,,24.0,plandemic,2020-08-01 2020-08-31,Pennsylvania,US-PA
+294,,0.0,plandemic,2020-08-01 2020-08-31,Rhode Island,US-RI
+295,,21.0,plandemic,2020-08-01 2020-08-31,South Carolina,US-SC
+296,,45.0,plandemic,2020-08-01 2020-08-31,South Dakota,US-SD
+297,,5.0,plandemic,2020-08-01 2020-08-31,Tennessee,US-TN
+298,,21.0,plandemic,2020-08-01 2020-08-31,Texas,US-TX
+299,,40.0,plandemic,2020-08-01 2020-08-31,Utah,US-UT
+300,,54.0,plandemic,2020-08-01 2020-08-31,Vermont,US-VT
+301,,26.0,plandemic,2020-08-01 2020-08-31,Virginia,US-VA
+302,,73.0,plandemic,2020-08-01 2020-08-31,Washington,US-WA
+303,,25.0,plandemic,2020-08-01 2020-08-31,West Virginia,US-WV
+304,,28.0,plandemic,2020-08-01 2020-08-31,Wisconsin,US-WI
+305,,0.0,plandemic,2020-08-01 2020-08-31,Wyoming,US-WY
+306,,11.0,plandemic,2020-09-01 2020-09-30,Alabama,US-AL
+307,,0.0,plandemic,2020-09-01 2020-09-30,Alaska,US-AK
+308,,13.0,plandemic,2020-09-01 2020-09-30,Arizona,US-AZ
+309,,0.0,plandemic,2020-09-01 2020-09-30,Arkansas,US-AR
+310,,26.0,plandemic,2020-09-01 2020-09-30,California,US-CA
+311,,7.0,plandemic,2020-09-01 2020-09-30,Colorado,US-CO
+312,,0.0,plandemic,2020-09-01 2020-09-30,Connecticut,US-CT
+313,,0.0,plandemic,2020-09-01 2020-09-30,Delaware,US-DE
+314,,48.0,plandemic,2020-09-01 2020-09-30,District of Columbia,US-DC
+315,,22.0,plandemic,2020-09-01 2020-09-30,Florida,US-FL
+316,,11.0,plandemic,2020-09-01 2020-09-30,Georgia,US-GA
+317,,0.0,plandemic,2020-09-01 2020-09-30,Hawaii,US-HI
+318,,30.0,plandemic,2020-09-01 2020-09-30,Idaho,US-ID
+319,,25.0,plandemic,2020-09-01 2020-09-30,Illinois,US-IL
+320,,0.0,plandemic,2020-09-01 2020-09-30,Indiana,US-IN
+321,,16.0,plandemic,2020-09-01 2020-09-30,Iowa,US-IA
+322,,0.0,plandemic,2020-09-01 2020-09-30,Kansas,US-KS
+323,,23.0,plandemic,2020-09-01 2020-09-30,Kentucky,US-KY
+324,,59.0,plandemic,2020-09-01 2020-09-30,Louisiana,US-LA
+325,,34.0,plandemic,2020-09-01 2020-09-30,Maine,US-ME
+326,,7.0,plandemic,2020-09-01 2020-09-30,Maryland,US-MD
+327,,22.0,plandemic,2020-09-01 2020-09-30,Massachusetts,US-MA
+328,,18.0,plandemic,2020-09-01 2020-09-30,Michigan,US-MI
+329,,0.0,plandemic,2020-09-01 2020-09-30,Minnesota,US-MN
+330,,42.0,plandemic,2020-09-01 2020-09-30,Mississippi,US-MS
+331,,8.0,plandemic,2020-09-01 2020-09-30,Missouri,US-MO
+332,,100.0,plandemic,2020-09-01 2020-09-30,Montana,US-MT
+333,,48.0,plandemic,2020-09-01 2020-09-30,Nebraska,US-NE
+334,,14.0,plandemic,2020-09-01 2020-09-30,Nevada,US-NV
+335,,97.0,plandemic,2020-09-01 2020-09-30,New Hampshire,US-NH
+336,,4.0,plandemic,2020-09-01 2020-09-30,New Jersey,US-NJ
+337,,47.0,plandemic,2020-09-01 2020-09-30,New Mexico,US-NM
+338,,18.0,plandemic,2020-09-01 2020-09-30,New York,US-NY
+339,,8.0,plandemic,2020-09-01 2020-09-30,North Carolina,US-NC
+340,,0.0,plandemic,2020-09-01 2020-09-30,North Dakota,US-ND
+341,,19.0,plandemic,2020-09-01 2020-09-30,Ohio,US-OH
+342,,43.0,plandemic,2020-09-01 2020-09-30,Oklahoma,US-OK
+343,,52.0,plandemic,2020-09-01 2020-09-30,Oregon,US-OR
+344,,14.0,plandemic,2020-09-01 2020-09-30,Pennsylvania,US-PA
+345,,36.0,plandemic,2020-09-01 2020-09-30,Rhode Island,US-RI
+346,,29.0,plandemic,2020-09-01 2020-09-30,South Carolina,US-SC
+347,,0.0,plandemic,2020-09-01 2020-09-30,South Dakota,US-SD
+348,,14.0,plandemic,2020-09-01 2020-09-30,Tennessee,US-TN
+349,,32.0,plandemic,2020-09-01 2020-09-30,Texas,US-TX
+350,,84.0,plandemic,2020-09-01 2020-09-30,Utah,US-UT
+351,,0.0,plandemic,2020-09-01 2020-09-30,Vermont,US-VT
+352,,13.0,plandemic,2020-09-01 2020-09-30,Virginia,US-VA
+353,,44.0,plandemic,2020-09-01 2020-09-30,Washington,US-WA
+354,,0.0,plandemic,2020-09-01 2020-09-30,West Virginia,US-WV
+355,,0.0,plandemic,2020-09-01 2020-09-30,Wisconsin,US-WI
+356,,0.0,plandemic,2020-09-01 2020-09-30,Wyoming,US-WY
+357,,0.0,plandemic,2020-10-01 2020-10-31,Alabama,US-AL
+358,,95.0,plandemic,2020-10-01 2020-10-31,Alaska,US-AK
+359,,7.0,plandemic,2020-10-01 2020-10-31,Arizona,US-AZ
+360,,0.0,plandemic,2020-10-01 2020-10-31,Arkansas,US-AR
+361,,6.0,plandemic,2020-10-01 2020-10-31,California,US-CA
+362,,8.0,plandemic,2020-10-01 2020-10-31,Colorado,US-CO
+363,,0.0,plandemic,2020-10-01 2020-10-31,Connecticut,US-CT
+364,,0.0,plandemic,2020-10-01 2020-10-31,Delaware,US-DE
+365,,0.0,plandemic,2020-10-01 2020-10-31,District of Columbia,US-DC
+366,,9.0,plandemic,2020-10-01 2020-10-31,Florida,US-FL
+367,,12.0,plandemic,2020-10-01 2020-10-31,Georgia,US-GA
+368,,0.0,plandemic,2020-10-01 2020-10-31,Hawaii,US-HI
+369,,100.0,plandemic,2020-10-01 2020-10-31,Idaho,US-ID
+370,,18.0,plandemic,2020-10-01 2020-10-31,Illinois,US-IL
+371,,8.0,plandemic,2020-10-01 2020-10-31,Indiana,US-IN
+372,,18.0,plandemic,2020-10-01 2020-10-31,Iowa,US-IA
+373,,0.0,plandemic,2020-10-01 2020-10-31,Kansas,US-KS
+374,,13.0,plandemic,2020-10-01 2020-10-31,Kentucky,US-KY
+375,,0.0,plandemic,2020-10-01 2020-10-31,Louisiana,US-LA
+376,,0.0,plandemic,2020-10-01 2020-10-31,Maine,US-ME
+377,,0.0,plandemic,2020-10-01 2020-10-31,Maryland,US-MD
+378,,6.0,plandemic,2020-10-01 2020-10-31,Massachusetts,US-MA
+379,,10.0,plandemic,2020-10-01 2020-10-31,Michigan,US-MI
+380,,17.0,plandemic,2020-10-01 2020-10-31,Minnesota,US-MN
+381,,0.0,plandemic,2020-10-01 2020-10-31,Mississippi,US-MS
+382,,18.0,plandemic,2020-10-01 2020-10-31,Missouri,US-MO
+383,,57.0,plandemic,2020-10-01 2020-10-31,Montana,US-MT
+384,,0.0,plandemic,2020-10-01 2020-10-31,Nebraska,US-NE
+385,,32.0,plandemic,2020-10-01 2020-10-31,Nevada,US-NV
+386,,0.0,plandemic,2020-10-01 2020-10-31,New Hampshire,US-NH
+387,,10.0,plandemic,2020-10-01 2020-10-31,New Jersey,US-NJ
+388,,0.0,plandemic,2020-10-01 2020-10-31,New Mexico,US-NM
+389,,4.0,plandemic,2020-10-01 2020-10-31,New York,US-NY
+390,,4.0,plandemic,2020-10-01 2020-10-31,North Carolina,US-NC
+391,,0.0,plandemic,2020-10-01 2020-10-31,North Dakota,US-ND
+392,,8.0,plandemic,2020-10-01 2020-10-31,Ohio,US-OH
+393,,0.0,plandemic,2020-10-01 2020-10-31,Oklahoma,US-OK
+394,,36.0,plandemic,2020-10-01 2020-10-31,Oregon,US-OR
+395,,11.0,plandemic,2020-10-01 2020-10-31,Pennsylvania,US-PA
+396,,42.0,plandemic,2020-10-01 2020-10-31,Rhode Island,US-RI
+397,,0.0,plandemic,2020-10-01 2020-10-31,South Carolina,US-SC
+398,,0.0,plandemic,2020-10-01 2020-10-31,South Dakota,US-SD
+399,,8.0,plandemic,2020-10-01 2020-10-31,Tennessee,US-TN
+400,,5.0,plandemic,2020-10-01 2020-10-31,Texas,US-TX
+401,,32.0,plandemic,2020-10-01 2020-10-31,Utah,US-UT
+402,,0.0,plandemic,2020-10-01 2020-10-31,Vermont,US-VT
+403,,0.0,plandemic,2020-10-01 2020-10-31,Virginia,US-VA
+404,,13.0,plandemic,2020-10-01 2020-10-31,Washington,US-WA
+405,,0.0,plandemic,2020-10-01 2020-10-31,West Virginia,US-WV
+406,,9.0,plandemic,2020-10-01 2020-10-31,Wisconsin,US-WI
+407,,0.0,plandemic,2020-10-01 2020-10-31,Wyoming,US-WY
+408,,25.0,plandemic,2020-11-01 2020-11-30,Alabama,US-AL
+409,,100.0,plandemic,2020-11-01 2020-11-30,Alaska,US-AK
+410,,22.0,plandemic,2020-11-01 2020-11-30,Arizona,US-AZ
+411,,0.0,plandemic,2020-11-01 2020-11-30,Arkansas,US-AR
+412,,11.0,plandemic,2020-11-01 2020-11-30,California,US-CA
+413,,50.0,plandemic,2020-11-01 2020-11-30,Colorado,US-CO
+414,,0.0,plandemic,2020-11-01 2020-11-30,Connecticut,US-CT
+415,,0.0,plandemic,2020-11-01 2020-11-30,Delaware,US-DE
+416,,0.0,plandemic,2020-11-01 2020-11-30,District of Columbia,US-DC
+417,,4.0,plandemic,2020-11-01 2020-11-30,Florida,US-FL
+418,,4.0,plandemic,2020-11-01 2020-11-30,Georgia,US-GA
+419,,0.0,plandemic,2020-11-01 2020-11-30,Hawaii,US-HI
+420,,0.0,plandemic,2020-11-01 2020-11-30,Idaho,US-ID
+421,,11.0,plandemic,2020-11-01 2020-11-30,Illinois,US-IL
+422,,17.0,plandemic,2020-11-01 2020-11-30,Indiana,US-IN
+423,,0.0,plandemic,2020-11-01 2020-11-30,Iowa,US-IA
+424,,21.0,plandemic,2020-11-01 2020-11-30,Kansas,US-KS
+425,,0.0,plandemic,2020-11-01 2020-11-30,Kentucky,US-KY
+426,,41.0,plandemic,2020-11-01 2020-11-30,Louisiana,US-LA
+427,,85.0,plandemic,2020-11-01 2020-11-30,Maine,US-ME
+428,,22.0,plandemic,2020-11-01 2020-11-30,Maryland,US-MD
+429,,7.0,plandemic,2020-11-01 2020-11-30,Massachusetts,US-MA
+430,,16.0,plandemic,2020-11-01 2020-11-30,Michigan,US-MI
+431,,0.0,plandemic,2020-11-01 2020-11-30,Minnesota,US-MN
+432,,0.0,plandemic,2020-11-01 2020-11-30,Mississippi,US-MS
+433,,18.0,plandemic,2020-11-01 2020-11-30,Missouri,US-MO
+434,,0.0,plandemic,2020-11-01 2020-11-30,Montana,US-MT
+435,,0.0,plandemic,2020-11-01 2020-11-30,Nebraska,US-NE
+436,,16.0,plandemic,2020-11-01 2020-11-30,Nevada,US-NV
+437,,37.0,plandemic,2020-11-01 2020-11-30,New Hampshire,US-NH
+438,,20.0,plandemic,2020-11-01 2020-11-30,New Jersey,US-NJ
+439,,0.0,plandemic,2020-11-01 2020-11-30,New Mexico,US-NM
+440,,13.0,plandemic,2020-11-01 2020-11-30,New York,US-NY
+441,,14.0,plandemic,2020-11-01 2020-11-30,North Carolina,US-NC
+442,,0.0,plandemic,2020-11-01 2020-11-30,North Dakota,US-ND
+443,,13.0,plandemic,2020-11-01 2020-11-30,Ohio,US-OH
+444,,0.0,plandemic,2020-11-01 2020-11-30,Oklahoma,US-OK
+445,,24.0,plandemic,2020-11-01 2020-11-30,Oregon,US-OR
+446,,15.0,plandemic,2020-11-01 2020-11-30,Pennsylvania,US-PA
+447,,0.0,plandemic,2020-11-01 2020-11-30,Rhode Island,US-RI
+448,,0.0,plandemic,2020-11-01 2020-11-30,South Carolina,US-SC
+449,,73.0,plandemic,2020-11-01 2020-11-30,South Dakota,US-SD
+450,,8.0,plandemic,2020-11-01 2020-11-30,Tennessee,US-TN
+451,,10.0,plandemic,2020-11-01 2020-11-30,Texas,US-TX
+452,,32.0,plandemic,2020-11-01 2020-11-30,Utah,US-UT
+453,,0.0,plandemic,2020-11-01 2020-11-30,Vermont,US-VT
+454,,0.0,plandemic,2020-11-01 2020-11-30,Virginia,US-VA
+455,,6.0,plandemic,2020-11-01 2020-11-30,Washington,US-WA
+456,,0.0,plandemic,2020-11-01 2020-11-30,West Virginia,US-WV
+457,,9.0,plandemic,2020-11-01 2020-11-30,Wisconsin,US-WI
+458,,0.0,plandemic,2020-11-01 2020-11-30,Wyoming,US-WY
+459,,0.0,plandemic,2020-12-01 2020-12-31,Alabama,US-AL
+460,,0.0,plandemic,2020-12-01 2020-12-31,Alaska,US-AK
+461,,8.0,plandemic,2020-12-01 2020-12-31,Arizona,US-AZ
+462,,0.0,plandemic,2020-12-01 2020-12-31,Arkansas,US-AR
+463,,17.0,plandemic,2020-12-01 2020-12-31,California,US-CA
+464,,18.0,plandemic,2020-12-01 2020-12-31,Colorado,US-CO
+465,,0.0,plandemic,2020-12-01 2020-12-31,Connecticut,US-CT
+466,,0.0,plandemic,2020-12-01 2020-12-31,Delaware,US-DE
+467,,0.0,plandemic,2020-12-01 2020-12-31,District of Columbia,US-DC
+468,,10.0,plandemic,2020-12-01 2020-12-31,Florida,US-FL
+469,,9.0,plandemic,2020-12-01 2020-12-31,Georgia,US-GA
+470,,0.0,plandemic,2020-12-01 2020-12-31,Hawaii,US-HI
+471,,0.0,plandemic,2020-12-01 2020-12-31,Idaho,US-ID
+472,,12.0,plandemic,2020-12-01 2020-12-31,Illinois,US-IL
+473,,0.0,plandemic,2020-12-01 2020-12-31,Indiana,US-IN
+474,,0.0,plandemic,2020-12-01 2020-12-31,Iowa,US-IA
+475,,0.0,plandemic,2020-12-01 2020-12-31,Kansas,US-KS
+476,,0.0,plandemic,2020-12-01 2020-12-31,Kentucky,US-KY
+477,,0.0,plandemic,2020-12-01 2020-12-31,Louisiana,US-LA
+478,,0.0,plandemic,2020-12-01 2020-12-31,Maine,US-ME
+479,,24.0,plandemic,2020-12-01 2020-12-31,Maryland,US-MD
+480,,7.0,plandemic,2020-12-01 2020-12-31,Massachusetts,US-MA
+481,,0.0,plandemic,2020-12-01 2020-12-31,Michigan,US-MI
+482,,10.0,plandemic,2020-12-01 2020-12-31,Minnesota,US-MN
+483,,26.0,plandemic,2020-12-01 2020-12-31,Mississippi,US-MS
+484,,10.0,plandemic,2020-12-01 2020-12-31,Missouri,US-MO
+485,,0.0,plandemic,2020-12-01 2020-12-31,Montana,US-MT
+486,,0.0,plandemic,2020-12-01 2020-12-31,Nebraska,US-NE
+487,,36.0,plandemic,2020-12-01 2020-12-31,Nevada,US-NV
+488,,42.0,plandemic,2020-12-01 2020-12-31,New Hampshire,US-NH
+489,,0.0,plandemic,2020-12-01 2020-12-31,New Jersey,US-NJ
+490,,0.0,plandemic,2020-12-01 2020-12-31,New Mexico,US-NM
+491,,9.0,plandemic,2020-12-01 2020-12-31,New York,US-NY
+492,,0.0,plandemic,2020-12-01 2020-12-31,North Carolina,US-NC
+493,,85.0,plandemic,2020-12-01 2020-12-31,North Dakota,US-ND
+494,,5.0,plandemic,2020-12-01 2020-12-31,Ohio,US-OH
+495,,0.0,plandemic,2020-12-01 2020-12-31,Oklahoma,US-OK
+496,,14.0,plandemic,2020-12-01 2020-12-31,Oregon,US-OR
+497,,13.0,plandemic,2020-12-01 2020-12-31,Pennsylvania,US-PA
+498,,0.0,plandemic,2020-12-01 2020-12-31,Rhode Island,US-RI
+499,,12.0,plandemic,2020-12-01 2020-12-31,South Carolina,US-SC
+500,,83.0,plandemic,2020-12-01 2020-12-31,South Dakota,US-SD
+501,,0.0,plandemic,2020-12-01 2020-12-31,Tennessee,US-TN
+502,,15.0,plandemic,2020-12-01 2020-12-31,Texas,US-TX
+503,,55.0,plandemic,2020-12-01 2020-12-31,Utah,US-UT
+504,,100.0,plandemic,2020-12-01 2020-12-31,Vermont,US-VT
+505,,30.0,plandemic,2020-12-01 2020-12-31,Virginia,US-VA
+506,,15.0,plandemic,2020-12-01 2020-12-31,Washington,US-WA
+507,,41.0,plandemic,2020-12-01 2020-12-31,West Virginia,US-WV
+508,,10.0,plandemic,2020-12-01 2020-12-31,Wisconsin,US-WI
+509,,0.0,plandemic,2020-12-01 2020-12-31,Wyoming,US-WY
+510,,19.0,plandemic,2021-01-01 2021-01-31,Alabama,US-AL
+511,,0.0,plandemic,2021-01-01 2021-01-31,Alaska,US-AK
+512,,35.0,plandemic,2021-01-01 2021-01-31,Arizona,US-AZ
+513,,34.0,plandemic,2021-01-01 2021-01-31,Arkansas,US-AR
+514,,16.0,plandemic,2021-01-01 2021-01-31,California,US-CA
+515,,13.0,plandemic,2021-01-01 2021-01-31,Colorado,US-CO
+516,,0.0,plandemic,2021-01-01 2021-01-31,Connecticut,US-CT
+517,,0.0,plandemic,2021-01-01 2021-01-31,Delaware,US-DE
+518,,100.0,plandemic,2021-01-01 2021-01-31,District of Columbia,US-DC
+519,,17.0,plandemic,2021-01-01 2021-01-31,Florida,US-FL
+520,,27.0,plandemic,2021-01-01 2021-01-31,Georgia,US-GA
+521,,0.0,plandemic,2021-01-01 2021-01-31,Hawaii,US-HI
+522,,55.0,plandemic,2021-01-01 2021-01-31,Idaho,US-ID
+523,,18.0,plandemic,2021-01-01 2021-01-31,Illinois,US-IL
+524,,0.0,plandemic,2021-01-01 2021-01-31,Indiana,US-IN
+525,,0.0,plandemic,2021-01-01 2021-01-31,Iowa,US-IA
+526,,0.0,plandemic,2021-01-01 2021-01-31,Kansas,US-KS
+527,,0.0,plandemic,2021-01-01 2021-01-31,Kentucky,US-KY
+528,,21.0,plandemic,2021-01-01 2021-01-31,Louisiana,US-LA
+529,,69.0,plandemic,2021-01-01 2021-01-31,Maine,US-ME
+530,,12.0,plandemic,2021-01-01 2021-01-31,Maryland,US-MD
+531,,0.0,plandemic,2021-01-01 2021-01-31,Massachusetts,US-MA
+532,,9.0,plandemic,2021-01-01 2021-01-31,Michigan,US-MI
+533,,44.0,plandemic,2021-01-01 2021-01-31,Minnesota,US-MN
+534,,0.0,plandemic,2021-01-01 2021-01-31,Mississippi,US-MS
+535,,15.0,plandemic,2021-01-01 2021-01-31,Missouri,US-MO
+536,,95.0,plandemic,2021-01-01 2021-01-31,Montana,US-MT
+537,,0.0,plandemic,2021-01-01 2021-01-31,Nebraska,US-NE
+538,,0.0,plandemic,2021-01-01 2021-01-31,Nevada,US-NV
+539,,0.0,plandemic,2021-01-01 2021-01-31,New Hampshire,US-NH
+540,,8.0,plandemic,2021-01-01 2021-01-31,New Jersey,US-NJ
+541,,0.0,plandemic,2021-01-01 2021-01-31,New Mexico,US-NM
+542,,17.0,plandemic,2021-01-01 2021-01-31,New York,US-NY
+543,,22.0,plandemic,2021-01-01 2021-01-31,North Carolina,US-NC
+544,,0.0,plandemic,2021-01-01 2021-01-31,North Dakota,US-ND
+545,,20.0,plandemic,2021-01-01 2021-01-31,Ohio,US-OH
+546,,0.0,plandemic,2021-01-01 2021-01-31,Oklahoma,US-OK
+547,,20.0,plandemic,2021-01-01 2021-01-31,Oregon,US-OR
+548,,0.0,plandemic,2021-01-01 2021-01-31,Pennsylvania,US-PA
+549,,0.0,plandemic,2021-01-01 2021-01-31,Rhode Island,US-RI
+550,,18.0,plandemic,2021-01-01 2021-01-31,South Carolina,US-SC
+551,,0.0,plandemic,2021-01-01 2021-01-31,South Dakota,US-SD
+552,,12.0,plandemic,2021-01-01 2021-01-31,Tennessee,US-TN
+553,,13.0,plandemic,2021-01-01 2021-01-31,Texas,US-TX
+554,,26.0,plandemic,2021-01-01 2021-01-31,Utah,US-UT
+555,,0.0,plandemic,2021-01-01 2021-01-31,Vermont,US-VT
+556,,0.0,plandemic,2021-01-01 2021-01-31,Virginia,US-VA
+557,,10.0,plandemic,2021-01-01 2021-01-31,Washington,US-WA
+558,,0.0,plandemic,2021-01-01 2021-01-31,West Virginia,US-WV
+559,,15.0,plandemic,2021-01-01 2021-01-31,Wisconsin,US-WI
+560,,0.0,plandemic,2021-01-01 2021-01-31,Wyoming,US-WY

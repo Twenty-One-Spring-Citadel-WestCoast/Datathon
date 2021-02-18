@@ -1,0 +1,211 @@
+,geocode,trend_index,keyword,date_range,state,geoCode,DMA
+0,,29.0,plandemic,2020-03-01 2021-01-31,,662,Abilene-Sweetwater TX
+1,,15.0,plandemic,2020-03-01 2021-01-31,,525,Albany GA
+2,,46.0,plandemic,2020-03-01 2021-01-31,,532,Albany-Schenectady-Troy NY
+3,,40.0,plandemic,2020-03-01 2021-01-31,,790,Albuquerque-Santa Fe NM
+4,,15.0,plandemic,2020-03-01 2021-01-31,,644,Alexandria LA
+5,,0.0,plandemic,2020-03-01 2021-01-31,,583,Alpena MI
+6,,38.0,plandemic,2020-03-01 2021-01-31,,634,Amarillo TX
+7,,74.0,plandemic,2020-03-01 2021-01-31,,743,Anchorage AK
+8,,34.0,plandemic,2020-03-01 2021-01-31,,524,Atlanta GA
+9,,27.0,plandemic,2020-03-01 2021-01-31,,520,Augusta GA
+10,,55.0,plandemic,2020-03-01 2021-01-31,,635,Austin TX
+11,,36.0,plandemic,2020-03-01 2021-01-31,,800,Bakersfield CA
+12,,39.0,plandemic,2020-03-01 2021-01-31,,512,Baltimore MD
+13,,63.0,plandemic,2020-03-01 2021-01-31,,537,Bangor ME
+14,,33.0,plandemic,2020-03-01 2021-01-31,,716,Baton Rouge LA
+15,,12.0,plandemic,2020-03-01 2021-01-31,,692,Beaumont-Port Arthur TX
+16,,50.0,plandemic,2020-03-01 2021-01-31,,821,Bend OR
+17,,57.0,plandemic,2020-03-01 2021-01-31,,756,"Billings, MT"
+18,,32.0,plandemic,2020-03-01 2021-01-31,,746,Biloxi-Gulfport MS
+19,,22.0,plandemic,2020-03-01 2021-01-31,,502,Binghamton NY
+20,,30.0,plandemic,2020-03-01 2021-01-31,,630,Birmingham AL
+21,,29.0,plandemic,2020-03-01 2021-01-31,,559,Bluefield-Beckley-Oak Hill WV
+22,,50.0,plandemic,2020-03-01 2021-01-31,,757,Boise ID
+23,,44.0,plandemic,2020-03-01 2021-01-31,,506,Boston MA-Manchester NH
+24,,22.0,plandemic,2020-03-01 2021-01-31,,736,Bowling Green KY
+25,,45.0,plandemic,2020-03-01 2021-01-31,,514,Buffalo NY
+26,,62.0,plandemic,2020-03-01 2021-01-31,,523,Burlington VT-Plattsburgh NY
+27,,53.0,plandemic,2020-03-01 2021-01-31,,754,Butte-Bozeman MT
+28,,79.0,plandemic,2020-03-01 2021-01-31,,767,Casper-Riverton WY
+29,,60.0,plandemic,2020-03-01 2021-01-31,,637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
+30,,50.0,plandemic,2020-03-01 2021-01-31,,648,Champaign & Springfield-Decatur IL
+31,,47.0,plandemic,2020-03-01 2021-01-31,,519,Charleston SC
+32,,22.0,plandemic,2020-03-01 2021-01-31,,564,Charleston-Huntington WV
+33,,40.0,plandemic,2020-03-01 2021-01-31,,517,Charlotte NC
+34,,37.0,plandemic,2020-03-01 2021-01-31,,584,Charlottesville VA
+35,,42.0,plandemic,2020-03-01 2021-01-31,,575,Chattanooga TN
+36,,34.0,plandemic,2020-03-01 2021-01-31,,759,Cheyenne WY-Scottsbluff NE
+37,,46.0,plandemic,2020-03-01 2021-01-31,,602,Chicago IL
+38,,61.0,plandemic,2020-03-01 2021-01-31,,868,Chico-Redding CA
+39,,45.0,plandemic,2020-03-01 2021-01-31,,515,Cincinnati OH
+40,,47.0,plandemic,2020-03-01 2021-01-31,,598,Clarksburg-Weston WV
+41,,51.0,plandemic,2020-03-01 2021-01-31,,510,Cleveland-Akron (Canton) OH
+42,,30.0,plandemic,2020-03-01 2021-01-31,,752,Colorado Springs-Pueblo CO
+43,,31.0,plandemic,2020-03-01 2021-01-31,,546,Columbia SC
+44,,33.0,plandemic,2020-03-01 2021-01-31,,604,Columbia-Jefferson City MO
+45,,20.0,plandemic,2020-03-01 2021-01-31,,522,Columbus GA
+46,,48.0,plandemic,2020-03-01 2021-01-31,,535,Columbus OH
+47,,39.0,plandemic,2020-03-01 2021-01-31,,673,Columbus-Tupelo-West Point MS
+48,,17.0,plandemic,2020-03-01 2021-01-31,,600,Corpus Christi TX
+49,,39.0,plandemic,2020-03-01 2021-01-31,,623,Dallas-Ft. Worth TX
+50,,49.0,plandemic,2020-03-01 2021-01-31,,682,Davenport IA-Rock Island-Moline IL
+51,,53.0,plandemic,2020-03-01 2021-01-31,,542,Dayton OH
+52,,56.0,plandemic,2020-03-01 2021-01-31,,751,Denver CO
+53,,72.0,plandemic,2020-03-01 2021-01-31,,679,Des Moines-Ames IA
+54,,54.0,plandemic,2020-03-01 2021-01-31,,505,Detroit MI
+55,,42.0,plandemic,2020-03-01 2021-01-31,,606,Dothan AL
+56,,100.0,plandemic,2020-03-01 2021-01-31,,676,Duluth MN-Superior WI
+57,,21.0,plandemic,2020-03-01 2021-01-31,,765,El Paso TX
+58,,22.0,plandemic,2020-03-01 2021-01-31,,565,Elmira NY
+59,,37.0,plandemic,2020-03-01 2021-01-31,,516,Erie PA
+60,,54.0,plandemic,2020-03-01 2021-01-31,,801,Eugene OR
+61,,58.0,plandemic,2020-03-01 2021-01-31,,802,Eureka CA
+62,,30.0,plandemic,2020-03-01 2021-01-31,,649,Evansville IN
+63,,46.0,plandemic,2020-03-01 2021-01-31,,745,Fairbanks AK
+64,,50.0,plandemic,2020-03-01 2021-01-31,,724,Fargo-Valley City ND
+65,,51.0,plandemic,2020-03-01 2021-01-31,,513,Flint-Saginaw-Bay City MI
+66,,23.0,plandemic,2020-03-01 2021-01-31,,570,Florence-Myrtle Beach SC
+67,,36.0,plandemic,2020-03-01 2021-01-31,,866,Fresno-Visalia CA
+68,,64.0,plandemic,2020-03-01 2021-01-31,,571,Ft. Myers-Naples FL
+69,,65.0,plandemic,2020-03-01 2021-01-31,,670,Ft. Smith-Fayetteville-Springdale-Rogers AR
+70,,53.0,plandemic,2020-03-01 2021-01-31,,509,Ft. Wayne IN
+71,,11.0,plandemic,2020-03-01 2021-01-31,,592,Gainesville FL
+72,,0.0,plandemic,2020-03-01 2021-01-31,,798,Glendive MT
+73,,61.0,plandemic,2020-03-01 2021-01-31,,773,Grand Junction-Montrose CO
+74,,47.0,plandemic,2020-03-01 2021-01-31,,563,Grand Rapids-Kalamazoo-Battle Creek MI
+75,,72.0,plandemic,2020-03-01 2021-01-31,,755,Great Falls MT
+76,,53.0,plandemic,2020-03-01 2021-01-31,,658,Green Bay-Appleton WI
+77,,30.0,plandemic,2020-03-01 2021-01-31,,518,Greensboro-High Point-Winston Salem NC
+78,,55.0,plandemic,2020-03-01 2021-01-31,,545,Greenville-New Bern-Washington NC
+79,,46.0,plandemic,2020-03-01 2021-01-31,,567,Greenville-Spartanburg SC-Asheville NC-Anderson SC
+80,,0.0,plandemic,2020-03-01 2021-01-31,,647,Greenwood-Greenville MS
+81,,10.0,plandemic,2020-03-01 2021-01-31,,636,Harlingen-Weslaco-Brownsville-McAllen TX
+82,,63.0,plandemic,2020-03-01 2021-01-31,,566,Harrisburg-Lancaster-Lebanon-York PA
+83,,68.0,plandemic,2020-03-01 2021-01-31,,569,Harrisonburg VA
+84,,34.0,plandemic,2020-03-01 2021-01-31,,533,Hartford & New Haven CT
+85,,0.0,plandemic,2020-03-01 2021-01-31,,710,Hattiesburg-Laurel MS
+86,,60.0,plandemic,2020-03-01 2021-01-31,,766,Helena MT
+87,,31.0,plandemic,2020-03-01 2021-01-31,,744,Honolulu HI
+88,,29.0,plandemic,2020-03-01 2021-01-31,,618,Houston TX
+89,,58.0,plandemic,2020-03-01 2021-01-31,,691,Huntsville-Decatur (Florence) AL
+90,,63.0,plandemic,2020-03-01 2021-01-31,,758,Idaho Falls-Pocatello ID
+91,,46.0,plandemic,2020-03-01 2021-01-31,,527,Indianapolis IN
+92,,25.0,plandemic,2020-03-01 2021-01-31,,718,Jackson MS
+93,,23.0,plandemic,2020-03-01 2021-01-31,,639,Jackson TN
+94,,34.0,plandemic,2020-03-01 2021-01-31,,561,Jacksonville FL
+95,,51.0,plandemic,2020-03-01 2021-01-31,,574,Johnstown-Altoona PA
+96,,41.0,plandemic,2020-03-01 2021-01-31,,734,Jonesboro AR
+97,,31.0,plandemic,2020-03-01 2021-01-31,,603,Joplin MO-Pittsburg KS
+98,,83.0,plandemic,2020-03-01 2021-01-31,,747,Juneau AK
+99,,55.0,plandemic,2020-03-01 2021-01-31,,616,Kansas City MO
+100,,49.0,plandemic,2020-03-01 2021-01-31,,557,Knoxville TN
+101,,37.0,plandemic,2020-03-01 2021-01-31,,702,La Crosse-Eau Claire WI
+102,,0.0,plandemic,2020-03-01 2021-01-31,,582,Lafayette IN
+103,,9.0,plandemic,2020-03-01 2021-01-31,,642,Lafayette LA
+104,,70.0,plandemic,2020-03-01 2021-01-31,,643,Lake Charles LA
+105,,60.0,plandemic,2020-03-01 2021-01-31,,551,Lansing MI
+106,,0.0,plandemic,2020-03-01 2021-01-31,,749,Laredo TX
+107,,43.0,plandemic,2020-03-01 2021-01-31,,839,Las Vegas NV
+108,,42.0,plandemic,2020-03-01 2021-01-31,,541,Lexington KY
+109,,53.0,plandemic,2020-03-01 2021-01-31,,558,Lima OH
+110,,60.0,plandemic,2020-03-01 2021-01-31,,722,Lincoln & Hastings-Kearney NE
+111,,38.0,plandemic,2020-03-01 2021-01-31,,693,Little Rock-Pine Bluff AR
+112,,45.0,plandemic,2020-03-01 2021-01-31,,803,Los Angeles CA
+113,,45.0,plandemic,2020-03-01 2021-01-31,,529,Louisville KY
+114,,27.0,plandemic,2020-03-01 2021-01-31,,651,Lubbock TX
+115,,16.0,plandemic,2020-03-01 2021-01-31,,503,Macon GA
+116,,47.0,plandemic,2020-03-01 2021-01-31,,669,Madison WI
+117,,51.0,plandemic,2020-03-01 2021-01-31,,737,Mankato MN
+118,,49.0,plandemic,2020-03-01 2021-01-31,,553,Marquette MI
+119,,62.0,plandemic,2020-03-01 2021-01-31,,813,Medford-Klamath Falls OR
+120,,32.0,plandemic,2020-03-01 2021-01-31,,640,Memphis TN
+121,,0.0,plandemic,2020-03-01 2021-01-31,,711,Meridian MS
+122,,23.0,plandemic,2020-03-01 2021-01-31,,528,Miami-Ft. Lauderdale FL
+123,,51.0,plandemic,2020-03-01 2021-01-31,,617,Milwaukee WI
+124,,67.0,plandemic,2020-03-01 2021-01-31,,613,Minneapolis-St. Paul MN
+125,,50.0,plandemic,2020-03-01 2021-01-31,,687,Minot-Bismarck-Dickinson(Williston) ND
+126,,93.0,plandemic,2020-03-01 2021-01-31,,762,Missoula MT
+127,,27.0,plandemic,2020-03-01 2021-01-31,,686,Mobile AL-Pensacola (Ft. Walton Beach) FL
+128,,15.0,plandemic,2020-03-01 2021-01-31,,628,Monroe LA-El Dorado AR
+129,,48.0,plandemic,2020-03-01 2021-01-31,,828,Monterey-Salinas CA
+130,,17.0,plandemic,2020-03-01 2021-01-31,,698,Montgomery (Selma) AL
+131,,50.0,plandemic,2020-03-01 2021-01-31,,659,Nashville TN
+132,,38.0,plandemic,2020-03-01 2021-01-31,,622,New Orleans LA
+133,,40.0,plandemic,2020-03-01 2021-01-31,,501,New York NY
+134,,39.0,plandemic,2020-03-01 2021-01-31,,544,Norfolk-Portsmouth-Newport News VA
+135,,0.0,plandemic,2020-03-01 2021-01-31,,740,North Platte NE
+136,,65.0,plandemic,2020-03-01 2021-01-31,,633,Odessa-Midland TX
+137,,40.0,plandemic,2020-03-01 2021-01-31,,650,Oklahoma City OK
+138,,67.0,plandemic,2020-03-01 2021-01-31,,652,Omaha NE
+139,,31.0,plandemic,2020-03-01 2021-01-31,,534,Orlando-Daytona Beach-Melbourne FL
+140,,26.0,plandemic,2020-03-01 2021-01-31,,631,Ottumwa IA-Kirksville MO
+141,,39.0,plandemic,2020-03-01 2021-01-31,,632,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
+142,,43.0,plandemic,2020-03-01 2021-01-31,,804,Palm Springs CA
+143,,31.0,plandemic,2020-03-01 2021-01-31,,656,Panama City FL
+144,,19.0,plandemic,2020-03-01 2021-01-31,,597,Parkersburg WV
+145,,33.0,plandemic,2020-03-01 2021-01-31,,675,Peoria-Bloomington IL
+146,,51.0,plandemic,2020-03-01 2021-01-31,,504,Philadelphia PA
+147,,47.0,plandemic,2020-03-01 2021-01-31,,753,Phoenix AZ
+148,,65.0,plandemic,2020-03-01 2021-01-31,,508,Pittsburgh PA
+149,,57.0,plandemic,2020-03-01 2021-01-31,,820,Portland OR
+150,,60.0,plandemic,2020-03-01 2021-01-31,,500,Portland-Auburn ME
+151,,96.0,plandemic,2020-03-01 2021-01-31,,552,Presque Isle ME
+152,,43.0,plandemic,2020-03-01 2021-01-31,,521,Providence RI-New Bedford MA
+153,,59.0,plandemic,2020-03-01 2021-01-31,,717,Quincy IL-Hannibal MO-Keokuk IA
+154,,41.0,plandemic,2020-03-01 2021-01-31,,560,Raleigh-Durham (Fayetteville) NC
+155,,59.0,plandemic,2020-03-01 2021-01-31,,764,Rapid City SD
+156,,46.0,plandemic,2020-03-01 2021-01-31,,811,Reno NV
+157,,37.0,plandemic,2020-03-01 2021-01-31,,556,Richmond-Petersburg VA
+158,,40.0,plandemic,2020-03-01 2021-01-31,,573,Roanoke-Lynchburg VA
+159,,85.0,plandemic,2020-03-01 2021-01-31,,611,Rochester MN-Mason City IA-Austin MN
+160,,57.0,plandemic,2020-03-01 2021-01-31,,538,Rochester NY
+161,,55.0,plandemic,2020-03-01 2021-01-31,,610,Rockford IL
+162,,51.0,plandemic,2020-03-01 2021-01-31,,862,Sacramento-Stockton-Modesto CA
+163,,33.0,plandemic,2020-03-01 2021-01-31,,576,Salisbury MD
+164,,55.0,plandemic,2020-03-01 2021-01-31,,770,Salt Lake City UT
+165,,14.0,plandemic,2020-03-01 2021-01-31,,661,San Angelo TX
+166,,31.0,plandemic,2020-03-01 2021-01-31,,641,San Antonio TX
+167,,54.0,plandemic,2020-03-01 2021-01-31,,825,San Diego CA
+168,,40.0,plandemic,2020-03-01 2021-01-31,,807,San Francisco-Oakland-San Jose CA
+169,,73.0,plandemic,2020-03-01 2021-01-31,,855,Santa Barbara-Santa Maria-San Luis Obispo CA
+170,,30.0,plandemic,2020-03-01 2021-01-31,,507,Savannah GA
+171,,60.0,plandemic,2020-03-01 2021-01-31,,819,Seattle-Tacoma WA
+172,,18.0,plandemic,2020-03-01 2021-01-31,,657,Sherman TX-Ada OK
+173,,49.0,plandemic,2020-03-01 2021-01-31,,612,Shreveport LA
+174,,65.0,plandemic,2020-03-01 2021-01-31,,624,Sioux City IA
+175,,52.0,plandemic,2020-03-01 2021-01-31,,725,Sioux Falls(Mitchell) SD
+176,,37.0,plandemic,2020-03-01 2021-01-31,,588,South Bend-Elkhart IN
+177,,51.0,plandemic,2020-03-01 2021-01-31,,881,Spokane WA
+178,,44.0,plandemic,2020-03-01 2021-01-31,,619,Springfield MO
+179,,45.0,plandemic,2020-03-01 2021-01-31,,543,Springfield-Holyoke MA
+180,,49.0,plandemic,2020-03-01 2021-01-31,,638,St. Joseph MO
+181,,55.0,plandemic,2020-03-01 2021-01-31,,609,St. Louis MO
+182,,42.0,plandemic,2020-03-01 2021-01-31,,555,Syracuse NY
+183,,19.0,plandemic,2020-03-01 2021-01-31,,530,Tallahassee FL-Thomasville GA
+184,,38.0,plandemic,2020-03-01 2021-01-31,,539,Tampa-St. Petersburg (Sarasota) FL
+185,,25.0,plandemic,2020-03-01 2021-01-31,,581,Terre Haute IN
+186,,39.0,plandemic,2020-03-01 2021-01-31,,547,Toledo OH
+187,,71.0,plandemic,2020-03-01 2021-01-31,,605,Topeka KS
+188,,55.0,plandemic,2020-03-01 2021-01-31,,540,Traverse City-Cadillac MI
+189,,41.0,plandemic,2020-03-01 2021-01-31,,531,Tri-Cities TN-VA
+190,,42.0,plandemic,2020-03-01 2021-01-31,,789,Tucson (Sierra Vista) AZ
+191,,27.0,plandemic,2020-03-01 2021-01-31,,671,Tulsa OK
+192,,72.0,plandemic,2020-03-01 2021-01-31,,760,Twin Falls ID
+193,,35.0,plandemic,2020-03-01 2021-01-31,,709,Tyler-Longview(Lufkin & Nacogdoches) TX
+194,,39.0,plandemic,2020-03-01 2021-01-31,,526,Utica NY
+195,,91.0,plandemic,2020-03-01 2021-01-31,,626,Victoria TX
+196,,23.0,plandemic,2020-03-01 2021-01-31,,625,Waco-Temple-Bryan TX
+197,,46.0,plandemic,2020-03-01 2021-01-31,,511,Washington DC (Hagerstown MD)
+198,,21.0,plandemic,2020-03-01 2021-01-31,,549,Watertown NY
+199,,62.0,plandemic,2020-03-01 2021-01-31,,705,Wausau-Rhinelander WI
+200,,37.0,plandemic,2020-03-01 2021-01-31,,548,West Palm Beach-Ft. Pierce FL
+201,,28.0,plandemic,2020-03-01 2021-01-31,,554,Wheeling WV-Steubenville OH
+202,,20.0,plandemic,2020-03-01 2021-01-31,,627,Wichita Falls TX & Lawton OK
+203,,44.0,plandemic,2020-03-01 2021-01-31,,678,Wichita-Hutchinson KS
+204,,42.0,plandemic,2020-03-01 2021-01-31,,577,Wilkes Barre-Scranton PA
+205,,53.0,plandemic,2020-03-01 2021-01-31,,550,Wilmington NC
+206,,53.0,plandemic,2020-03-01 2021-01-31,,810,Yakima-Pasco-Richland-Kennewick WA
+207,,22.0,plandemic,2020-03-01 2021-01-31,,536,Youngstown OH
+208,,29.0,plandemic,2020-03-01 2021-01-31,,771,Yuma AZ-El Centro CA
+209,,32.0,plandemic,2020-03-01 2021-01-31,,596,Zanesville OH
