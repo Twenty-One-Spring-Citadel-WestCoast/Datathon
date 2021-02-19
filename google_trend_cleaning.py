@@ -106,6 +106,7 @@ for kw in kws:
         [data_all_time_DMA_transformed, data_all_time_DMA[kw]],
         ignore_index=True,
     )
+
 data_all_time_state_transformed = data_all_time_state_transformed.drop(
     ["geocode", "geoCode"], axis=1
 )

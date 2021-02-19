@@ -24,4 +24,4 @@ daily_df = pd.merge(daily_df, US_response, on=["state", "date"], how="left")
 
 # Aggregate data
 
-daily_df.to_csv("data/cleaned/US_daily_cleaned.csv")
+daily_df.to_csv("data/cleaned/daily_df.csv")

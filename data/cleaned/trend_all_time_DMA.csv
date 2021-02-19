@@ -1,1051 +1,211 @@
-,geocode,trend_index,keyword,date_range,state,geoCode,DMA
-0,,52.0,plandemic,2020-03-01 2021-01-31,,662,Abilene-Sweetwater TX
-1,,21.0,plandemic,2020-03-01 2021-01-31,,525,Albany GA
-2,,49.0,plandemic,2020-03-01 2021-01-31,,532,Albany-Schenectady-Troy NY
-3,,28.0,plandemic,2020-03-01 2021-01-31,,790,Albuquerque-Santa Fe NM
-4,,14.0,plandemic,2020-03-01 2021-01-31,,644,Alexandria LA
-5,,0.0,plandemic,2020-03-01 2021-01-31,,583,Alpena MI
-6,,25.0,plandemic,2020-03-01 2021-01-31,,634,Amarillo TX
-7,,64.0,plandemic,2020-03-01 2021-01-31,,743,Anchorage AK
-8,,36.0,plandemic,2020-03-01 2021-01-31,,524,Atlanta GA
-9,,41.0,plandemic,2020-03-01 2021-01-31,,520,Augusta GA
-10,,54.0,plandemic,2020-03-01 2021-01-31,,635,Austin TX
-11,,24.0,plandemic,2020-03-01 2021-01-31,,800,Bakersfield CA
-12,,41.0,plandemic,2020-03-01 2021-01-31,,512,Baltimore MD
-13,,45.0,plandemic,2020-03-01 2021-01-31,,537,Bangor ME
-14,,23.0,plandemic,2020-03-01 2021-01-31,,716,Baton Rouge LA
-15,,23.0,plandemic,2020-03-01 2021-01-31,,692,Beaumont-Port Arthur TX
-16,,46.0,plandemic,2020-03-01 2021-01-31,,821,Bend OR
-17,,26.0,plandemic,2020-03-01 2021-01-31,,756,"Billings, MT"
-18,,35.0,plandemic,2020-03-01 2021-01-31,,746,Biloxi-Gulfport MS
-19,,27.0,plandemic,2020-03-01 2021-01-31,,502,Binghamton NY
-20,,34.0,plandemic,2020-03-01 2021-01-31,,630,Birmingham AL
-21,,9.0,plandemic,2020-03-01 2021-01-31,,559,Bluefield-Beckley-Oak Hill WV
-22,,51.0,plandemic,2020-03-01 2021-01-31,,757,Boise ID
-23,,40.0,plandemic,2020-03-01 2021-01-31,,506,Boston MA-Manchester NH
-24,,20.0,plandemic,2020-03-01 2021-01-31,,736,Bowling Green KY
-25,,34.0,plandemic,2020-03-01 2021-01-31,,514,Buffalo NY
-26,,57.0,plandemic,2020-03-01 2021-01-31,,523,Burlington VT-Plattsburgh NY
-27,,48.0,plandemic,2020-03-01 2021-01-31,,754,Butte-Bozeman MT
-28,,0.0,plandemic,2020-03-01 2021-01-31,,767,Casper-Riverton WY
-29,,54.0,plandemic,2020-03-01 2021-01-31,,637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
-30,,29.0,plandemic,2020-03-01 2021-01-31,,648,Champaign & Springfield-Decatur IL
-31,,35.0,plandemic,2020-03-01 2021-01-31,,519,Charleston SC
-32,,28.0,plandemic,2020-03-01 2021-01-31,,564,Charleston-Huntington WV
-33,,35.0,plandemic,2020-03-01 2021-01-31,,517,Charlotte NC
-34,,50.0,plandemic,2020-03-01 2021-01-31,,584,Charlottesville VA
-35,,48.0,plandemic,2020-03-01 2021-01-31,,575,Chattanooga TN
-36,,47.0,plandemic,2020-03-01 2021-01-31,,759,Cheyenne WY-Scottsbluff NE
-37,,42.0,plandemic,2020-03-01 2021-01-31,,602,Chicago IL
-38,,28.0,plandemic,2020-03-01 2021-01-31,,868,Chico-Redding CA
-39,,50.0,plandemic,2020-03-01 2021-01-31,,515,Cincinnati OH
-40,,11.0,plandemic,2020-03-01 2021-01-31,,598,Clarksburg-Weston WV
-41,,54.0,plandemic,2020-03-01 2021-01-31,,510,Cleveland-Akron (Canton) OH
-42,,45.0,plandemic,2020-03-01 2021-01-31,,752,Colorado Springs-Pueblo CO
-43,,21.0,plandemic,2020-03-01 2021-01-31,,546,Columbia SC
-44,,46.0,plandemic,2020-03-01 2021-01-31,,604,Columbia-Jefferson City MO
-45,,22.0,plandemic,2020-03-01 2021-01-31,,522,Columbus GA
-46,,48.0,plandemic,2020-03-01 2021-01-31,,535,Columbus OH
-47,,21.0,plandemic,2020-03-01 2021-01-31,,673,Columbus-Tupelo-West Point MS
-48,,23.0,plandemic,2020-03-01 2021-01-31,,600,Corpus Christi TX
-49,,37.0,plandemic,2020-03-01 2021-01-31,,623,Dallas-Ft. Worth TX
-50,,52.0,plandemic,2020-03-01 2021-01-31,,682,Davenport IA-Rock Island-Moline IL
-51,,45.0,plandemic,2020-03-01 2021-01-31,,542,Dayton OH
-52,,52.0,plandemic,2020-03-01 2021-01-31,,751,Denver CO
-53,,62.0,plandemic,2020-03-01 2021-01-31,,679,Des Moines-Ames IA
-54,,52.0,plandemic,2020-03-01 2021-01-31,,505,Detroit MI
-55,,29.0,plandemic,2020-03-01 2021-01-31,,606,Dothan AL
-56,,81.0,plandemic,2020-03-01 2021-01-31,,676,Duluth MN-Superior WI
-57,,15.0,plandemic,2020-03-01 2021-01-31,,765,El Paso TX
-58,,51.0,plandemic,2020-03-01 2021-01-31,,565,Elmira NY
-59,,23.0,plandemic,2020-03-01 2021-01-31,,516,Erie PA
-60,,40.0,plandemic,2020-03-01 2021-01-31,,801,Eugene OR
-61,,13.0,plandemic,2020-03-01 2021-01-31,,802,Eureka CA
-62,,45.0,plandemic,2020-03-01 2021-01-31,,649,Evansville IN
-63,,64.0,plandemic,2020-03-01 2021-01-31,,745,Fairbanks AK
-64,,53.0,plandemic,2020-03-01 2021-01-31,,724,Fargo-Valley City ND
-65,,37.0,plandemic,2020-03-01 2021-01-31,,513,Flint-Saginaw-Bay City MI
-66,,3.0,plandemic,2020-03-01 2021-01-31,,570,Florence-Myrtle Beach SC
-67,,36.0,plandemic,2020-03-01 2021-01-31,,866,Fresno-Visalia CA
-68,,46.0,plandemic,2020-03-01 2021-01-31,,571,Ft. Myers-Naples FL
-69,,44.0,plandemic,2020-03-01 2021-01-31,,670,Ft. Smith-Fayetteville-Springdale-Rogers AR
-70,,52.0,plandemic,2020-03-01 2021-01-31,,509,Ft. Wayne IN
-71,,16.0,plandemic,2020-03-01 2021-01-31,,592,Gainesville FL
-72,,0.0,plandemic,2020-03-01 2021-01-31,,798,Glendive MT
-73,,45.0,plandemic,2020-03-01 2021-01-31,,773,Grand Junction-Montrose CO
-74,,53.0,plandemic,2020-03-01 2021-01-31,,563,Grand Rapids-Kalamazoo-Battle Creek MI
-75,,83.0,plandemic,2020-03-01 2021-01-31,,755,Great Falls MT
-76,,43.0,plandemic,2020-03-01 2021-01-31,,658,Green Bay-Appleton WI
-77,,41.0,plandemic,2020-03-01 2021-01-31,,518,Greensboro-High Point-Winston Salem NC
-78,,51.0,plandemic,2020-03-01 2021-01-31,,545,Greenville-New Bern-Washington NC
-79,,40.0,plandemic,2020-03-01 2021-01-31,,567,Greenville-Spartanburg SC-Asheville NC-Anderson SC
-80,,0.0,plandemic,2020-03-01 2021-01-31,,647,Greenwood-Greenville MS
-81,,9.0,plandemic,2020-03-01 2021-01-31,,636,Harlingen-Weslaco-Brownsville-McAllen TX
-82,,62.0,plandemic,2020-03-01 2021-01-31,,566,Harrisburg-Lancaster-Lebanon-York PA
-83,,72.0,plandemic,2020-03-01 2021-01-31,,569,Harrisonburg VA
-84,,32.0,plandemic,2020-03-01 2021-01-31,,533,Hartford & New Haven CT
-85,,10.0,plandemic,2020-03-01 2021-01-31,,710,Hattiesburg-Laurel MS
-86,,56.0,plandemic,2020-03-01 2021-01-31,,766,Helena MT
-87,,45.0,plandemic,2020-03-01 2021-01-31,,744,Honolulu HI
-88,,27.0,plandemic,2020-03-01 2021-01-31,,618,Houston TX
-89,,60.0,plandemic,2020-03-01 2021-01-31,,691,Huntsville-Decatur (Florence) AL
-90,,47.0,plandemic,2020-03-01 2021-01-31,,758,Idaho Falls-Pocatello ID
-91,,36.0,plandemic,2020-03-01 2021-01-31,,527,Indianapolis IN
-92,,23.0,plandemic,2020-03-01 2021-01-31,,718,Jackson MS
-93,,11.0,plandemic,2020-03-01 2021-01-31,,639,Jackson TN
-94,,34.0,plandemic,2020-03-01 2021-01-31,,561,Jacksonville FL
-95,,47.0,plandemic,2020-03-01 2021-01-31,,574,Johnstown-Altoona PA
-96,,61.0,plandemic,2020-03-01 2021-01-31,,734,Jonesboro AR
-97,,29.0,plandemic,2020-03-01 2021-01-31,,603,Joplin MO-Pittsburg KS
-98,,76.0,plandemic,2020-03-01 2021-01-31,,747,Juneau AK
-99,,53.0,plandemic,2020-03-01 2021-01-31,,616,Kansas City MO
-100,,43.0,plandemic,2020-03-01 2021-01-31,,557,Knoxville TN
-101,,34.0,plandemic,2020-03-01 2021-01-31,,702,La Crosse-Eau Claire WI
-102,,14.0,plandemic,2020-03-01 2021-01-31,,582,Lafayette IN
-103,,17.0,plandemic,2020-03-01 2021-01-31,,642,Lafayette LA
-104,,11.0,plandemic,2020-03-01 2021-01-31,,643,Lake Charles LA
-105,,39.0,plandemic,2020-03-01 2021-01-31,,551,Lansing MI
-106,,8.0,plandemic,2020-03-01 2021-01-31,,749,Laredo TX
-107,,40.0,plandemic,2020-03-01 2021-01-31,,839,Las Vegas NV
-108,,45.0,plandemic,2020-03-01 2021-01-31,,541,Lexington KY
-109,,65.0,plandemic,2020-03-01 2021-01-31,,558,Lima OH
-110,,78.0,plandemic,2020-03-01 2021-01-31,,722,Lincoln & Hastings-Kearney NE
-111,,34.0,plandemic,2020-03-01 2021-01-31,,693,Little Rock-Pine Bluff AR
-112,,40.0,plandemic,2020-03-01 2021-01-31,,803,Los Angeles CA
-113,,34.0,plandemic,2020-03-01 2021-01-31,,529,Louisville KY
-114,,26.0,plandemic,2020-03-01 2021-01-31,,651,Lubbock TX
-115,,26.0,plandemic,2020-03-01 2021-01-31,,503,Macon GA
-116,,58.0,plandemic,2020-03-01 2021-01-31,,669,Madison WI
-117,,95.0,plandemic,2020-03-01 2021-01-31,,737,Mankato MN
-118,,57.0,plandemic,2020-03-01 2021-01-31,,553,Marquette MI
-119,,43.0,plandemic,2020-03-01 2021-01-31,,813,Medford-Klamath Falls OR
-120,,16.0,plandemic,2020-03-01 2021-01-31,,640,Memphis TN
-121,,21.0,plandemic,2020-03-01 2021-01-31,,711,Meridian MS
-122,,25.0,plandemic,2020-03-01 2021-01-31,,528,Miami-Ft. Lauderdale FL
-123,,41.0,plandemic,2020-03-01 2021-01-31,,617,Milwaukee WI
-124,,56.0,plandemic,2020-03-01 2021-01-31,,613,Minneapolis-St. Paul MN
-125,,40.0,plandemic,2020-03-01 2021-01-31,,687,Minot-Bismarck-Dickinson(Williston) ND
-126,,100.0,plandemic,2020-03-01 2021-01-31,,762,Missoula MT
-127,,36.0,plandemic,2020-03-01 2021-01-31,,686,Mobile AL-Pensacola (Ft. Walton Beach) FL
-128,,34.0,plandemic,2020-03-01 2021-01-31,,628,Monroe LA-El Dorado AR
-129,,35.0,plandemic,2020-03-01 2021-01-31,,828,Monterey-Salinas CA
-130,,28.0,plandemic,2020-03-01 2021-01-31,,698,Montgomery (Selma) AL
-131,,45.0,plandemic,2020-03-01 2021-01-31,,659,Nashville TN
-132,,36.0,plandemic,2020-03-01 2021-01-31,,622,New Orleans LA
-133,,36.0,plandemic,2020-03-01 2021-01-31,,501,New York NY
-134,,35.0,plandemic,2020-03-01 2021-01-31,,544,Norfolk-Portsmouth-Newport News VA
-135,,0.0,plandemic,2020-03-01 2021-01-31,,740,North Platte NE
-136,,40.0,plandemic,2020-03-01 2021-01-31,,633,Odessa-Midland TX
-137,,35.0,plandemic,2020-03-01 2021-01-31,,650,Oklahoma City OK
-138,,52.0,plandemic,2020-03-01 2021-01-31,,652,Omaha NE
-139,,32.0,plandemic,2020-03-01 2021-01-31,,534,Orlando-Daytona Beach-Melbourne FL
-140,,48.0,plandemic,2020-03-01 2021-01-31,,631,Ottumwa IA-Kirksville MO
-141,,36.0,plandemic,2020-03-01 2021-01-31,,632,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
-142,,29.0,plandemic,2020-03-01 2021-01-31,,804,Palm Springs CA
-143,,51.0,plandemic,2020-03-01 2021-01-31,,656,Panama City FL
-144,,17.0,plandemic,2020-03-01 2021-01-31,,597,Parkersburg WV
-145,,40.0,plandemic,2020-03-01 2021-01-31,,675,Peoria-Bloomington IL
-146,,48.0,plandemic,2020-03-01 2021-01-31,,504,Philadelphia PA
-147,,44.0,plandemic,2020-03-01 2021-01-31,,753,Phoenix AZ
-148,,51.0,plandemic,2020-03-01 2021-01-31,,508,Pittsburgh PA
-149,,56.0,plandemic,2020-03-01 2021-01-31,,820,Portland OR
-150,,53.0,plandemic,2020-03-01 2021-01-31,,500,Portland-Auburn ME
-151,,0.0,plandemic,2020-03-01 2021-01-31,,552,Presque Isle ME
-152,,33.0,plandemic,2020-03-01 2021-01-31,,521,Providence RI-New Bedford MA
-153,,44.0,plandemic,2020-03-01 2021-01-31,,717,Quincy IL-Hannibal MO-Keokuk IA
-154,,42.0,plandemic,2020-03-01 2021-01-31,,560,Raleigh-Durham (Fayetteville) NC
-155,,37.0,plandemic,2020-03-01 2021-01-31,,764,Rapid City SD
-156,,47.0,plandemic,2020-03-01 2021-01-31,,811,Reno NV
-157,,41.0,plandemic,2020-03-01 2021-01-31,,556,Richmond-Petersburg VA
-158,,33.0,plandemic,2020-03-01 2021-01-31,,573,Roanoke-Lynchburg VA
-159,,39.0,plandemic,2020-03-01 2021-01-31,,611,Rochester MN-Mason City IA-Austin MN
-160,,63.0,plandemic,2020-03-01 2021-01-31,,538,Rochester NY
-161,,28.0,plandemic,2020-03-01 2021-01-31,,610,Rockford IL
-162,,42.0,plandemic,2020-03-01 2021-01-31,,862,Sacramento-Stockton-Modesto CA
-163,,30.0,plandemic,2020-03-01 2021-01-31,,576,Salisbury MD
-164,,58.0,plandemic,2020-03-01 2021-01-31,,770,Salt Lake City UT
-165,,13.0,plandemic,2020-03-01 2021-01-31,,661,San Angelo TX
-166,,31.0,plandemic,2020-03-01 2021-01-31,,641,San Antonio TX
-167,,45.0,plandemic,2020-03-01 2021-01-31,,825,San Diego CA
-168,,36.0,plandemic,2020-03-01 2021-01-31,,807,San Francisco-Oakland-San Jose CA
-169,,59.0,plandemic,2020-03-01 2021-01-31,,855,Santa Barbara-Santa Maria-San Luis Obispo CA
-170,,34.0,plandemic,2020-03-01 2021-01-31,,507,Savannah GA
-171,,51.0,plandemic,2020-03-01 2021-01-31,,819,Seattle-Tacoma WA
-172,,25.0,plandemic,2020-03-01 2021-01-31,,657,Sherman TX-Ada OK
-173,,37.0,plandemic,2020-03-01 2021-01-31,,612,Shreveport LA
-174,,46.0,plandemic,2020-03-01 2021-01-31,,624,Sioux City IA
-175,,66.0,plandemic,2020-03-01 2021-01-31,,725,Sioux Falls(Mitchell) SD
-176,,39.0,plandemic,2020-03-01 2021-01-31,,588,South Bend-Elkhart IN
-177,,70.0,plandemic,2020-03-01 2021-01-31,,881,Spokane WA
-178,,38.0,plandemic,2020-03-01 2021-01-31,,619,Springfield MO
-179,,28.0,plandemic,2020-03-01 2021-01-31,,543,Springfield-Holyoke MA
-180,,45.0,plandemic,2020-03-01 2021-01-31,,638,St. Joseph MO
-181,,40.0,plandemic,2020-03-01 2021-01-31,,609,St. Louis MO
-182,,35.0,plandemic,2020-03-01 2021-01-31,,555,Syracuse NY
-183,,30.0,plandemic,2020-03-01 2021-01-31,,530,Tallahassee FL-Thomasville GA
-184,,39.0,plandemic,2020-03-01 2021-01-31,,539,Tampa-St. Petersburg (Sarasota) FL
-185,,23.0,plandemic,2020-03-01 2021-01-31,,581,Terre Haute IN
-186,,32.0,plandemic,2020-03-01 2021-01-31,,547,Toledo OH
-187,,76.0,plandemic,2020-03-01 2021-01-31,,605,Topeka KS
-188,,88.0,plandemic,2020-03-01 2021-01-31,,540,Traverse City-Cadillac MI
-189,,38.0,plandemic,2020-03-01 2021-01-31,,531,Tri-Cities TN-VA
-190,,52.0,plandemic,2020-03-01 2021-01-31,,789,Tucson (Sierra Vista) AZ
-191,,25.0,plandemic,2020-03-01 2021-01-31,,671,Tulsa OK
-192,,79.0,plandemic,2020-03-01 2021-01-31,,760,Twin Falls ID
-193,,14.0,plandemic,2020-03-01 2021-01-31,,709,Tyler-Longview(Lufkin & Nacogdoches) TX
-194,,81.0,plandemic,2020-03-01 2021-01-31,,526,Utica NY
-195,,28.0,plandemic,2020-03-01 2021-01-31,,626,Victoria TX
-196,,20.0,plandemic,2020-03-01 2021-01-31,,625,Waco-Temple-Bryan TX
-197,,37.0,plandemic,2020-03-01 2021-01-31,,511,Washington DC (Hagerstown MD)
-198,,19.0,plandemic,2020-03-01 2021-01-31,,549,Watertown NY
-199,,42.0,plandemic,2020-03-01 2021-01-31,,705,Wausau-Rhinelander WI
-200,,37.0,plandemic,2020-03-01 2021-01-31,,548,West Palm Beach-Ft. Pierce FL
-201,,43.0,plandemic,2020-03-01 2021-01-31,,554,Wheeling WV-Steubenville OH
-202,,12.0,plandemic,2020-03-01 2021-01-31,,627,Wichita Falls TX & Lawton OK
-203,,41.0,plandemic,2020-03-01 2021-01-31,,678,Wichita-Hutchinson KS
-204,,43.0,plandemic,2020-03-01 2021-01-31,,577,Wilkes Barre-Scranton PA
-205,,30.0,plandemic,2020-03-01 2021-01-31,,550,Wilmington NC
-206,,61.0,plandemic,2020-03-01 2021-01-31,,810,Yakima-Pasco-Richland-Kennewick WA
-207,,37.0,plandemic,2020-03-01 2021-01-31,,536,Youngstown OH
-208,,7.0,plandemic,2020-03-01 2021-01-31,,771,Yuma AZ-El Centro CA
-209,,0.0,plandemic,2020-03-01 2021-01-31,,596,Zanesville OH
-210,,0.0,covid hoax,2020-03-01 2021-01-31,,662,Abilene-Sweetwater TX
-211,,0.0,covid hoax,2020-03-01 2021-01-31,,525,Albany GA
-212,,19.0,covid hoax,2020-03-01 2021-01-31,,532,Albany-Schenectady-Troy NY
-213,,96.0,covid hoax,2020-03-01 2021-01-31,,790,Albuquerque-Santa Fe NM
-214,,0.0,covid hoax,2020-03-01 2021-01-31,,644,Alexandria LA
-215,,0.0,covid hoax,2020-03-01 2021-01-31,,583,Alpena MI
-216,,0.0,covid hoax,2020-03-01 2021-01-31,,634,Amarillo TX
-217,,0.0,covid hoax,2020-03-01 2021-01-31,,743,Anchorage AK
-218,,50.0,covid hoax,2020-03-01 2021-01-31,,524,Atlanta GA
-219,,0.0,covid hoax,2020-03-01 2021-01-31,,520,Augusta GA
-220,,78.0,covid hoax,2020-03-01 2021-01-31,,635,Austin TX
-221,,0.0,covid hoax,2020-03-01 2021-01-31,,800,Bakersfield CA
-222,,48.0,covid hoax,2020-03-01 2021-01-31,,512,Baltimore MD
-223,,0.0,covid hoax,2020-03-01 2021-01-31,,537,Bangor ME
-224,,0.0,covid hoax,2020-03-01 2021-01-31,,716,Baton Rouge LA
-225,,0.0,covid hoax,2020-03-01 2021-01-31,,692,Beaumont-Port Arthur TX
-226,,0.0,covid hoax,2020-03-01 2021-01-31,,821,Bend OR
-227,,0.0,covid hoax,2020-03-01 2021-01-31,,756,"Billings, MT"
-228,,0.0,covid hoax,2020-03-01 2021-01-31,,746,Biloxi-Gulfport MS
-229,,0.0,covid hoax,2020-03-01 2021-01-31,,502,Binghamton NY
-230,,43.0,covid hoax,2020-03-01 2021-01-31,,630,Birmingham AL
-231,,0.0,covid hoax,2020-03-01 2021-01-31,,559,Bluefield-Beckley-Oak Hill WV
-232,,50.0,covid hoax,2020-03-01 2021-01-31,,757,Boise ID
-233,,46.0,covid hoax,2020-03-01 2021-01-31,,506,Boston MA-Manchester NH
-234,,0.0,covid hoax,2020-03-01 2021-01-31,,736,Bowling Green KY
-235,,66.0,covid hoax,2020-03-01 2021-01-31,,514,Buffalo NY
-236,,89.0,covid hoax,2020-03-01 2021-01-31,,523,Burlington VT-Plattsburgh NY
-237,,0.0,covid hoax,2020-03-01 2021-01-31,,754,Butte-Bozeman MT
-238,,0.0,covid hoax,2020-03-01 2021-01-31,,767,Casper-Riverton WY
-239,,71.0,covid hoax,2020-03-01 2021-01-31,,637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
-240,,0.0,covid hoax,2020-03-01 2021-01-31,,648,Champaign & Springfield-Decatur IL
-241,,0.0,covid hoax,2020-03-01 2021-01-31,,519,Charleston SC
-242,,0.0,covid hoax,2020-03-01 2021-01-31,,564,Charleston-Huntington WV
-243,,49.0,covid hoax,2020-03-01 2021-01-31,,517,Charlotte NC
-244,,0.0,covid hoax,2020-03-01 2021-01-31,,584,Charlottesville VA
-245,,0.0,covid hoax,2020-03-01 2021-01-31,,575,Chattanooga TN
-246,,0.0,covid hoax,2020-03-01 2021-01-31,,759,Cheyenne WY-Scottsbluff NE
-247,,35.0,covid hoax,2020-03-01 2021-01-31,,602,Chicago IL
-248,,0.0,covid hoax,2020-03-01 2021-01-31,,868,Chico-Redding CA
-249,,69.0,covid hoax,2020-03-01 2021-01-31,,515,Cincinnati OH
-250,,0.0,covid hoax,2020-03-01 2021-01-31,,598,Clarksburg-Weston WV
-251,,75.0,covid hoax,2020-03-01 2021-01-31,,510,Cleveland-Akron (Canton) OH
-252,,100.0,covid hoax,2020-03-01 2021-01-31,,752,Colorado Springs-Pueblo CO
-253,,0.0,covid hoax,2020-03-01 2021-01-31,,546,Columbia SC
-254,,0.0,covid hoax,2020-03-01 2021-01-31,,604,Columbia-Jefferson City MO
-255,,0.0,covid hoax,2020-03-01 2021-01-31,,522,Columbus GA
-256,,26.0,covid hoax,2020-03-01 2021-01-31,,535,Columbus OH
-257,,0.0,covid hoax,2020-03-01 2021-01-31,,673,Columbus-Tupelo-West Point MS
-258,,0.0,covid hoax,2020-03-01 2021-01-31,,600,Corpus Christi TX
-259,,47.0,covid hoax,2020-03-01 2021-01-31,,623,Dallas-Ft. Worth TX
-260,,0.0,covid hoax,2020-03-01 2021-01-31,,682,Davenport IA-Rock Island-Moline IL
-261,,76.0,covid hoax,2020-03-01 2021-01-31,,542,Dayton OH
-262,,72.0,covid hoax,2020-03-01 2021-01-31,,751,Denver CO
-263,,51.0,covid hoax,2020-03-01 2021-01-31,,679,Des Moines-Ames IA
-264,,59.0,covid hoax,2020-03-01 2021-01-31,,505,Detroit MI
-265,,0.0,covid hoax,2020-03-01 2021-01-31,,606,Dothan AL
-266,,0.0,covid hoax,2020-03-01 2021-01-31,,676,Duluth MN-Superior WI
-267,,0.0,covid hoax,2020-03-01 2021-01-31,,765,El Paso TX
-268,,0.0,covid hoax,2020-03-01 2021-01-31,,565,Elmira NY
-269,,0.0,covid hoax,2020-03-01 2021-01-31,,516,Erie PA
-270,,0.0,covid hoax,2020-03-01 2021-01-31,,801,Eugene OR
-271,,0.0,covid hoax,2020-03-01 2021-01-31,,802,Eureka CA
-272,,0.0,covid hoax,2020-03-01 2021-01-31,,649,Evansville IN
-273,,0.0,covid hoax,2020-03-01 2021-01-31,,745,Fairbanks AK
-274,,0.0,covid hoax,2020-03-01 2021-01-31,,724,Fargo-Valley City ND
-275,,83.0,covid hoax,2020-03-01 2021-01-31,,513,Flint-Saginaw-Bay City MI
-276,,0.0,covid hoax,2020-03-01 2021-01-31,,570,Florence-Myrtle Beach SC
-277,,17.0,covid hoax,2020-03-01 2021-01-31,,866,Fresno-Visalia CA
-278,,37.0,covid hoax,2020-03-01 2021-01-31,,571,Ft. Myers-Naples FL
-279,,0.0,covid hoax,2020-03-01 2021-01-31,,670,Ft. Smith-Fayetteville-Springdale-Rogers AR
-280,,0.0,covid hoax,2020-03-01 2021-01-31,,509,Ft. Wayne IN
-281,,0.0,covid hoax,2020-03-01 2021-01-31,,592,Gainesville FL
-282,,0.0,covid hoax,2020-03-01 2021-01-31,,798,Glendive MT
-283,,0.0,covid hoax,2020-03-01 2021-01-31,,773,Grand Junction-Montrose CO
-284,,75.0,covid hoax,2020-03-01 2021-01-31,,563,Grand Rapids-Kalamazoo-Battle Creek MI
-285,,0.0,covid hoax,2020-03-01 2021-01-31,,755,Great Falls MT
-286,,60.0,covid hoax,2020-03-01 2021-01-31,,658,Green Bay-Appleton WI
-287,,34.0,covid hoax,2020-03-01 2021-01-31,,518,Greensboro-High Point-Winston Salem NC
-288,,0.0,covid hoax,2020-03-01 2021-01-31,,545,Greenville-New Bern-Washington NC
-289,,61.0,covid hoax,2020-03-01 2021-01-31,,567,Greenville-Spartanburg SC-Asheville NC-Anderson SC
-290,,0.0,covid hoax,2020-03-01 2021-01-31,,647,Greenwood-Greenville MS
-291,,0.0,covid hoax,2020-03-01 2021-01-31,,636,Harlingen-Weslaco-Brownsville-McAllen TX
-292,,49.0,covid hoax,2020-03-01 2021-01-31,,566,Harrisburg-Lancaster-Lebanon-York PA
-293,,0.0,covid hoax,2020-03-01 2021-01-31,,569,Harrisonburg VA
-294,,64.0,covid hoax,2020-03-01 2021-01-31,,533,Hartford & New Haven CT
-295,,0.0,covid hoax,2020-03-01 2021-01-31,,710,Hattiesburg-Laurel MS
-296,,0.0,covid hoax,2020-03-01 2021-01-31,,766,Helena MT
-297,,55.0,covid hoax,2020-03-01 2021-01-31,,744,Honolulu HI
-298,,33.0,covid hoax,2020-03-01 2021-01-31,,618,Houston TX
-299,,0.0,covid hoax,2020-03-01 2021-01-31,,691,Huntsville-Decatur (Florence) AL
-300,,0.0,covid hoax,2020-03-01 2021-01-31,,758,Idaho Falls-Pocatello ID
-301,,54.0,covid hoax,2020-03-01 2021-01-31,,527,Indianapolis IN
-302,,0.0,covid hoax,2020-03-01 2021-01-31,,718,Jackson MS
-303,,0.0,covid hoax,2020-03-01 2021-01-31,,639,Jackson TN
-304,,64.0,covid hoax,2020-03-01 2021-01-31,,561,Jacksonville FL
-305,,0.0,covid hoax,2020-03-01 2021-01-31,,574,Johnstown-Altoona PA
-306,,0.0,covid hoax,2020-03-01 2021-01-31,,734,Jonesboro AR
-307,,0.0,covid hoax,2020-03-01 2021-01-31,,603,Joplin MO-Pittsburg KS
-308,,0.0,covid hoax,2020-03-01 2021-01-31,,747,Juneau AK
-309,,62.0,covid hoax,2020-03-01 2021-01-31,,616,Kansas City MO
-310,,39.0,covid hoax,2020-03-01 2021-01-31,,557,Knoxville TN
-311,,0.0,covid hoax,2020-03-01 2021-01-31,,702,La Crosse-Eau Claire WI
-312,,0.0,covid hoax,2020-03-01 2021-01-31,,582,Lafayette IN
-313,,0.0,covid hoax,2020-03-01 2021-01-31,,642,Lafayette LA
-314,,0.0,covid hoax,2020-03-01 2021-01-31,,643,Lake Charles LA
-315,,0.0,covid hoax,2020-03-01 2021-01-31,,551,Lansing MI
-316,,0.0,covid hoax,2020-03-01 2021-01-31,,749,Laredo TX
-317,,56.0,covid hoax,2020-03-01 2021-01-31,,839,Las Vegas NV
-318,,71.0,covid hoax,2020-03-01 2021-01-31,,541,Lexington KY
-319,,0.0,covid hoax,2020-03-01 2021-01-31,,558,Lima OH
-320,,0.0,covid hoax,2020-03-01 2021-01-31,,722,Lincoln & Hastings-Kearney NE
-321,,48.0,covid hoax,2020-03-01 2021-01-31,,693,Little Rock-Pine Bluff AR
-322,,50.0,covid hoax,2020-03-01 2021-01-31,,803,Los Angeles CA
-323,,46.0,covid hoax,2020-03-01 2021-01-31,,529,Louisville KY
-324,,0.0,covid hoax,2020-03-01 2021-01-31,,651,Lubbock TX
-325,,0.0,covid hoax,2020-03-01 2021-01-31,,503,Macon GA
-326,,77.0,covid hoax,2020-03-01 2021-01-31,,669,Madison WI
-327,,0.0,covid hoax,2020-03-01 2021-01-31,,737,Mankato MN
-328,,0.0,covid hoax,2020-03-01 2021-01-31,,553,Marquette MI
-329,,0.0,covid hoax,2020-03-01 2021-01-31,,813,Medford-Klamath Falls OR
-330,,6.0,covid hoax,2020-03-01 2021-01-31,,640,Memphis TN
-331,,0.0,covid hoax,2020-03-01 2021-01-31,,711,Meridian MS
-332,,36.0,covid hoax,2020-03-01 2021-01-31,,528,Miami-Ft. Lauderdale FL
-333,,74.0,covid hoax,2020-03-01 2021-01-31,,617,Milwaukee WI
-334,,81.0,covid hoax,2020-03-01 2021-01-31,,613,Minneapolis-St. Paul MN
-335,,0.0,covid hoax,2020-03-01 2021-01-31,,687,Minot-Bismarck-Dickinson(Williston) ND
-336,,0.0,covid hoax,2020-03-01 2021-01-31,,762,Missoula MT
-337,,36.0,covid hoax,2020-03-01 2021-01-31,,686,Mobile AL-Pensacola (Ft. Walton Beach) FL
-338,,0.0,covid hoax,2020-03-01 2021-01-31,,628,Monroe LA-El Dorado AR
-339,,15.0,covid hoax,2020-03-01 2021-01-31,,828,Monterey-Salinas CA
-340,,0.0,covid hoax,2020-03-01 2021-01-31,,698,Montgomery (Selma) AL
-341,,61.0,covid hoax,2020-03-01 2021-01-31,,659,Nashville TN
-342,,45.0,covid hoax,2020-03-01 2021-01-31,,622,New Orleans LA
-343,,40.0,covid hoax,2020-03-01 2021-01-31,,501,New York NY
-344,,39.0,covid hoax,2020-03-01 2021-01-31,,544,Norfolk-Portsmouth-Newport News VA
-345,,0.0,covid hoax,2020-03-01 2021-01-31,,740,North Platte NE
-346,,0.0,covid hoax,2020-03-01 2021-01-31,,633,Odessa-Midland TX
-347,,47.0,covid hoax,2020-03-01 2021-01-31,,650,Oklahoma City OK
-348,,53.0,covid hoax,2020-03-01 2021-01-31,,652,Omaha NE
-349,,51.0,covid hoax,2020-03-01 2021-01-31,,534,Orlando-Daytona Beach-Melbourne FL
-350,,0.0,covid hoax,2020-03-01 2021-01-31,,631,Ottumwa IA-Kirksville MO
-351,,0.0,covid hoax,2020-03-01 2021-01-31,,632,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
-352,,0.0,covid hoax,2020-03-01 2021-01-31,,804,Palm Springs CA
-353,,0.0,covid hoax,2020-03-01 2021-01-31,,656,Panama City FL
-354,,0.0,covid hoax,2020-03-01 2021-01-31,,597,Parkersburg WV
-355,,0.0,covid hoax,2020-03-01 2021-01-31,,675,Peoria-Bloomington IL
-356,,41.0,covid hoax,2020-03-01 2021-01-31,,504,Philadelphia PA
-357,,68.0,covid hoax,2020-03-01 2021-01-31,,753,Phoenix AZ
-358,,69.0,covid hoax,2020-03-01 2021-01-31,,508,Pittsburgh PA
-359,,62.0,covid hoax,2020-03-01 2021-01-31,,820,Portland OR
-360,,67.0,covid hoax,2020-03-01 2021-01-31,,500,Portland-Auburn ME
-361,,0.0,covid hoax,2020-03-01 2021-01-31,,552,Presque Isle ME
-362,,85.0,covid hoax,2020-03-01 2021-01-31,,521,Providence RI-New Bedford MA
-363,,0.0,covid hoax,2020-03-01 2021-01-31,,717,Quincy IL-Hannibal MO-Keokuk IA
-364,,48.0,covid hoax,2020-03-01 2021-01-31,,560,Raleigh-Durham (Fayetteville) NC
-365,,0.0,covid hoax,2020-03-01 2021-01-31,,764,Rapid City SD
-366,,40.0,covid hoax,2020-03-01 2021-01-31,,811,Reno NV
-367,,65.0,covid hoax,2020-03-01 2021-01-31,,556,Richmond-Petersburg VA
-368,,0.0,covid hoax,2020-03-01 2021-01-31,,573,Roanoke-Lynchburg VA
-369,,0.0,covid hoax,2020-03-01 2021-01-31,,611,Rochester MN-Mason City IA-Austin MN
-370,,47.0,covid hoax,2020-03-01 2021-01-31,,538,Rochester NY
-371,,0.0,covid hoax,2020-03-01 2021-01-31,,610,Rockford IL
-372,,61.0,covid hoax,2020-03-01 2021-01-31,,862,Sacramento-Stockton-Modesto CA
-373,,0.0,covid hoax,2020-03-01 2021-01-31,,576,Salisbury MD
-374,,29.0,covid hoax,2020-03-01 2021-01-31,,770,Salt Lake City UT
-375,,0.0,covid hoax,2020-03-01 2021-01-31,,661,San Angelo TX
-376,,42.0,covid hoax,2020-03-01 2021-01-31,,641,San Antonio TX
-377,,47.0,covid hoax,2020-03-01 2021-01-31,,825,San Diego CA
-378,,64.0,covid hoax,2020-03-01 2021-01-31,,807,San Francisco-Oakland-San Jose CA
-379,,0.0,covid hoax,2020-03-01 2021-01-31,,855,Santa Barbara-Santa Maria-San Luis Obispo CA
-380,,0.0,covid hoax,2020-03-01 2021-01-31,,507,Savannah GA
-381,,88.0,covid hoax,2020-03-01 2021-01-31,,819,Seattle-Tacoma WA
-382,,0.0,covid hoax,2020-03-01 2021-01-31,,657,Sherman TX-Ada OK
-383,,0.0,covid hoax,2020-03-01 2021-01-31,,612,Shreveport LA
-384,,0.0,covid hoax,2020-03-01 2021-01-31,,624,Sioux City IA
-385,,0.0,covid hoax,2020-03-01 2021-01-31,,725,Sioux Falls(Mitchell) SD
-386,,0.0,covid hoax,2020-03-01 2021-01-31,,588,South Bend-Elkhart IN
-387,,67.0,covid hoax,2020-03-01 2021-01-31,,881,Spokane WA
-388,,0.0,covid hoax,2020-03-01 2021-01-31,,619,Springfield MO
-389,,0.0,covid hoax,2020-03-01 2021-01-31,,543,Springfield-Holyoke MA
-390,,0.0,covid hoax,2020-03-01 2021-01-31,,638,St. Joseph MO
-391,,45.0,covid hoax,2020-03-01 2021-01-31,,609,St. Louis MO
-392,,42.0,covid hoax,2020-03-01 2021-01-31,,555,Syracuse NY
-393,,0.0,covid hoax,2020-03-01 2021-01-31,,530,Tallahassee FL-Thomasville GA
-394,,52.0,covid hoax,2020-03-01 2021-01-31,,539,Tampa-St. Petersburg (Sarasota) FL
-395,,0.0,covid hoax,2020-03-01 2021-01-31,,581,Terre Haute IN
-396,,30.0,covid hoax,2020-03-01 2021-01-31,,547,Toledo OH
-397,,0.0,covid hoax,2020-03-01 2021-01-31,,605,Topeka KS
-398,,0.0,covid hoax,2020-03-01 2021-01-31,,540,Traverse City-Cadillac MI
-399,,0.0,covid hoax,2020-03-01 2021-01-31,,531,Tri-Cities TN-VA
-400,,44.0,covid hoax,2020-03-01 2021-01-31,,789,Tucson (Sierra Vista) AZ
-401,,43.0,covid hoax,2020-03-01 2021-01-31,,671,Tulsa OK
-402,,0.0,covid hoax,2020-03-01 2021-01-31,,760,Twin Falls ID
-403,,0.0,covid hoax,2020-03-01 2021-01-31,,709,Tyler-Longview(Lufkin & Nacogdoches) TX
-404,,0.0,covid hoax,2020-03-01 2021-01-31,,526,Utica NY
-405,,0.0,covid hoax,2020-03-01 2021-01-31,,626,Victoria TX
-406,,0.0,covid hoax,2020-03-01 2021-01-31,,625,Waco-Temple-Bryan TX
-407,,59.0,covid hoax,2020-03-01 2021-01-31,,511,Washington DC (Hagerstown MD)
-408,,0.0,covid hoax,2020-03-01 2021-01-31,,549,Watertown NY
-409,,0.0,covid hoax,2020-03-01 2021-01-31,,705,Wausau-Rhinelander WI
-410,,43.0,covid hoax,2020-03-01 2021-01-31,,548,West Palm Beach-Ft. Pierce FL
-411,,0.0,covid hoax,2020-03-01 2021-01-31,,554,Wheeling WV-Steubenville OH
-412,,0.0,covid hoax,2020-03-01 2021-01-31,,627,Wichita Falls TX & Lawton OK
-413,,41.0,covid hoax,2020-03-01 2021-01-31,,678,Wichita-Hutchinson KS
-414,,93.0,covid hoax,2020-03-01 2021-01-31,,577,Wilkes Barre-Scranton PA
-415,,0.0,covid hoax,2020-03-01 2021-01-31,,550,Wilmington NC
-416,,0.0,covid hoax,2020-03-01 2021-01-31,,810,Yakima-Pasco-Richland-Kennewick WA
-417,,0.0,covid hoax,2020-03-01 2021-01-31,,536,Youngstown OH
-418,,0.0,covid hoax,2020-03-01 2021-01-31,,771,Yuma AZ-El Centro CA
-419,,0.0,covid hoax,2020-03-01 2021-01-31,,596,Zanesville OH
-420,,85.0,wuhan lab,2020-03-01 2021-01-31,,662,Abilene-Sweetwater TX
-421,,0.0,wuhan lab,2020-03-01 2021-01-31,,525,Albany GA
-422,,54.0,wuhan lab,2020-03-01 2021-01-31,,532,Albany-Schenectady-Troy NY
-423,,32.0,wuhan lab,2020-03-01 2021-01-31,,790,Albuquerque-Santa Fe NM
-424,,0.0,wuhan lab,2020-03-01 2021-01-31,,644,Alexandria LA
-425,,0.0,wuhan lab,2020-03-01 2021-01-31,,583,Alpena MI
-426,,24.0,wuhan lab,2020-03-01 2021-01-31,,634,Amarillo TX
-427,,0.0,wuhan lab,2020-03-01 2021-01-31,,743,Anchorage AK
-428,,36.0,wuhan lab,2020-03-01 2021-01-31,,524,Atlanta GA
-429,,15.0,wuhan lab,2020-03-01 2021-01-31,,520,Augusta GA
-430,,57.0,wuhan lab,2020-03-01 2021-01-31,,635,Austin TX
-431,,22.0,wuhan lab,2020-03-01 2021-01-31,,800,Bakersfield CA
-432,,52.0,wuhan lab,2020-03-01 2021-01-31,,512,Baltimore MD
-433,,94.0,wuhan lab,2020-03-01 2021-01-31,,537,Bangor ME
-434,,37.0,wuhan lab,2020-03-01 2021-01-31,,716,Baton Rouge LA
-435,,14.0,wuhan lab,2020-03-01 2021-01-31,,692,Beaumont-Port Arthur TX
-436,,0.0,wuhan lab,2020-03-01 2021-01-31,,821,Bend OR
-437,,63.0,wuhan lab,2020-03-01 2021-01-31,,756,"Billings, MT"
-438,,57.0,wuhan lab,2020-03-01 2021-01-31,,746,Biloxi-Gulfport MS
-439,,50.0,wuhan lab,2020-03-01 2021-01-31,,502,Binghamton NY
-440,,36.0,wuhan lab,2020-03-01 2021-01-31,,630,Birmingham AL
-441,,0.0,wuhan lab,2020-03-01 2021-01-31,,559,Bluefield-Beckley-Oak Hill WV
-442,,53.0,wuhan lab,2020-03-01 2021-01-31,,757,Boise ID
-443,,60.0,wuhan lab,2020-03-01 2021-01-31,,506,Boston MA-Manchester NH
-444,,0.0,wuhan lab,2020-03-01 2021-01-31,,736,Bowling Green KY
-445,,54.0,wuhan lab,2020-03-01 2021-01-31,,514,Buffalo NY
-446,,36.0,wuhan lab,2020-03-01 2021-01-31,,523,Burlington VT-Plattsburgh NY
-447,,0.0,wuhan lab,2020-03-01 2021-01-31,,754,Butte-Bozeman MT
-448,,0.0,wuhan lab,2020-03-01 2021-01-31,,767,Casper-Riverton WY
-449,,34.0,wuhan lab,2020-03-01 2021-01-31,,637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
-450,,47.0,wuhan lab,2020-03-01 2021-01-31,,648,Champaign & Springfield-Decatur IL
-451,,45.0,wuhan lab,2020-03-01 2021-01-31,,519,Charleston SC
-452,,31.0,wuhan lab,2020-03-01 2021-01-31,,564,Charleston-Huntington WV
-453,,38.0,wuhan lab,2020-03-01 2021-01-31,,517,Charlotte NC
-454,,0.0,wuhan lab,2020-03-01 2021-01-31,,584,Charlottesville VA
-455,,61.0,wuhan lab,2020-03-01 2021-01-31,,575,Chattanooga TN
-456,,0.0,wuhan lab,2020-03-01 2021-01-31,,759,Cheyenne WY-Scottsbluff NE
-457,,40.0,wuhan lab,2020-03-01 2021-01-31,,602,Chicago IL
-458,,34.0,wuhan lab,2020-03-01 2021-01-31,,868,Chico-Redding CA
-459,,29.0,wuhan lab,2020-03-01 2021-01-31,,515,Cincinnati OH
-460,,0.0,wuhan lab,2020-03-01 2021-01-31,,598,Clarksburg-Weston WV
-461,,45.0,wuhan lab,2020-03-01 2021-01-31,,510,Cleveland-Akron (Canton) OH
-462,,62.0,wuhan lab,2020-03-01 2021-01-31,,752,Colorado Springs-Pueblo CO
-463,,19.0,wuhan lab,2020-03-01 2021-01-31,,546,Columbia SC
-464,,100.0,wuhan lab,2020-03-01 2021-01-31,,604,Columbia-Jefferson City MO
-465,,27.0,wuhan lab,2020-03-01 2021-01-31,,522,Columbus GA
-466,,38.0,wuhan lab,2020-03-01 2021-01-31,,535,Columbus OH
-467,,0.0,wuhan lab,2020-03-01 2021-01-31,,673,Columbus-Tupelo-West Point MS
-468,,19.0,wuhan lab,2020-03-01 2021-01-31,,600,Corpus Christi TX
-469,,36.0,wuhan lab,2020-03-01 2021-01-31,,623,Dallas-Ft. Worth TX
-470,,78.0,wuhan lab,2020-03-01 2021-01-31,,682,Davenport IA-Rock Island-Moline IL
-471,,41.0,wuhan lab,2020-03-01 2021-01-31,,542,Dayton OH
-472,,32.0,wuhan lab,2020-03-01 2021-01-31,,751,Denver CO
-473,,52.0,wuhan lab,2020-03-01 2021-01-31,,679,Des Moines-Ames IA
-474,,56.0,wuhan lab,2020-03-01 2021-01-31,,505,Detroit MI
-475,,0.0,wuhan lab,2020-03-01 2021-01-31,,606,Dothan AL
-476,,70.0,wuhan lab,2020-03-01 2021-01-31,,676,Duluth MN-Superior WI
-477,,19.0,wuhan lab,2020-03-01 2021-01-31,,765,El Paso TX
-478,,0.0,wuhan lab,2020-03-01 2021-01-31,,565,Elmira NY
-479,,41.0,wuhan lab,2020-03-01 2021-01-31,,516,Erie PA
-480,,73.0,wuhan lab,2020-03-01 2021-01-31,,801,Eugene OR
-481,,0.0,wuhan lab,2020-03-01 2021-01-31,,802,Eureka CA
-482,,76.0,wuhan lab,2020-03-01 2021-01-31,,649,Evansville IN
-483,,0.0,wuhan lab,2020-03-01 2021-01-31,,745,Fairbanks AK
-484,,26.0,wuhan lab,2020-03-01 2021-01-31,,724,Fargo-Valley City ND
-485,,64.0,wuhan lab,2020-03-01 2021-01-31,,513,Flint-Saginaw-Bay City MI
-486,,39.0,wuhan lab,2020-03-01 2021-01-31,,570,Florence-Myrtle Beach SC
-487,,31.0,wuhan lab,2020-03-01 2021-01-31,,866,Fresno-Visalia CA
-488,,54.0,wuhan lab,2020-03-01 2021-01-31,,571,Ft. Myers-Naples FL
-489,,38.0,wuhan lab,2020-03-01 2021-01-31,,670,Ft. Smith-Fayetteville-Springdale-Rogers AR
-490,,48.0,wuhan lab,2020-03-01 2021-01-31,,509,Ft. Wayne IN
-491,,38.0,wuhan lab,2020-03-01 2021-01-31,,592,Gainesville FL
-492,,0.0,wuhan lab,2020-03-01 2021-01-31,,798,Glendive MT
-493,,0.0,wuhan lab,2020-03-01 2021-01-31,,773,Grand Junction-Montrose CO
-494,,41.0,wuhan lab,2020-03-01 2021-01-31,,563,Grand Rapids-Kalamazoo-Battle Creek MI
-495,,0.0,wuhan lab,2020-03-01 2021-01-31,,755,Great Falls MT
-496,,47.0,wuhan lab,2020-03-01 2021-01-31,,658,Green Bay-Appleton WI
-497,,22.0,wuhan lab,2020-03-01 2021-01-31,,518,Greensboro-High Point-Winston Salem NC
-498,,26.0,wuhan lab,2020-03-01 2021-01-31,,545,Greenville-New Bern-Washington NC
-499,,40.0,wuhan lab,2020-03-01 2021-01-31,,567,Greenville-Spartanburg SC-Asheville NC-Anderson SC
-500,,0.0,wuhan lab,2020-03-01 2021-01-31,,647,Greenwood-Greenville MS
-501,,22.0,wuhan lab,2020-03-01 2021-01-31,,636,Harlingen-Weslaco-Brownsville-McAllen TX
-502,,52.0,wuhan lab,2020-03-01 2021-01-31,,566,Harrisburg-Lancaster-Lebanon-York PA
-503,,0.0,wuhan lab,2020-03-01 2021-01-31,,569,Harrisonburg VA
-504,,47.0,wuhan lab,2020-03-01 2021-01-31,,533,Hartford & New Haven CT
-505,,0.0,wuhan lab,2020-03-01 2021-01-31,,710,Hattiesburg-Laurel MS
-506,,0.0,wuhan lab,2020-03-01 2021-01-31,,766,Helena MT
-507,,41.0,wuhan lab,2020-03-01 2021-01-31,,744,Honolulu HI
-508,,46.0,wuhan lab,2020-03-01 2021-01-31,,618,Houston TX
-509,,43.0,wuhan lab,2020-03-01 2021-01-31,,691,Huntsville-Decatur (Florence) AL
-510,,14.0,wuhan lab,2020-03-01 2021-01-31,,758,Idaho Falls-Pocatello ID
-511,,47.0,wuhan lab,2020-03-01 2021-01-31,,527,Indianapolis IN
-512,,19.0,wuhan lab,2020-03-01 2021-01-31,,718,Jackson MS
-513,,0.0,wuhan lab,2020-03-01 2021-01-31,,639,Jackson TN
-514,,52.0,wuhan lab,2020-03-01 2021-01-31,,561,Jacksonville FL
-515,,64.0,wuhan lab,2020-03-01 2021-01-31,,574,Johnstown-Altoona PA
-516,,0.0,wuhan lab,2020-03-01 2021-01-31,,734,Jonesboro AR
-517,,17.0,wuhan lab,2020-03-01 2021-01-31,,603,Joplin MO-Pittsburg KS
-518,,0.0,wuhan lab,2020-03-01 2021-01-31,,747,Juneau AK
-519,,37.0,wuhan lab,2020-03-01 2021-01-31,,616,Kansas City MO
-520,,45.0,wuhan lab,2020-03-01 2021-01-31,,557,Knoxville TN
-521,,41.0,wuhan lab,2020-03-01 2021-01-31,,702,La Crosse-Eau Claire WI
-522,,0.0,wuhan lab,2020-03-01 2021-01-31,,582,Lafayette IN
-523,,31.0,wuhan lab,2020-03-01 2021-01-31,,642,Lafayette LA
-524,,0.0,wuhan lab,2020-03-01 2021-01-31,,643,Lake Charles LA
-525,,31.0,wuhan lab,2020-03-01 2021-01-31,,551,Lansing MI
-526,,0.0,wuhan lab,2020-03-01 2021-01-31,,749,Laredo TX
-527,,42.0,wuhan lab,2020-03-01 2021-01-31,,839,Las Vegas NV
-528,,51.0,wuhan lab,2020-03-01 2021-01-31,,541,Lexington KY
-529,,0.0,wuhan lab,2020-03-01 2021-01-31,,558,Lima OH
-530,,71.0,wuhan lab,2020-03-01 2021-01-31,,722,Lincoln & Hastings-Kearney NE
-531,,49.0,wuhan lab,2020-03-01 2021-01-31,,693,Little Rock-Pine Bluff AR
-532,,40.0,wuhan lab,2020-03-01 2021-01-31,,803,Los Angeles CA
-533,,41.0,wuhan lab,2020-03-01 2021-01-31,,529,Louisville KY
-534,,0.0,wuhan lab,2020-03-01 2021-01-31,,651,Lubbock TX
-535,,0.0,wuhan lab,2020-03-01 2021-01-31,,503,Macon GA
-536,,27.0,wuhan lab,2020-03-01 2021-01-31,,669,Madison WI
-537,,0.0,wuhan lab,2020-03-01 2021-01-31,,737,Mankato MN
-538,,0.0,wuhan lab,2020-03-01 2021-01-31,,553,Marquette MI
-539,,58.0,wuhan lab,2020-03-01 2021-01-31,,813,Medford-Klamath Falls OR
-540,,34.0,wuhan lab,2020-03-01 2021-01-31,,640,Memphis TN
-541,,0.0,wuhan lab,2020-03-01 2021-01-31,,711,Meridian MS
-542,,36.0,wuhan lab,2020-03-01 2021-01-31,,528,Miami-Ft. Lauderdale FL
-543,,33.0,wuhan lab,2020-03-01 2021-01-31,,617,Milwaukee WI
-544,,40.0,wuhan lab,2020-03-01 2021-01-31,,613,Minneapolis-St. Paul MN
-545,,0.0,wuhan lab,2020-03-01 2021-01-31,,687,Minot-Bismarck-Dickinson(Williston) ND
-546,,87.0,wuhan lab,2020-03-01 2021-01-31,,762,Missoula MT
-547,,38.0,wuhan lab,2020-03-01 2021-01-31,,686,Mobile AL-Pensacola (Ft. Walton Beach) FL
-548,,0.0,wuhan lab,2020-03-01 2021-01-31,,628,Monroe LA-El Dorado AR
-549,,36.0,wuhan lab,2020-03-01 2021-01-31,,828,Monterey-Salinas CA
-550,,0.0,wuhan lab,2020-03-01 2021-01-31,,698,Montgomery (Selma) AL
-551,,39.0,wuhan lab,2020-03-01 2021-01-31,,659,Nashville TN
-552,,22.0,wuhan lab,2020-03-01 2021-01-31,,622,New Orleans LA
-553,,43.0,wuhan lab,2020-03-01 2021-01-31,,501,New York NY
-554,,33.0,wuhan lab,2020-03-01 2021-01-31,,544,Norfolk-Portsmouth-Newport News VA
-555,,0.0,wuhan lab,2020-03-01 2021-01-31,,740,North Platte NE
-556,,0.0,wuhan lab,2020-03-01 2021-01-31,,633,Odessa-Midland TX
-557,,56.0,wuhan lab,2020-03-01 2021-01-31,,650,Oklahoma City OK
-558,,51.0,wuhan lab,2020-03-01 2021-01-31,,652,Omaha NE
-559,,40.0,wuhan lab,2020-03-01 2021-01-31,,534,Orlando-Daytona Beach-Melbourne FL
-560,,0.0,wuhan lab,2020-03-01 2021-01-31,,631,Ottumwa IA-Kirksville MO
-561,,14.0,wuhan lab,2020-03-01 2021-01-31,,632,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
-562,,59.0,wuhan lab,2020-03-01 2021-01-31,,804,Palm Springs CA
-563,,14.0,wuhan lab,2020-03-01 2021-01-31,,656,Panama City FL
-564,,0.0,wuhan lab,2020-03-01 2021-01-31,,597,Parkersburg WV
-565,,49.0,wuhan lab,2020-03-01 2021-01-31,,675,Peoria-Bloomington IL
-566,,60.0,wuhan lab,2020-03-01 2021-01-31,,504,Philadelphia PA
-567,,58.0,wuhan lab,2020-03-01 2021-01-31,,753,Phoenix AZ
-568,,54.0,wuhan lab,2020-03-01 2021-01-31,,508,Pittsburgh PA
-569,,49.0,wuhan lab,2020-03-01 2021-01-31,,820,Portland OR
-570,,68.0,wuhan lab,2020-03-01 2021-01-31,,500,Portland-Auburn ME
-571,,0.0,wuhan lab,2020-03-01 2021-01-31,,552,Presque Isle ME
-572,,43.0,wuhan lab,2020-03-01 2021-01-31,,521,Providence RI-New Bedford MA
-573,,0.0,wuhan lab,2020-03-01 2021-01-31,,717,Quincy IL-Hannibal MO-Keokuk IA
-574,,47.0,wuhan lab,2020-03-01 2021-01-31,,560,Raleigh-Durham (Fayetteville) NC
-575,,0.0,wuhan lab,2020-03-01 2021-01-31,,764,Rapid City SD
-576,,58.0,wuhan lab,2020-03-01 2021-01-31,,811,Reno NV
-577,,40.0,wuhan lab,2020-03-01 2021-01-31,,556,Richmond-Petersburg VA
-578,,22.0,wuhan lab,2020-03-01 2021-01-31,,573,Roanoke-Lynchburg VA
-579,,0.0,wuhan lab,2020-03-01 2021-01-31,,611,Rochester MN-Mason City IA-Austin MN
-580,,59.0,wuhan lab,2020-03-01 2021-01-31,,538,Rochester NY
-581,,56.0,wuhan lab,2020-03-01 2021-01-31,,610,Rockford IL
-582,,47.0,wuhan lab,2020-03-01 2021-01-31,,862,Sacramento-Stockton-Modesto CA
-583,,42.0,wuhan lab,2020-03-01 2021-01-31,,576,Salisbury MD
-584,,36.0,wuhan lab,2020-03-01 2021-01-31,,770,Salt Lake City UT
-585,,0.0,wuhan lab,2020-03-01 2021-01-31,,661,San Angelo TX
-586,,35.0,wuhan lab,2020-03-01 2021-01-31,,641,San Antonio TX
-587,,59.0,wuhan lab,2020-03-01 2021-01-31,,825,San Diego CA
-588,,57.0,wuhan lab,2020-03-01 2021-01-31,,807,San Francisco-Oakland-San Jose CA
-589,,61.0,wuhan lab,2020-03-01 2021-01-31,,855,Santa Barbara-Santa Maria-San Luis Obispo CA
-590,,41.0,wuhan lab,2020-03-01 2021-01-31,,507,Savannah GA
-591,,47.0,wuhan lab,2020-03-01 2021-01-31,,819,Seattle-Tacoma WA
-592,,0.0,wuhan lab,2020-03-01 2021-01-31,,657,Sherman TX-Ada OK
-593,,41.0,wuhan lab,2020-03-01 2021-01-31,,612,Shreveport LA
-594,,0.0,wuhan lab,2020-03-01 2021-01-31,,624,Sioux City IA
-595,,17.0,wuhan lab,2020-03-01 2021-01-31,,725,Sioux Falls(Mitchell) SD
-596,,51.0,wuhan lab,2020-03-01 2021-01-31,,588,South Bend-Elkhart IN
-597,,32.0,wuhan lab,2020-03-01 2021-01-31,,881,Spokane WA
-598,,43.0,wuhan lab,2020-03-01 2021-01-31,,619,Springfield MO
-599,,27.0,wuhan lab,2020-03-01 2021-01-31,,543,Springfield-Holyoke MA
-600,,0.0,wuhan lab,2020-03-01 2021-01-31,,638,St. Joseph MO
-601,,40.0,wuhan lab,2020-03-01 2021-01-31,,609,St. Louis MO
-602,,55.0,wuhan lab,2020-03-01 2021-01-31,,555,Syracuse NY
-603,,22.0,wuhan lab,2020-03-01 2021-01-31,,530,Tallahassee FL-Thomasville GA
-604,,36.0,wuhan lab,2020-03-01 2021-01-31,,539,Tampa-St. Petersburg (Sarasota) FL
-605,,19.0,wuhan lab,2020-03-01 2021-01-31,,581,Terre Haute IN
-606,,34.0,wuhan lab,2020-03-01 2021-01-31,,547,Toledo OH
-607,,37.0,wuhan lab,2020-03-01 2021-01-31,,605,Topeka KS
-608,,28.0,wuhan lab,2020-03-01 2021-01-31,,540,Traverse City-Cadillac MI
-609,,23.0,wuhan lab,2020-03-01 2021-01-31,,531,Tri-Cities TN-VA
-610,,25.0,wuhan lab,2020-03-01 2021-01-31,,789,Tucson (Sierra Vista) AZ
-611,,29.0,wuhan lab,2020-03-01 2021-01-31,,671,Tulsa OK
-612,,0.0,wuhan lab,2020-03-01 2021-01-31,,760,Twin Falls ID
-613,,43.0,wuhan lab,2020-03-01 2021-01-31,,709,Tyler-Longview(Lufkin & Nacogdoches) TX
-614,,65.0,wuhan lab,2020-03-01 2021-01-31,,526,Utica NY
-615,,0.0,wuhan lab,2020-03-01 2021-01-31,,626,Victoria TX
-616,,29.0,wuhan lab,2020-03-01 2021-01-31,,625,Waco-Temple-Bryan TX
-617,,66.0,wuhan lab,2020-03-01 2021-01-31,,511,Washington DC (Hagerstown MD)
-618,,0.0,wuhan lab,2020-03-01 2021-01-31,,549,Watertown NY
-619,,63.0,wuhan lab,2020-03-01 2021-01-31,,705,Wausau-Rhinelander WI
-620,,52.0,wuhan lab,2020-03-01 2021-01-31,,548,West Palm Beach-Ft. Pierce FL
-621,,0.0,wuhan lab,2020-03-01 2021-01-31,,554,Wheeling WV-Steubenville OH
-622,,0.0,wuhan lab,2020-03-01 2021-01-31,,627,Wichita Falls TX & Lawton OK
-623,,49.0,wuhan lab,2020-03-01 2021-01-31,,678,Wichita-Hutchinson KS
-624,,45.0,wuhan lab,2020-03-01 2021-01-31,,577,Wilkes Barre-Scranton PA
-625,,64.0,wuhan lab,2020-03-01 2021-01-31,,550,Wilmington NC
-626,,31.0,wuhan lab,2020-03-01 2021-01-31,,810,Yakima-Pasco-Richland-Kennewick WA
-627,,65.0,wuhan lab,2020-03-01 2021-01-31,,536,Youngstown OH
-628,,0.0,wuhan lab,2020-03-01 2021-01-31,,771,Yuma AZ-El Centro CA
-629,,0.0,wuhan lab,2020-03-01 2021-01-31,,596,Zanesville OH
-630,,0.0,covid conspiracy,2020-03-01 2021-01-31,,662,Abilene-Sweetwater TX
-631,,0.0,covid conspiracy,2020-03-01 2021-01-31,,525,Albany GA
-632,,63.0,covid conspiracy,2020-03-01 2021-01-31,,532,Albany-Schenectady-Troy NY
-633,,71.0,covid conspiracy,2020-03-01 2021-01-31,,790,Albuquerque-Santa Fe NM
-634,,0.0,covid conspiracy,2020-03-01 2021-01-31,,644,Alexandria LA
-635,,0.0,covid conspiracy,2020-03-01 2021-01-31,,583,Alpena MI
-636,,0.0,covid conspiracy,2020-03-01 2021-01-31,,634,Amarillo TX
-637,,0.0,covid conspiracy,2020-03-01 2021-01-31,,743,Anchorage AK
-638,,40.0,covid conspiracy,2020-03-01 2021-01-31,,524,Atlanta GA
-639,,0.0,covid conspiracy,2020-03-01 2021-01-31,,520,Augusta GA
-640,,80.0,covid conspiracy,2020-03-01 2021-01-31,,635,Austin TX
-641,,0.0,covid conspiracy,2020-03-01 2021-01-31,,800,Bakersfield CA
-642,,25.0,covid conspiracy,2020-03-01 2021-01-31,,512,Baltimore MD
-643,,0.0,covid conspiracy,2020-03-01 2021-01-31,,537,Bangor ME
-644,,0.0,covid conspiracy,2020-03-01 2021-01-31,,716,Baton Rouge LA
-645,,0.0,covid conspiracy,2020-03-01 2021-01-31,,692,Beaumont-Port Arthur TX
-646,,0.0,covid conspiracy,2020-03-01 2021-01-31,,821,Bend OR
-647,,0.0,covid conspiracy,2020-03-01 2021-01-31,,756,"Billings, MT"
-648,,0.0,covid conspiracy,2020-03-01 2021-01-31,,746,Biloxi-Gulfport MS
-649,,0.0,covid conspiracy,2020-03-01 2021-01-31,,502,Binghamton NY
-650,,46.0,covid conspiracy,2020-03-01 2021-01-31,,630,Birmingham AL
-651,,0.0,covid conspiracy,2020-03-01 2021-01-31,,559,Bluefield-Beckley-Oak Hill WV
-652,,0.0,covid conspiracy,2020-03-01 2021-01-31,,757,Boise ID
-653,,52.0,covid conspiracy,2020-03-01 2021-01-31,,506,Boston MA-Manchester NH
-654,,0.0,covid conspiracy,2020-03-01 2021-01-31,,736,Bowling Green KY
-655,,81.0,covid conspiracy,2020-03-01 2021-01-31,,514,Buffalo NY
-656,,0.0,covid conspiracy,2020-03-01 2021-01-31,,523,Burlington VT-Plattsburgh NY
-657,,0.0,covid conspiracy,2020-03-01 2021-01-31,,754,Butte-Bozeman MT
-658,,0.0,covid conspiracy,2020-03-01 2021-01-31,,767,Casper-Riverton WY
-659,,0.0,covid conspiracy,2020-03-01 2021-01-31,,637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
-660,,0.0,covid conspiracy,2020-03-01 2021-01-31,,648,Champaign & Springfield-Decatur IL
-661,,0.0,covid conspiracy,2020-03-01 2021-01-31,,519,Charleston SC
-662,,0.0,covid conspiracy,2020-03-01 2021-01-31,,564,Charleston-Huntington WV
-663,,55.0,covid conspiracy,2020-03-01 2021-01-31,,517,Charlotte NC
-664,,0.0,covid conspiracy,2020-03-01 2021-01-31,,584,Charlottesville VA
-665,,0.0,covid conspiracy,2020-03-01 2021-01-31,,575,Chattanooga TN
-666,,0.0,covid conspiracy,2020-03-01 2021-01-31,,759,Cheyenne WY-Scottsbluff NE
-667,,60.0,covid conspiracy,2020-03-01 2021-01-31,,602,Chicago IL
-668,,0.0,covid conspiracy,2020-03-01 2021-01-31,,868,Chico-Redding CA
-669,,51.0,covid conspiracy,2020-03-01 2021-01-31,,515,Cincinnati OH
-670,,0.0,covid conspiracy,2020-03-01 2021-01-31,,598,Clarksburg-Weston WV
-671,,65.0,covid conspiracy,2020-03-01 2021-01-31,,510,Cleveland-Akron (Canton) OH
-672,,0.0,covid conspiracy,2020-03-01 2021-01-31,,752,Colorado Springs-Pueblo CO
-673,,0.0,covid conspiracy,2020-03-01 2021-01-31,,546,Columbia SC
-674,,0.0,covid conspiracy,2020-03-01 2021-01-31,,604,Columbia-Jefferson City MO
-675,,0.0,covid conspiracy,2020-03-01 2021-01-31,,522,Columbus GA
-676,,51.0,covid conspiracy,2020-03-01 2021-01-31,,535,Columbus OH
-677,,0.0,covid conspiracy,2020-03-01 2021-01-31,,673,Columbus-Tupelo-West Point MS
-678,,0.0,covid conspiracy,2020-03-01 2021-01-31,,600,Corpus Christi TX
-679,,50.0,covid conspiracy,2020-03-01 2021-01-31,,623,Dallas-Ft. Worth TX
-680,,0.0,covid conspiracy,2020-03-01 2021-01-31,,682,Davenport IA-Rock Island-Moline IL
-681,,0.0,covid conspiracy,2020-03-01 2021-01-31,,542,Dayton OH
-682,,93.0,covid conspiracy,2020-03-01 2021-01-31,,751,Denver CO
-683,,50.0,covid conspiracy,2020-03-01 2021-01-31,,679,Des Moines-Ames IA
-684,,42.0,covid conspiracy,2020-03-01 2021-01-31,,505,Detroit MI
-685,,0.0,covid conspiracy,2020-03-01 2021-01-31,,606,Dothan AL
-686,,0.0,covid conspiracy,2020-03-01 2021-01-31,,676,Duluth MN-Superior WI
-687,,0.0,covid conspiracy,2020-03-01 2021-01-31,,765,El Paso TX
-688,,0.0,covid conspiracy,2020-03-01 2021-01-31,,565,Elmira NY
-689,,0.0,covid conspiracy,2020-03-01 2021-01-31,,516,Erie PA
-690,,0.0,covid conspiracy,2020-03-01 2021-01-31,,801,Eugene OR
-691,,0.0,covid conspiracy,2020-03-01 2021-01-31,,802,Eureka CA
-692,,0.0,covid conspiracy,2020-03-01 2021-01-31,,649,Evansville IN
-693,,0.0,covid conspiracy,2020-03-01 2021-01-31,,745,Fairbanks AK
-694,,0.0,covid conspiracy,2020-03-01 2021-01-31,,724,Fargo-Valley City ND
-695,,0.0,covid conspiracy,2020-03-01 2021-01-31,,513,Flint-Saginaw-Bay City MI
-696,,0.0,covid conspiracy,2020-03-01 2021-01-31,,570,Florence-Myrtle Beach SC
-697,,20.0,covid conspiracy,2020-03-01 2021-01-31,,866,Fresno-Visalia CA
-698,,57.0,covid conspiracy,2020-03-01 2021-01-31,,571,Ft. Myers-Naples FL
-699,,0.0,covid conspiracy,2020-03-01 2021-01-31,,670,Ft. Smith-Fayetteville-Springdale-Rogers AR
-700,,0.0,covid conspiracy,2020-03-01 2021-01-31,,509,Ft. Wayne IN
-701,,0.0,covid conspiracy,2020-03-01 2021-01-31,,592,Gainesville FL
-702,,0.0,covid conspiracy,2020-03-01 2021-01-31,,798,Glendive MT
-703,,0.0,covid conspiracy,2020-03-01 2021-01-31,,773,Grand Junction-Montrose CO
-704,,59.0,covid conspiracy,2020-03-01 2021-01-31,,563,Grand Rapids-Kalamazoo-Battle Creek MI
-705,,0.0,covid conspiracy,2020-03-01 2021-01-31,,755,Great Falls MT
-706,,0.0,covid conspiracy,2020-03-01 2021-01-31,,658,Green Bay-Appleton WI
-707,,0.0,covid conspiracy,2020-03-01 2021-01-31,,518,Greensboro-High Point-Winston Salem NC
-708,,0.0,covid conspiracy,2020-03-01 2021-01-31,,545,Greenville-New Bern-Washington NC
-709,,55.0,covid conspiracy,2020-03-01 2021-01-31,,567,Greenville-Spartanburg SC-Asheville NC-Anderson SC
-710,,0.0,covid conspiracy,2020-03-01 2021-01-31,,647,Greenwood-Greenville MS
-711,,0.0,covid conspiracy,2020-03-01 2021-01-31,,636,Harlingen-Weslaco-Brownsville-McAllen TX
-712,,60.0,covid conspiracy,2020-03-01 2021-01-31,,566,Harrisburg-Lancaster-Lebanon-York PA
-713,,0.0,covid conspiracy,2020-03-01 2021-01-31,,569,Harrisonburg VA
-714,,83.0,covid conspiracy,2020-03-01 2021-01-31,,533,Hartford & New Haven CT
-715,,0.0,covid conspiracy,2020-03-01 2021-01-31,,710,Hattiesburg-Laurel MS
-716,,0.0,covid conspiracy,2020-03-01 2021-01-31,,766,Helena MT
-717,,100.0,covid conspiracy,2020-03-01 2021-01-31,,744,Honolulu HI
-718,,41.0,covid conspiracy,2020-03-01 2021-01-31,,618,Houston TX
-719,,0.0,covid conspiracy,2020-03-01 2021-01-31,,691,Huntsville-Decatur (Florence) AL
-720,,0.0,covid conspiracy,2020-03-01 2021-01-31,,758,Idaho Falls-Pocatello ID
-721,,51.0,covid conspiracy,2020-03-01 2021-01-31,,527,Indianapolis IN
-722,,0.0,covid conspiracy,2020-03-01 2021-01-31,,718,Jackson MS
-723,,0.0,covid conspiracy,2020-03-01 2021-01-31,,639,Jackson TN
-724,,58.0,covid conspiracy,2020-03-01 2021-01-31,,561,Jacksonville FL
-725,,0.0,covid conspiracy,2020-03-01 2021-01-31,,574,Johnstown-Altoona PA
-726,,0.0,covid conspiracy,2020-03-01 2021-01-31,,734,Jonesboro AR
-727,,0.0,covid conspiracy,2020-03-01 2021-01-31,,603,Joplin MO-Pittsburg KS
-728,,0.0,covid conspiracy,2020-03-01 2021-01-31,,747,Juneau AK
-729,,65.0,covid conspiracy,2020-03-01 2021-01-31,,616,Kansas City MO
-730,,0.0,covid conspiracy,2020-03-01 2021-01-31,,557,Knoxville TN
-731,,0.0,covid conspiracy,2020-03-01 2021-01-31,,702,La Crosse-Eau Claire WI
-732,,0.0,covid conspiracy,2020-03-01 2021-01-31,,582,Lafayette IN
-733,,0.0,covid conspiracy,2020-03-01 2021-01-31,,642,Lafayette LA
-734,,0.0,covid conspiracy,2020-03-01 2021-01-31,,643,Lake Charles LA
-735,,0.0,covid conspiracy,2020-03-01 2021-01-31,,551,Lansing MI
-736,,0.0,covid conspiracy,2020-03-01 2021-01-31,,749,Laredo TX
-737,,51.0,covid conspiracy,2020-03-01 2021-01-31,,839,Las Vegas NV
-738,,0.0,covid conspiracy,2020-03-01 2021-01-31,,541,Lexington KY
-739,,0.0,covid conspiracy,2020-03-01 2021-01-31,,558,Lima OH
-740,,69.0,covid conspiracy,2020-03-01 2021-01-31,,722,Lincoln & Hastings-Kearney NE
-741,,0.0,covid conspiracy,2020-03-01 2021-01-31,,693,Little Rock-Pine Bluff AR
-742,,64.0,covid conspiracy,2020-03-01 2021-01-31,,803,Los Angeles CA
-743,,0.0,covid conspiracy,2020-03-01 2021-01-31,,529,Louisville KY
-744,,0.0,covid conspiracy,2020-03-01 2021-01-31,,651,Lubbock TX
-745,,0.0,covid conspiracy,2020-03-01 2021-01-31,,503,Macon GA
-746,,0.0,covid conspiracy,2020-03-01 2021-01-31,,669,Madison WI
-747,,0.0,covid conspiracy,2020-03-01 2021-01-31,,737,Mankato MN
-748,,0.0,covid conspiracy,2020-03-01 2021-01-31,,553,Marquette MI
-749,,0.0,covid conspiracy,2020-03-01 2021-01-31,,813,Medford-Klamath Falls OR
-750,,0.0,covid conspiracy,2020-03-01 2021-01-31,,640,Memphis TN
-751,,0.0,covid conspiracy,2020-03-01 2021-01-31,,711,Meridian MS
-752,,38.0,covid conspiracy,2020-03-01 2021-01-31,,528,Miami-Ft. Lauderdale FL
-753,,62.0,covid conspiracy,2020-03-01 2021-01-31,,617,Milwaukee WI
-754,,93.0,covid conspiracy,2020-03-01 2021-01-31,,613,Minneapolis-St. Paul MN
-755,,0.0,covid conspiracy,2020-03-01 2021-01-31,,687,Minot-Bismarck-Dickinson(Williston) ND
-756,,0.0,covid conspiracy,2020-03-01 2021-01-31,,762,Missoula MT
-757,,0.0,covid conspiracy,2020-03-01 2021-01-31,,686,Mobile AL-Pensacola (Ft. Walton Beach) FL
-758,,0.0,covid conspiracy,2020-03-01 2021-01-31,,628,Monroe LA-El Dorado AR
-759,,0.0,covid conspiracy,2020-03-01 2021-01-31,,828,Monterey-Salinas CA
-760,,0.0,covid conspiracy,2020-03-01 2021-01-31,,698,Montgomery (Selma) AL
-761,,75.0,covid conspiracy,2020-03-01 2021-01-31,,659,Nashville TN
-762,,29.0,covid conspiracy,2020-03-01 2021-01-31,,622,New Orleans LA
-763,,37.0,covid conspiracy,2020-03-01 2021-01-31,,501,New York NY
-764,,26.0,covid conspiracy,2020-03-01 2021-01-31,,544,Norfolk-Portsmouth-Newport News VA
-765,,0.0,covid conspiracy,2020-03-01 2021-01-31,,740,North Platte NE
-766,,0.0,covid conspiracy,2020-03-01 2021-01-31,,633,Odessa-Midland TX
-767,,0.0,covid conspiracy,2020-03-01 2021-01-31,,650,Oklahoma City OK
-768,,71.0,covid conspiracy,2020-03-01 2021-01-31,,652,Omaha NE
-769,,40.0,covid conspiracy,2020-03-01 2021-01-31,,534,Orlando-Daytona Beach-Melbourne FL
-770,,0.0,covid conspiracy,2020-03-01 2021-01-31,,631,Ottumwa IA-Kirksville MO
-771,,0.0,covid conspiracy,2020-03-01 2021-01-31,,632,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
-772,,0.0,covid conspiracy,2020-03-01 2021-01-31,,804,Palm Springs CA
-773,,0.0,covid conspiracy,2020-03-01 2021-01-31,,656,Panama City FL
-774,,0.0,covid conspiracy,2020-03-01 2021-01-31,,597,Parkersburg WV
-775,,0.0,covid conspiracy,2020-03-01 2021-01-31,,675,Peoria-Bloomington IL
-776,,36.0,covid conspiracy,2020-03-01 2021-01-31,,504,Philadelphia PA
-777,,59.0,covid conspiracy,2020-03-01 2021-01-31,,753,Phoenix AZ
-778,,79.0,covid conspiracy,2020-03-01 2021-01-31,,508,Pittsburgh PA
-779,,61.0,covid conspiracy,2020-03-01 2021-01-31,,820,Portland OR
-780,,73.0,covid conspiracy,2020-03-01 2021-01-31,,500,Portland-Auburn ME
-781,,0.0,covid conspiracy,2020-03-01 2021-01-31,,552,Presque Isle ME
-782,,90.0,covid conspiracy,2020-03-01 2021-01-31,,521,Providence RI-New Bedford MA
-783,,0.0,covid conspiracy,2020-03-01 2021-01-31,,717,Quincy IL-Hannibal MO-Keokuk IA
-784,,39.0,covid conspiracy,2020-03-01 2021-01-31,,560,Raleigh-Durham (Fayetteville) NC
-785,,0.0,covid conspiracy,2020-03-01 2021-01-31,,764,Rapid City SD
-786,,0.0,covid conspiracy,2020-03-01 2021-01-31,,811,Reno NV
-787,,82.0,covid conspiracy,2020-03-01 2021-01-31,,556,Richmond-Petersburg VA
-788,,0.0,covid conspiracy,2020-03-01 2021-01-31,,573,Roanoke-Lynchburg VA
-789,,0.0,covid conspiracy,2020-03-01 2021-01-31,,611,Rochester MN-Mason City IA-Austin MN
-790,,72.0,covid conspiracy,2020-03-01 2021-01-31,,538,Rochester NY
-791,,0.0,covid conspiracy,2020-03-01 2021-01-31,,610,Rockford IL
-792,,44.0,covid conspiracy,2020-03-01 2021-01-31,,862,Sacramento-Stockton-Modesto CA
-793,,0.0,covid conspiracy,2020-03-01 2021-01-31,,576,Salisbury MD
-794,,63.0,covid conspiracy,2020-03-01 2021-01-31,,770,Salt Lake City UT
-795,,0.0,covid conspiracy,2020-03-01 2021-01-31,,661,San Angelo TX
-796,,56.0,covid conspiracy,2020-03-01 2021-01-31,,641,San Antonio TX
-797,,84.0,covid conspiracy,2020-03-01 2021-01-31,,825,San Diego CA
-798,,46.0,covid conspiracy,2020-03-01 2021-01-31,,807,San Francisco-Oakland-San Jose CA
-799,,72.0,covid conspiracy,2020-03-01 2021-01-31,,855,Santa Barbara-Santa Maria-San Luis Obispo CA
-800,,0.0,covid conspiracy,2020-03-01 2021-01-31,,507,Savannah GA
-801,,80.0,covid conspiracy,2020-03-01 2021-01-31,,819,Seattle-Tacoma WA
-802,,0.0,covid conspiracy,2020-03-01 2021-01-31,,657,Sherman TX-Ada OK
-803,,0.0,covid conspiracy,2020-03-01 2021-01-31,,612,Shreveport LA
-804,,0.0,covid conspiracy,2020-03-01 2021-01-31,,624,Sioux City IA
-805,,0.0,covid conspiracy,2020-03-01 2021-01-31,,725,Sioux Falls(Mitchell) SD
-806,,0.0,covid conspiracy,2020-03-01 2021-01-31,,588,South Bend-Elkhart IN
-807,,41.0,covid conspiracy,2020-03-01 2021-01-31,,881,Spokane WA
-808,,0.0,covid conspiracy,2020-03-01 2021-01-31,,619,Springfield MO
-809,,0.0,covid conspiracy,2020-03-01 2021-01-31,,543,Springfield-Holyoke MA
-810,,0.0,covid conspiracy,2020-03-01 2021-01-31,,638,St. Joseph MO
-811,,58.0,covid conspiracy,2020-03-01 2021-01-31,,609,St. Louis MO
-812,,0.0,covid conspiracy,2020-03-01 2021-01-31,,555,Syracuse NY
-813,,0.0,covid conspiracy,2020-03-01 2021-01-31,,530,Tallahassee FL-Thomasville GA
-814,,50.0,covid conspiracy,2020-03-01 2021-01-31,,539,Tampa-St. Petersburg (Sarasota) FL
-815,,0.0,covid conspiracy,2020-03-01 2021-01-31,,581,Terre Haute IN
-816,,0.0,covid conspiracy,2020-03-01 2021-01-31,,547,Toledo OH
-817,,0.0,covid conspiracy,2020-03-01 2021-01-31,,605,Topeka KS
-818,,0.0,covid conspiracy,2020-03-01 2021-01-31,,540,Traverse City-Cadillac MI
-819,,0.0,covid conspiracy,2020-03-01 2021-01-31,,531,Tri-Cities TN-VA
-820,,60.0,covid conspiracy,2020-03-01 2021-01-31,,789,Tucson (Sierra Vista) AZ
-821,,0.0,covid conspiracy,2020-03-01 2021-01-31,,671,Tulsa OK
-822,,0.0,covid conspiracy,2020-03-01 2021-01-31,,760,Twin Falls ID
-823,,0.0,covid conspiracy,2020-03-01 2021-01-31,,709,Tyler-Longview(Lufkin & Nacogdoches) TX
-824,,0.0,covid conspiracy,2020-03-01 2021-01-31,,526,Utica NY
-825,,0.0,covid conspiracy,2020-03-01 2021-01-31,,626,Victoria TX
-826,,0.0,covid conspiracy,2020-03-01 2021-01-31,,625,Waco-Temple-Bryan TX
-827,,42.0,covid conspiracy,2020-03-01 2021-01-31,,511,Washington DC (Hagerstown MD)
-828,,0.0,covid conspiracy,2020-03-01 2021-01-31,,549,Watertown NY
-829,,0.0,covid conspiracy,2020-03-01 2021-01-31,,705,Wausau-Rhinelander WI
-830,,40.0,covid conspiracy,2020-03-01 2021-01-31,,548,West Palm Beach-Ft. Pierce FL
-831,,0.0,covid conspiracy,2020-03-01 2021-01-31,,554,Wheeling WV-Steubenville OH
-832,,0.0,covid conspiracy,2020-03-01 2021-01-31,,627,Wichita Falls TX & Lawton OK
-833,,0.0,covid conspiracy,2020-03-01 2021-01-31,,678,Wichita-Hutchinson KS
-834,,0.0,covid conspiracy,2020-03-01 2021-01-31,,577,Wilkes Barre-Scranton PA
-835,,0.0,covid conspiracy,2020-03-01 2021-01-31,,550,Wilmington NC
-836,,0.0,covid conspiracy,2020-03-01 2021-01-31,,810,Yakima-Pasco-Richland-Kennewick WA
-837,,0.0,covid conspiracy,2020-03-01 2021-01-31,,536,Youngstown OH
-838,,0.0,covid conspiracy,2020-03-01 2021-01-31,,771,Yuma AZ-El Centro CA
-839,,0.0,covid conspiracy,2020-03-01 2021-01-31,,596,Zanesville OH
-840,,69.0,pizzagate,2020-03-01 2021-01-31,,662,Abilene-Sweetwater TX
-841,,16.0,pizzagate,2020-03-01 2021-01-31,,525,Albany GA
-842,,36.0,pizzagate,2020-03-01 2021-01-31,,532,Albany-Schenectady-Troy NY
-843,,45.0,pizzagate,2020-03-01 2021-01-31,,790,Albuquerque-Santa Fe NM
-844,,61.0,pizzagate,2020-03-01 2021-01-31,,644,Alexandria LA
-845,,38.0,pizzagate,2020-03-01 2021-01-31,,583,Alpena MI
-846,,47.0,pizzagate,2020-03-01 2021-01-31,,634,Amarillo TX
-847,,36.0,pizzagate,2020-03-01 2021-01-31,,743,Anchorage AK
-848,,38.0,pizzagate,2020-03-01 2021-01-31,,524,Atlanta GA
-849,,32.0,pizzagate,2020-03-01 2021-01-31,,520,Augusta GA
-850,,41.0,pizzagate,2020-03-01 2021-01-31,,635,Austin TX
-851,,41.0,pizzagate,2020-03-01 2021-01-31,,800,Bakersfield CA
-852,,26.0,pizzagate,2020-03-01 2021-01-31,,512,Baltimore MD
-853,,40.0,pizzagate,2020-03-01 2021-01-31,,537,Bangor ME
-854,,48.0,pizzagate,2020-03-01 2021-01-31,,716,Baton Rouge LA
-855,,58.0,pizzagate,2020-03-01 2021-01-31,,692,Beaumont-Port Arthur TX
-856,,42.0,pizzagate,2020-03-01 2021-01-31,,821,Bend OR
-857,,54.0,pizzagate,2020-03-01 2021-01-31,,756,"Billings, MT"
-858,,40.0,pizzagate,2020-03-01 2021-01-31,,746,Biloxi-Gulfport MS
-859,,35.0,pizzagate,2020-03-01 2021-01-31,,502,Binghamton NY
-860,,50.0,pizzagate,2020-03-01 2021-01-31,,630,Birmingham AL
-861,,51.0,pizzagate,2020-03-01 2021-01-31,,559,Bluefield-Beckley-Oak Hill WV
-862,,37.0,pizzagate,2020-03-01 2021-01-31,,757,Boise ID
-863,,34.0,pizzagate,2020-03-01 2021-01-31,,506,Boston MA-Manchester NH
-864,,80.0,pizzagate,2020-03-01 2021-01-31,,736,Bowling Green KY
-865,,36.0,pizzagate,2020-03-01 2021-01-31,,514,Buffalo NY
-866,,22.0,pizzagate,2020-03-01 2021-01-31,,523,Burlington VT-Plattsburgh NY
-867,,49.0,pizzagate,2020-03-01 2021-01-31,,754,Butte-Bozeman MT
-868,,20.0,pizzagate,2020-03-01 2021-01-31,,767,Casper-Riverton WY
-869,,45.0,pizzagate,2020-03-01 2021-01-31,,637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
-870,,36.0,pizzagate,2020-03-01 2021-01-31,,648,Champaign & Springfield-Decatur IL
-871,,42.0,pizzagate,2020-03-01 2021-01-31,,519,Charleston SC
-872,,66.0,pizzagate,2020-03-01 2021-01-31,,564,Charleston-Huntington WV
-873,,38.0,pizzagate,2020-03-01 2021-01-31,,517,Charlotte NC
-874,,57.0,pizzagate,2020-03-01 2021-01-31,,584,Charlottesville VA
-875,,44.0,pizzagate,2020-03-01 2021-01-31,,575,Chattanooga TN
-876,,70.0,pizzagate,2020-03-01 2021-01-31,,759,Cheyenne WY-Scottsbluff NE
-877,,39.0,pizzagate,2020-03-01 2021-01-31,,602,Chicago IL
-878,,47.0,pizzagate,2020-03-01 2021-01-31,,868,Chico-Redding CA
-879,,52.0,pizzagate,2020-03-01 2021-01-31,,515,Cincinnati OH
-880,,36.0,pizzagate,2020-03-01 2021-01-31,,598,Clarksburg-Weston WV
-881,,39.0,pizzagate,2020-03-01 2021-01-31,,510,Cleveland-Akron (Canton) OH
-882,,42.0,pizzagate,2020-03-01 2021-01-31,,752,Colorado Springs-Pueblo CO
-883,,37.0,pizzagate,2020-03-01 2021-01-31,,546,Columbia SC
-884,,38.0,pizzagate,2020-03-01 2021-01-31,,604,Columbia-Jefferson City MO
-885,,35.0,pizzagate,2020-03-01 2021-01-31,,522,Columbus GA
-886,,38.0,pizzagate,2020-03-01 2021-01-31,,535,Columbus OH
-887,,61.0,pizzagate,2020-03-01 2021-01-31,,673,Columbus-Tupelo-West Point MS
-888,,52.0,pizzagate,2020-03-01 2021-01-31,,600,Corpus Christi TX
-889,,47.0,pizzagate,2020-03-01 2021-01-31,,623,Dallas-Ft. Worth TX
-890,,44.0,pizzagate,2020-03-01 2021-01-31,,682,Davenport IA-Rock Island-Moline IL
-891,,53.0,pizzagate,2020-03-01 2021-01-31,,542,Dayton OH
-892,,37.0,pizzagate,2020-03-01 2021-01-31,,751,Denver CO
-893,,34.0,pizzagate,2020-03-01 2021-01-31,,679,Des Moines-Ames IA
-894,,41.0,pizzagate,2020-03-01 2021-01-31,,505,Detroit MI
-895,,38.0,pizzagate,2020-03-01 2021-01-31,,606,Dothan AL
-896,,45.0,pizzagate,2020-03-01 2021-01-31,,676,Duluth MN-Superior WI
-897,,62.0,pizzagate,2020-03-01 2021-01-31,,765,El Paso TX
-898,,40.0,pizzagate,2020-03-01 2021-01-31,,565,Elmira NY
-899,,39.0,pizzagate,2020-03-01 2021-01-31,,516,Erie PA
-900,,32.0,pizzagate,2020-03-01 2021-01-31,,801,Eugene OR
-901,,23.0,pizzagate,2020-03-01 2021-01-31,,802,Eureka CA
-902,,33.0,pizzagate,2020-03-01 2021-01-31,,649,Evansville IN
-903,,48.0,pizzagate,2020-03-01 2021-01-31,,745,Fairbanks AK
-904,,46.0,pizzagate,2020-03-01 2021-01-31,,724,Fargo-Valley City ND
-905,,54.0,pizzagate,2020-03-01 2021-01-31,,513,Flint-Saginaw-Bay City MI
-906,,44.0,pizzagate,2020-03-01 2021-01-31,,570,Florence-Myrtle Beach SC
-907,,40.0,pizzagate,2020-03-01 2021-01-31,,866,Fresno-Visalia CA
-908,,38.0,pizzagate,2020-03-01 2021-01-31,,571,Ft. Myers-Naples FL
-909,,37.0,pizzagate,2020-03-01 2021-01-31,,670,Ft. Smith-Fayetteville-Springdale-Rogers AR
-910,,46.0,pizzagate,2020-03-01 2021-01-31,,509,Ft. Wayne IN
-911,,38.0,pizzagate,2020-03-01 2021-01-31,,592,Gainesville FL
-912,,0.0,pizzagate,2020-03-01 2021-01-31,,798,Glendive MT
-913,,19.0,pizzagate,2020-03-01 2021-01-31,,773,Grand Junction-Montrose CO
-914,,55.0,pizzagate,2020-03-01 2021-01-31,,563,Grand Rapids-Kalamazoo-Battle Creek MI
-915,,47.0,pizzagate,2020-03-01 2021-01-31,,755,Great Falls MT
-916,,32.0,pizzagate,2020-03-01 2021-01-31,,658,Green Bay-Appleton WI
-917,,36.0,pizzagate,2020-03-01 2021-01-31,,518,Greensboro-High Point-Winston Salem NC
-918,,51.0,pizzagate,2020-03-01 2021-01-31,,545,Greenville-New Bern-Washington NC
-919,,48.0,pizzagate,2020-03-01 2021-01-31,,567,Greenville-Spartanburg SC-Asheville NC-Anderson SC
-920,,88.0,pizzagate,2020-03-01 2021-01-31,,647,Greenwood-Greenville MS
-921,,37.0,pizzagate,2020-03-01 2021-01-31,,636,Harlingen-Weslaco-Brownsville-McAllen TX
-922,,38.0,pizzagate,2020-03-01 2021-01-31,,566,Harrisburg-Lancaster-Lebanon-York PA
-923,,56.0,pizzagate,2020-03-01 2021-01-31,,569,Harrisonburg VA
-924,,25.0,pizzagate,2020-03-01 2021-01-31,,533,Hartford & New Haven CT
-925,,85.0,pizzagate,2020-03-01 2021-01-31,,710,Hattiesburg-Laurel MS
-926,,16.0,pizzagate,2020-03-01 2021-01-31,,766,Helena MT
-927,,33.0,pizzagate,2020-03-01 2021-01-31,,744,Honolulu HI
-928,,38.0,pizzagate,2020-03-01 2021-01-31,,618,Houston TX
-929,,50.0,pizzagate,2020-03-01 2021-01-31,,691,Huntsville-Decatur (Florence) AL
-930,,46.0,pizzagate,2020-03-01 2021-01-31,,758,Idaho Falls-Pocatello ID
-931,,44.0,pizzagate,2020-03-01 2021-01-31,,527,Indianapolis IN
-932,,27.0,pizzagate,2020-03-01 2021-01-31,,718,Jackson MS
-933,,48.0,pizzagate,2020-03-01 2021-01-31,,639,Jackson TN
-934,,44.0,pizzagate,2020-03-01 2021-01-31,,561,Jacksonville FL
-935,,46.0,pizzagate,2020-03-01 2021-01-31,,574,Johnstown-Altoona PA
-936,,76.0,pizzagate,2020-03-01 2021-01-31,,734,Jonesboro AR
-937,,69.0,pizzagate,2020-03-01 2021-01-31,,603,Joplin MO-Pittsburg KS
-938,,0.0,pizzagate,2020-03-01 2021-01-31,,747,Juneau AK
-939,,46.0,pizzagate,2020-03-01 2021-01-31,,616,Kansas City MO
-940,,38.0,pizzagate,2020-03-01 2021-01-31,,557,Knoxville TN
-941,,50.0,pizzagate,2020-03-01 2021-01-31,,702,La Crosse-Eau Claire WI
-942,,33.0,pizzagate,2020-03-01 2021-01-31,,582,Lafayette IN
-943,,62.0,pizzagate,2020-03-01 2021-01-31,,642,Lafayette LA
-944,,42.0,pizzagate,2020-03-01 2021-01-31,,643,Lake Charles LA
-945,,36.0,pizzagate,2020-03-01 2021-01-31,,551,Lansing MI
-946,,39.0,pizzagate,2020-03-01 2021-01-31,,749,Laredo TX
-947,,45.0,pizzagate,2020-03-01 2021-01-31,,839,Las Vegas NV
-948,,46.0,pizzagate,2020-03-01 2021-01-31,,541,Lexington KY
-949,,64.0,pizzagate,2020-03-01 2021-01-31,,558,Lima OH
-950,,49.0,pizzagate,2020-03-01 2021-01-31,,722,Lincoln & Hastings-Kearney NE
-951,,49.0,pizzagate,2020-03-01 2021-01-31,,693,Little Rock-Pine Bluff AR
-952,,38.0,pizzagate,2020-03-01 2021-01-31,,803,Los Angeles CA
-953,,44.0,pizzagate,2020-03-01 2021-01-31,,529,Louisville KY
-954,,69.0,pizzagate,2020-03-01 2021-01-31,,651,Lubbock TX
-955,,48.0,pizzagate,2020-03-01 2021-01-31,,503,Macon GA
-956,,30.0,pizzagate,2020-03-01 2021-01-31,,669,Madison WI
-957,,45.0,pizzagate,2020-03-01 2021-01-31,,737,Mankato MN
-958,,51.0,pizzagate,2020-03-01 2021-01-31,,553,Marquette MI
-959,,38.0,pizzagate,2020-03-01 2021-01-31,,813,Medford-Klamath Falls OR
-960,,39.0,pizzagate,2020-03-01 2021-01-31,,640,Memphis TN
-961,,35.0,pizzagate,2020-03-01 2021-01-31,,711,Meridian MS
-962,,32.0,pizzagate,2020-03-01 2021-01-31,,528,Miami-Ft. Lauderdale FL
-963,,37.0,pizzagate,2020-03-01 2021-01-31,,617,Milwaukee WI
-964,,30.0,pizzagate,2020-03-01 2021-01-31,,613,Minneapolis-St. Paul MN
-965,,55.0,pizzagate,2020-03-01 2021-01-31,,687,Minot-Bismarck-Dickinson(Williston) ND
-966,,60.0,pizzagate,2020-03-01 2021-01-31,,762,Missoula MT
-967,,47.0,pizzagate,2020-03-01 2021-01-31,,686,Mobile AL-Pensacola (Ft. Walton Beach) FL
-968,,66.0,pizzagate,2020-03-01 2021-01-31,,628,Monroe LA-El Dorado AR
-969,,33.0,pizzagate,2020-03-01 2021-01-31,,828,Monterey-Salinas CA
-970,,22.0,pizzagate,2020-03-01 2021-01-31,,698,Montgomery (Selma) AL
-971,,49.0,pizzagate,2020-03-01 2021-01-31,,659,Nashville TN
-972,,48.0,pizzagate,2020-03-01 2021-01-31,,622,New Orleans LA
-973,,29.0,pizzagate,2020-03-01 2021-01-31,,501,New York NY
-974,,45.0,pizzagate,2020-03-01 2021-01-31,,544,Norfolk-Portsmouth-Newport News VA
-975,,100.0,pizzagate,2020-03-01 2021-01-31,,740,North Platte NE
-976,,71.0,pizzagate,2020-03-01 2021-01-31,,633,Odessa-Midland TX
-977,,57.0,pizzagate,2020-03-01 2021-01-31,,650,Oklahoma City OK
-978,,45.0,pizzagate,2020-03-01 2021-01-31,,652,Omaha NE
-979,,37.0,pizzagate,2020-03-01 2021-01-31,,534,Orlando-Daytona Beach-Melbourne FL
-980,,27.0,pizzagate,2020-03-01 2021-01-31,,631,Ottumwa IA-Kirksville MO
-981,,60.0,pizzagate,2020-03-01 2021-01-31,,632,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
-982,,28.0,pizzagate,2020-03-01 2021-01-31,,804,Palm Springs CA
-983,,68.0,pizzagate,2020-03-01 2021-01-31,,656,Panama City FL
-984,,20.0,pizzagate,2020-03-01 2021-01-31,,597,Parkersburg WV
-985,,40.0,pizzagate,2020-03-01 2021-01-31,,675,Peoria-Bloomington IL
-986,,39.0,pizzagate,2020-03-01 2021-01-31,,504,Philadelphia PA
-987,,46.0,pizzagate,2020-03-01 2021-01-31,,753,Phoenix AZ
-988,,47.0,pizzagate,2020-03-01 2021-01-31,,508,Pittsburgh PA
-989,,42.0,pizzagate,2020-03-01 2021-01-31,,820,Portland OR
-990,,39.0,pizzagate,2020-03-01 2021-01-31,,500,Portland-Auburn ME
-991,,0.0,pizzagate,2020-03-01 2021-01-31,,552,Presque Isle ME
-992,,42.0,pizzagate,2020-03-01 2021-01-31,,521,Providence RI-New Bedford MA
-993,,61.0,pizzagate,2020-03-01 2021-01-31,,717,Quincy IL-Hannibal MO-Keokuk IA
-994,,30.0,pizzagate,2020-03-01 2021-01-31,,560,Raleigh-Durham (Fayetteville) NC
-995,,47.0,pizzagate,2020-03-01 2021-01-31,,764,Rapid City SD
-996,,33.0,pizzagate,2020-03-01 2021-01-31,,811,Reno NV
-997,,27.0,pizzagate,2020-03-01 2021-01-31,,556,Richmond-Petersburg VA
-998,,46.0,pizzagate,2020-03-01 2021-01-31,,573,Roanoke-Lynchburg VA
-999,,41.0,pizzagate,2020-03-01 2021-01-31,,611,Rochester MN-Mason City IA-Austin MN
-1000,,24.0,pizzagate,2020-03-01 2021-01-31,,538,Rochester NY
-1001,,39.0,pizzagate,2020-03-01 2021-01-31,,610,Rockford IL
-1002,,42.0,pizzagate,2020-03-01 2021-01-31,,862,Sacramento-Stockton-Modesto CA
-1003,,56.0,pizzagate,2020-03-01 2021-01-31,,576,Salisbury MD
-1004,,49.0,pizzagate,2020-03-01 2021-01-31,,770,Salt Lake City UT
-1005,,7.0,pizzagate,2020-03-01 2021-01-31,,661,San Angelo TX
-1006,,45.0,pizzagate,2020-03-01 2021-01-31,,641,San Antonio TX
-1007,,39.0,pizzagate,2020-03-01 2021-01-31,,825,San Diego CA
-1008,,22.0,pizzagate,2020-03-01 2021-01-31,,807,San Francisco-Oakland-San Jose CA
-1009,,25.0,pizzagate,2020-03-01 2021-01-31,,855,Santa Barbara-Santa Maria-San Luis Obispo CA
-1010,,52.0,pizzagate,2020-03-01 2021-01-31,,507,Savannah GA
-1011,,38.0,pizzagate,2020-03-01 2021-01-31,,819,Seattle-Tacoma WA
-1012,,65.0,pizzagate,2020-03-01 2021-01-31,,657,Sherman TX-Ada OK
-1013,,32.0,pizzagate,2020-03-01 2021-01-31,,612,Shreveport LA
-1014,,37.0,pizzagate,2020-03-01 2021-01-31,,624,Sioux City IA
-1015,,47.0,pizzagate,2020-03-01 2021-01-31,,725,Sioux Falls(Mitchell) SD
-1016,,54.0,pizzagate,2020-03-01 2021-01-31,,588,South Bend-Elkhart IN
-1017,,50.0,pizzagate,2020-03-01 2021-01-31,,881,Spokane WA
-1018,,40.0,pizzagate,2020-03-01 2021-01-31,,619,Springfield MO
-1019,,25.0,pizzagate,2020-03-01 2021-01-31,,543,Springfield-Holyoke MA
-1020,,63.0,pizzagate,2020-03-01 2021-01-31,,638,St. Joseph MO
-1021,,43.0,pizzagate,2020-03-01 2021-01-31,,609,St. Louis MO
-1022,,36.0,pizzagate,2020-03-01 2021-01-31,,555,Syracuse NY
-1023,,27.0,pizzagate,2020-03-01 2021-01-31,,530,Tallahassee FL-Thomasville GA
-1024,,35.0,pizzagate,2020-03-01 2021-01-31,,539,Tampa-St. Petersburg (Sarasota) FL
-1025,,26.0,pizzagate,2020-03-01 2021-01-31,,581,Terre Haute IN
-1026,,46.0,pizzagate,2020-03-01 2021-01-31,,547,Toledo OH
-1027,,40.0,pizzagate,2020-03-01 2021-01-31,,605,Topeka KS
-1028,,35.0,pizzagate,2020-03-01 2021-01-31,,540,Traverse City-Cadillac MI
-1029,,38.0,pizzagate,2020-03-01 2021-01-31,,531,Tri-Cities TN-VA
-1030,,35.0,pizzagate,2020-03-01 2021-01-31,,789,Tucson (Sierra Vista) AZ
-1031,,41.0,pizzagate,2020-03-01 2021-01-31,,671,Tulsa OK
-1032,,22.0,pizzagate,2020-03-01 2021-01-31,,760,Twin Falls ID
-1033,,64.0,pizzagate,2020-03-01 2021-01-31,,709,Tyler-Longview(Lufkin & Nacogdoches) TX
-1034,,25.0,pizzagate,2020-03-01 2021-01-31,,526,Utica NY
-1035,,32.0,pizzagate,2020-03-01 2021-01-31,,626,Victoria TX
-1036,,46.0,pizzagate,2020-03-01 2021-01-31,,625,Waco-Temple-Bryan TX
-1037,,26.0,pizzagate,2020-03-01 2021-01-31,,511,Washington DC (Hagerstown MD)
-1038,,32.0,pizzagate,2020-03-01 2021-01-31,,549,Watertown NY
-1039,,24.0,pizzagate,2020-03-01 2021-01-31,,705,Wausau-Rhinelander WI
-1040,,29.0,pizzagate,2020-03-01 2021-01-31,,548,West Palm Beach-Ft. Pierce FL
-1041,,43.0,pizzagate,2020-03-01 2021-01-31,,554,Wheeling WV-Steubenville OH
-1042,,59.0,pizzagate,2020-03-01 2021-01-31,,627,Wichita Falls TX & Lawton OK
-1043,,39.0,pizzagate,2020-03-01 2021-01-31,,678,Wichita-Hutchinson KS
-1044,,60.0,pizzagate,2020-03-01 2021-01-31,,577,Wilkes Barre-Scranton PA
-1045,,28.0,pizzagate,2020-03-01 2021-01-31,,550,Wilmington NC
-1046,,29.0,pizzagate,2020-03-01 2021-01-31,,810,Yakima-Pasco-Richland-Kennewick WA
-1047,,42.0,pizzagate,2020-03-01 2021-01-31,,536,Youngstown OH
-1048,,18.0,pizzagate,2020-03-01 2021-01-31,,771,Yuma AZ-El Centro CA
-1049,,33.0,pizzagate,2020-03-01 2021-01-31,,596,Zanesville OH
+,date_range,DMA,covid conspiracy,covid hoax,pizzagate,plandemic,wuhan lab
+0,2020-03-01 2021-01-31,Abilene-Sweetwater TX,0.0,0.0,54.0,12.0,0.0
+1,2020-03-01 2021-01-31,Albany GA,0.0,0.0,64.0,10.0,0.0
+2,2020-03-01 2021-01-31,Albany-Schenectady-Troy NY,79.0,48.0,45.0,33.0,49.0
+3,2020-03-01 2021-01-31,Albuquerque-Santa Fe NM,74.0,38.0,44.0,22.0,21.0
+4,2020-03-01 2021-01-31,Alexandria LA,0.0,0.0,42.0,19.0,0.0
+5,2020-03-01 2021-01-31,Alpena MI,0.0,0.0,42.0,0.0,0.0
+6,2020-03-01 2021-01-31,Amarillo TX,0.0,0.0,74.0,14.0,70.0
+7,2020-03-01 2021-01-31,Anchorage AK,0.0,0.0,43.0,55.0,0.0
+8,2020-03-01 2021-01-31,Atlanta GA,34.0,45.0,44.0,23.0,37.0
+9,2020-03-01 2021-01-31,Augusta GA,0.0,0.0,33.0,31.0,7.0
+10,2020-03-01 2021-01-31,Austin TX,66.0,72.0,36.0,36.0,47.0
+11,2020-03-01 2021-01-31,Bakersfield CA,0.0,0.0,61.0,11.0,22.0
+12,2020-03-01 2021-01-31,Baltimore MD,35.0,31.0,33.0,28.0,49.0
+13,2020-03-01 2021-01-31,Bangor ME,0.0,0.0,48.0,32.0,90.0
+14,2020-03-01 2021-01-31,Baton Rouge LA,0.0,0.0,60.0,22.0,42.0
+15,2020-03-01 2021-01-31,Beaumont-Port Arthur TX,0.0,0.0,64.0,16.0,40.0
+16,2020-03-01 2021-01-31,Bend OR,0.0,0.0,57.0,32.0,0.0
+17,2020-03-01 2021-01-31,"Billings, MT",0.0,0.0,76.0,12.0,61.0
+18,2020-03-01 2021-01-31,Biloxi-Gulfport MS,0.0,0.0,56.0,42.0,42.0
+19,2020-03-01 2021-01-31,Binghamton NY,0.0,0.0,30.0,14.0,32.0
+20,2020-03-01 2021-01-31,Birmingham AL,50.0,32.0,45.0,32.0,35.0
+21,2020-03-01 2021-01-31,Bluefield-Beckley-Oak Hill WV,0.0,0.0,56.0,13.0,64.0
+22,2020-03-01 2021-01-31,Boise ID,0.0,73.0,41.0,26.0,63.0
+23,2020-03-01 2021-01-31,Boston MA-Manchester NH,50.0,47.0,37.0,33.0,66.0
+24,2020-03-01 2021-01-31,Bowling Green KY,0.0,0.0,89.0,36.0,0.0
+25,2020-03-01 2021-01-31,Buffalo NY,61.0,56.0,46.0,30.0,69.0
+26,2020-03-01 2021-01-31,Burlington VT-Plattsburgh NY,0.0,54.0,34.0,35.0,53.0
+27,2020-03-01 2021-01-31,Butte-Bozeman MT,0.0,0.0,54.0,34.0,0.0
+28,2020-03-01 2021-01-31,Casper-Riverton WY,0.0,0.0,11.0,26.0,0.0
+29,2020-03-01 2021-01-31,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,0.0,81.0,56.0,40.0,38.0
+30,2020-03-01 2021-01-31,Champaign & Springfield-Decatur IL,0.0,0.0,59.0,14.0,68.0
+31,2020-03-01 2021-01-31,Charleston SC,0.0,0.0,29.0,21.0,49.0
+32,2020-03-01 2021-01-31,Charleston-Huntington WV,0.0,0.0,68.0,23.0,59.0
+33,2020-03-01 2021-01-31,Charlotte NC,51.0,33.0,47.0,25.0,52.0
+34,2020-03-01 2021-01-31,Charlottesville VA,0.0,0.0,47.0,36.0,0.0
+35,2020-03-01 2021-01-31,Chattanooga TN,0.0,0.0,49.0,34.0,54.0
+36,2020-03-01 2021-01-31,Cheyenne WY-Scottsbluff NE,0.0,0.0,48.0,22.0,0.0
+37,2020-03-01 2021-01-31,Chicago IL,50.0,54.0,47.0,28.0,42.0
+38,2020-03-01 2021-01-31,Chico-Redding CA,0.0,0.0,49.0,26.0,66.0
+39,2020-03-01 2021-01-31,Cincinnati OH,48.0,55.0,61.0,41.0,35.0
+40,2020-03-01 2021-01-31,Clarksburg-Weston WV,0.0,0.0,47.0,31.0,0.0
+41,2020-03-01 2021-01-31,Cleveland-Akron (Canton) OH,62.0,56.0,53.0,45.0,44.0
+42,2020-03-01 2021-01-31,Colorado Springs-Pueblo CO,0.0,84.0,35.0,26.0,50.0
+43,2020-03-01 2021-01-31,Columbia SC,0.0,0.0,43.0,23.0,36.0
+44,2020-03-01 2021-01-31,Columbia-Jefferson City MO,0.0,0.0,35.0,29.0,96.0
+45,2020-03-01 2021-01-31,Columbus GA,0.0,0.0,30.0,18.0,35.0
+46,2020-03-01 2021-01-31,Columbus OH,63.0,39.0,39.0,34.0,26.0
+47,2020-03-01 2021-01-31,Columbus-Tupelo-West Point MS,0.0,0.0,48.0,30.0,0.0
+48,2020-03-01 2021-01-31,Corpus Christi TX,0.0,0.0,53.0,14.0,9.0
+49,2020-03-01 2021-01-31,Dallas-Ft. Worth TX,49.0,41.0,49.0,27.0,37.0
+50,2020-03-01 2021-01-31,Davenport IA-Rock Island-Moline IL,0.0,0.0,53.0,18.0,46.0
+51,2020-03-01 2021-01-31,Dayton OH,0.0,16.0,61.0,28.0,62.0
+52,2020-03-01 2021-01-31,Denver CO,72.0,61.0,43.0,37.0,39.0
+53,2020-03-01 2021-01-31,Des Moines-Ames IA,39.0,78.0,44.0,40.0,31.0
+54,2020-03-01 2021-01-31,Detroit MI,56.0,46.0,50.0,34.0,54.0
+55,2020-03-01 2021-01-31,Dothan AL,0.0,0.0,60.0,27.0,0.0
+56,2020-03-01 2021-01-31,Duluth MN-Superior WI,0.0,0.0,46.0,40.0,54.0
+57,2020-03-01 2021-01-31,El Paso TX,0.0,0.0,47.0,11.0,23.0
+58,2020-03-01 2021-01-31,Elmira NY,0.0,0.0,38.0,21.0,0.0
+59,2020-03-01 2021-01-31,Erie PA,0.0,0.0,53.0,20.0,26.0
+60,2020-03-01 2021-01-31,Eugene OR,0.0,0.0,37.0,42.0,31.0
+61,2020-03-01 2021-01-31,Eureka CA,0.0,0.0,25.0,28.0,0.0
+62,2020-03-01 2021-01-31,Evansville IN,0.0,0.0,48.0,22.0,41.0
+63,2020-03-01 2021-01-31,Fairbanks AK,0.0,0.0,67.0,15.0,0.0
+64,2020-03-01 2021-01-31,Fargo-Valley City ND,0.0,0.0,42.0,30.0,8.0
+65,2020-03-01 2021-01-31,Flint-Saginaw-Bay City MI,0.0,70.0,72.0,39.0,38.0
+66,2020-03-01 2021-01-31,Florence-Myrtle Beach SC,0.0,0.0,30.0,15.0,38.0
+67,2020-03-01 2021-01-31,Fresno-Visalia CA,36.0,19.0,43.0,27.0,24.0
+68,2020-03-01 2021-01-31,Ft. Myers-Naples FL,41.0,51.0,50.0,35.0,70.0
+69,2020-03-01 2021-01-31,Ft. Smith-Fayetteville-Springdale-Rogers AR,0.0,0.0,51.0,34.0,85.0
+70,2020-03-01 2021-01-31,Ft. Wayne IN,0.0,0.0,72.0,37.0,69.0
+71,2020-03-01 2021-01-31,Gainesville FL,0.0,0.0,32.0,7.0,37.0
+72,2020-03-01 2021-01-31,Glendive MT,0.0,0.0,0.0,0.0,0.0
+73,2020-03-01 2021-01-31,Grand Junction-Montrose CO,0.0,0.0,63.0,32.0,0.0
+74,2020-03-01 2021-01-31,Grand Rapids-Kalamazoo-Battle Creek MI,82.0,51.0,47.0,31.0,37.0
+75,2020-03-01 2021-01-31,Great Falls MT,0.0,0.0,52.0,35.0,0.0
+76,2020-03-01 2021-01-31,Green Bay-Appleton WI,0.0,51.0,37.0,29.0,42.0
+77,2020-03-01 2021-01-31,Greensboro-High Point-Winston Salem NC,0.0,49.0,39.0,27.0,32.0
+78,2020-03-01 2021-01-31,Greenville-New Bern-Washington NC,0.0,0.0,57.0,32.0,6.0
+79,2020-03-01 2021-01-31,Greenville-Spartanburg SC-Asheville NC-Anderson SC,51.0,36.0,45.0,29.0,30.0
+80,2020-03-01 2021-01-31,Greenwood-Greenville MS,0.0,0.0,36.0,28.0,0.0
+81,2020-03-01 2021-01-31,Harlingen-Weslaco-Brownsville-McAllen TX,0.0,0.0,40.0,6.0,14.0
+82,2020-03-01 2021-01-31,Harrisburg-Lancaster-Lebanon-York PA,55.0,46.0,39.0,37.0,55.0
+83,2020-03-01 2021-01-31,Harrisonburg VA,0.0,0.0,39.0,25.0,85.0
+84,2020-03-01 2021-01-31,Hartford & New Haven CT,65.0,35.0,33.0,25.0,50.0
+85,2020-03-01 2021-01-31,Hattiesburg-Laurel MS,0.0,0.0,44.0,22.0,0.0
+86,2020-03-01 2021-01-31,Helena MT,0.0,0.0,70.0,100.0,0.0
+87,2020-03-01 2021-01-31,Honolulu HI,80.0,53.0,55.0,19.0,65.0
+88,2020-03-01 2021-01-31,Houston TX,29.0,39.0,47.0,19.0,37.0
+89,2020-03-01 2021-01-31,Huntsville-Decatur (Florence) AL,0.0,0.0,52.0,33.0,41.0
+90,2020-03-01 2021-01-31,Idaho Falls-Pocatello ID,0.0,0.0,47.0,29.0,27.0
+91,2020-03-01 2021-01-31,Indianapolis IN,47.0,41.0,48.0,26.0,41.0
+92,2020-03-01 2021-01-31,Jackson MS,0.0,0.0,44.0,25.0,36.0
+93,2020-03-01 2021-01-31,Jackson TN,0.0,0.0,60.0,23.0,0.0
+94,2020-03-01 2021-01-31,Jacksonville FL,47.0,55.0,46.0,26.0,53.0
+95,2020-03-01 2021-01-31,Johnstown-Altoona PA,0.0,0.0,46.0,27.0,48.0
+96,2020-03-01 2021-01-31,Jonesboro AR,0.0,0.0,100.0,26.0,0.0
+97,2020-03-01 2021-01-31,Joplin MO-Pittsburg KS,0.0,0.0,58.0,15.0,50.0
+98,2020-03-01 2021-01-31,Juneau AK,0.0,0.0,0.0,53.0,0.0
+99,2020-03-01 2021-01-31,Kansas City MO,100.0,46.0,45.0,32.0,39.0
+100,2020-03-01 2021-01-31,Knoxville TN,0.0,47.0,48.0,34.0,51.0
+101,2020-03-01 2021-01-31,La Crosse-Eau Claire WI,0.0,0.0,36.0,26.0,29.0
+102,2020-03-01 2021-01-31,Lafayette IN,0.0,0.0,27.0,10.0,0.0
+103,2020-03-01 2021-01-31,Lafayette LA,0.0,0.0,49.0,3.0,61.0
+104,2020-03-01 2021-01-31,Lake Charles LA,0.0,0.0,95.0,23.0,0.0
+105,2020-03-01 2021-01-31,Lansing MI,0.0,0.0,39.0,34.0,15.0
+106,2020-03-01 2021-01-31,Laredo TX,0.0,0.0,53.0,5.0,0.0
+107,2020-03-01 2021-01-31,Las Vegas NV,44.0,48.0,45.0,27.0,26.0
+108,2020-03-01 2021-01-31,Lexington KY,0.0,38.0,63.0,34.0,38.0
+109,2020-03-01 2021-01-31,Lima OH,0.0,0.0,51.0,46.0,0.0
+110,2020-03-01 2021-01-31,Lincoln & Hastings-Kearney NE,25.0,0.0,34.0,32.0,53.0
+111,2020-03-01 2021-01-31,Little Rock-Pine Bluff AR,0.0,14.0,42.0,18.0,48.0
+112,2020-03-01 2021-01-31,Los Angeles CA,61.0,54.0,43.0,29.0,38.0
+113,2020-03-01 2021-01-31,Louisville KY,0.0,63.0,41.0,20.0,21.0
+114,2020-03-01 2021-01-31,Lubbock TX,0.0,0.0,38.0,18.0,12.0
+115,2020-03-01 2021-01-31,Macon GA,0.0,0.0,30.0,18.0,0.0
+116,2020-03-01 2021-01-31,Madison WI,0.0,81.0,28.0,31.0,27.0
+117,2020-03-01 2021-01-31,Mankato MN,0.0,0.0,69.0,67.0,0.0
+118,2020-03-01 2021-01-31,Marquette MI,0.0,0.0,28.0,48.0,0.0
+119,2020-03-01 2021-01-31,Medford-Klamath Falls OR,0.0,0.0,57.0,34.0,0.0
+120,2020-03-01 2021-01-31,Memphis TN,0.0,33.0,39.0,26.0,36.0
+121,2020-03-01 2021-01-31,Meridian MS,0.0,0.0,13.0,15.0,0.0
+122,2020-03-01 2021-01-31,Miami-Ft. Lauderdale FL,28.0,28.0,35.0,18.0,47.0
+123,2020-03-01 2021-01-31,Milwaukee WI,52.0,54.0,40.0,34.0,43.0
+124,2020-03-01 2021-01-31,Minneapolis-St. Paul MN,71.0,57.0,40.0,46.0,37.0
+125,2020-03-01 2021-01-31,Minot-Bismarck-Dickinson(Williston) ND,0.0,0.0,54.0,25.0,0.0
+126,2020-03-01 2021-01-31,Missoula MT,0.0,0.0,49.0,40.0,100.0
+127,2020-03-01 2021-01-31,Mobile AL-Pensacola (Ft. Walton Beach) FL,0.0,19.0,59.0,27.0,44.0
+128,2020-03-01 2021-01-31,Monroe LA-El Dorado AR,0.0,0.0,74.0,24.0,0.0
+129,2020-03-01 2021-01-31,Monterey-Salinas CA,0.0,25.0,38.0,46.0,55.0
+130,2020-03-01 2021-01-31,Montgomery (Selma) AL,0.0,0.0,35.0,17.0,0.0
+131,2020-03-01 2021-01-31,Nashville TN,65.0,57.0,48.0,42.0,36.0
+132,2020-03-01 2021-01-31,New Orleans LA,53.0,10.0,51.0,25.0,39.0
+133,2020-03-01 2021-01-31,New York NY,40.0,35.0,32.0,28.0,43.0
+134,2020-03-01 2021-01-31,Norfolk-Portsmouth-Newport News VA,34.0,44.0,50.0,21.0,48.0
+135,2020-03-01 2021-01-31,North Platte NE,0.0,0.0,74.0,0.0,0.0
+136,2020-03-01 2021-01-31,Odessa-Midland TX,0.0,0.0,53.0,39.0,0.0
+137,2020-03-01 2021-01-31,Oklahoma City OK,0.0,49.0,65.0,27.0,51.0
+138,2020-03-01 2021-01-31,Omaha NE,89.0,13.0,50.0,38.0,46.0
+139,2020-03-01 2021-01-31,Orlando-Daytona Beach-Melbourne FL,35.0,45.0,47.0,25.0,37.0
+140,2020-03-01 2021-01-31,Ottumwa IA-Kirksville MO,0.0,0.0,0.0,17.0,0.0
+141,2020-03-01 2021-01-31,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,0.0,0.0,94.0,17.0,35.0
+142,2020-03-01 2021-01-31,Palm Springs CA,0.0,0.0,55.0,28.0,69.0
+143,2020-03-01 2021-01-31,Panama City FL,0.0,0.0,69.0,16.0,0.0
+144,2020-03-01 2021-01-31,Parkersburg WV,0.0,0.0,43.0,0.0,0.0
+145,2020-03-01 2021-01-31,Peoria-Bloomington IL,0.0,0.0,52.0,26.0,31.0
+146,2020-03-01 2021-01-31,Philadelphia PA,47.0,40.0,41.0,30.0,51.0
+147,2020-03-01 2021-01-31,Phoenix AZ,51.0,42.0,58.0,30.0,53.0
+148,2020-03-01 2021-01-31,Pittsburgh PA,57.0,47.0,50.0,35.0,59.0
+149,2020-03-01 2021-01-31,Portland OR,65.0,71.0,45.0,33.0,54.0
+150,2020-03-01 2021-01-31,Portland-Auburn ME,90.0,57.0,43.0,36.0,76.0
+151,2020-03-01 2021-01-31,Presque Isle ME,0.0,0.0,0.0,0.0,0.0
+152,2020-03-01 2021-01-31,Providence RI-New Bedford MA,61.0,48.0,35.0,23.0,60.0
+153,2020-03-01 2021-01-31,Quincy IL-Hannibal MO-Keokuk IA,0.0,0.0,74.0,38.0,0.0
+154,2020-03-01 2021-01-31,Raleigh-Durham (Fayetteville) NC,56.0,43.0,38.0,23.0,47.0
+155,2020-03-01 2021-01-31,Rapid City SD,0.0,0.0,75.0,39.0,0.0
+156,2020-03-01 2021-01-31,Reno NV,0.0,34.0,31.0,39.0,37.0
+157,2020-03-01 2021-01-31,Richmond-Petersburg VA,51.0,39.0,31.0,25.0,30.0
+158,2020-03-01 2021-01-31,Roanoke-Lynchburg VA,0.0,0.0,48.0,27.0,34.0
+159,2020-03-01 2021-01-31,Rochester MN-Mason City IA-Austin MN,0.0,0.0,60.0,40.0,0.0
+160,2020-03-01 2021-01-31,Rochester NY,15.0,48.0,37.0,35.0,65.0
+161,2020-03-01 2021-01-31,Rockford IL,0.0,0.0,14.0,33.0,65.0
+162,2020-03-01 2021-01-31,Sacramento-Stockton-Modesto CA,43.0,46.0,45.0,30.0,31.0
+163,2020-03-01 2021-01-31,Salisbury MD,0.0,0.0,52.0,6.0,62.0
+164,2020-03-01 2021-01-31,Salt Lake City UT,66.0,47.0,57.0,36.0,35.0
+165,2020-03-01 2021-01-31,San Angelo TX,0.0,0.0,40.0,9.0,0.0
+166,2020-03-01 2021-01-31,San Antonio TX,65.0,35.0,56.0,22.0,42.0
+167,2020-03-01 2021-01-31,San Diego CA,64.0,51.0,42.0,43.0,50.0
+168,2020-03-01 2021-01-31,San Francisco-Oakland-San Jose CA,54.0,53.0,25.0,23.0,45.0
+169,2020-03-01 2021-01-31,Santa Barbara-Santa Maria-San Luis Obispo CA,44.0,0.0,37.0,48.0,46.0
+170,2020-03-01 2021-01-31,Savannah GA,0.0,0.0,67.0,23.0,30.0
+171,2020-03-01 2021-01-31,Seattle-Tacoma WA,59.0,73.0,42.0,36.0,47.0
+172,2020-03-01 2021-01-31,Sherman TX-Ada OK,0.0,0.0,55.0,23.0,0.0
+173,2020-03-01 2021-01-31,Shreveport LA,0.0,0.0,36.0,26.0,40.0
+174,2020-03-01 2021-01-31,Sioux City IA,0.0,0.0,29.0,37.0,0.0
+175,2020-03-01 2021-01-31,Sioux Falls(Mitchell) SD,0.0,0.0,50.0,49.0,32.0
+176,2020-03-01 2021-01-31,South Bend-Elkhart IN,0.0,0.0,58.0,19.0,87.0
+177,2020-03-01 2021-01-31,Spokane WA,37.0,57.0,54.0,43.0,57.0
+178,2020-03-01 2021-01-31,Springfield MO,0.0,0.0,38.0,37.0,37.0
+179,2020-03-01 2021-01-31,Springfield-Holyoke MA,0.0,0.0,28.0,28.0,46.0
+180,2020-03-01 2021-01-31,St. Joseph MO,0.0,0.0,42.0,16.0,0.0
+181,2020-03-01 2021-01-31,St. Louis MO,47.0,25.0,48.0,33.0,32.0
+182,2020-03-01 2021-01-31,Syracuse NY,0.0,35.0,53.0,19.0,95.0
+183,2020-03-01 2021-01-31,Tallahassee FL-Thomasville GA,0.0,0.0,47.0,21.0,35.0
+184,2020-03-01 2021-01-31,Tampa-St. Petersburg (Sarasota) FL,70.0,39.0,42.0,28.0,39.0
+185,2020-03-01 2021-01-31,Terre Haute IN,0.0,0.0,44.0,33.0,0.0
+186,2020-03-01 2021-01-31,Toledo OH,0.0,9.0,43.0,25.0,37.0
+187,2020-03-01 2021-01-31,Topeka KS,0.0,0.0,54.0,32.0,36.0
+188,2020-03-01 2021-01-31,Traverse City-Cadillac MI,0.0,0.0,44.0,36.0,37.0
+189,2020-03-01 2021-01-31,Tri-Cities TN-VA,0.0,0.0,34.0,25.0,52.0
+190,2020-03-01 2021-01-31,Tucson (Sierra Vista) AZ,49.0,45.0,37.0,14.0,41.0
+191,2020-03-01 2021-01-31,Tulsa OK,0.0,50.0,48.0,22.0,39.0
+192,2020-03-01 2021-01-31,Twin Falls ID,0.0,0.0,33.0,19.0,0.0
+193,2020-03-01 2021-01-31,Tyler-Longview(Lufkin & Nacogdoches) TX,0.0,0.0,71.0,25.0,50.0
+194,2020-03-01 2021-01-31,Utica NY,0.0,0.0,55.0,19.0,21.0
+195,2020-03-01 2021-01-31,Victoria TX,0.0,0.0,52.0,20.0,0.0
+196,2020-03-01 2021-01-31,Waco-Temple-Bryan TX,0.0,0.0,58.0,14.0,56.0
+197,2020-03-01 2021-01-31,Washington DC (Hagerstown MD),37.0,35.0,29.0,22.0,65.0
+198,2020-03-01 2021-01-31,Watertown NY,0.0,0.0,65.0,20.0,0.0
+199,2020-03-01 2021-01-31,Wausau-Rhinelander WI,0.0,0.0,36.0,41.0,49.0
+200,2020-03-01 2021-01-31,West Palm Beach-Ft. Pierce FL,44.0,44.0,30.0,24.0,44.0
+201,2020-03-01 2021-01-31,Wheeling WV-Steubenville OH,0.0,0.0,42.0,6.0,0.0
+202,2020-03-01 2021-01-31,Wichita Falls TX & Lawton OK,0.0,0.0,65.0,17.0,14.0
+203,2020-03-01 2021-01-31,Wichita-Hutchinson KS,0.0,61.0,47.0,30.0,38.0
+204,2020-03-01 2021-01-31,Wilkes Barre-Scranton PA,0.0,100.0,56.0,26.0,25.0
+205,2020-03-01 2021-01-31,Wilmington NC,0.0,0.0,40.0,29.0,45.0
+206,2020-03-01 2021-01-31,Yakima-Pasco-Richland-Kennewick WA,0.0,0.0,42.0,23.0,30.0
+207,2020-03-01 2021-01-31,Youngstown OH,0.0,0.0,55.0,21.0,71.0
+208,2020-03-01 2021-01-31,Yuma AZ-El Centro CA,0.0,0.0,33.0,14.0,0.0
+209,2020-03-01 2021-01-31,Zanesville OH,0.0,0.0,37.0,21.0,0.0
