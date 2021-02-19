@@ -71,7 +71,7 @@ data_all_time_DMA_transformed = pd.DataFrame(
 for kw in kws:
     for date_range in date_ranges:
         trend_month_state[kw][date_range].columns = ["geoCode", "trend_index"]
-        trend_month_state[kw][date_range]["keyword"] = kw
+        trend_month_state[kw][date_range]["keyword"] = kw.replace(" ", "_")
         trend_month_state[kw][date_range]["date_range"] = date_range
         trend_month_state[kw][date_range]["state"] = trend_month_state[kw][
             date_range
@@ -82,7 +82,7 @@ for kw in kws:
         )
 
         trend_month_DMA[kw][date_range].columns = ["geoCode", "trend_index"]
-        trend_month_DMA[kw][date_range]["keyword"] = kw
+        trend_month_DMA[kw][date_range]["keyword"] = kw.replace(" ", "_")
         trend_month_DMA[kw][date_range]["date_range"] = date_range
         trend_month_DMA[kw][date_range]["DMA"] = trend_month_DMA[kw][date_range].index
         month_DMA_transformed = pd.concat(
@@ -90,7 +90,7 @@ for kw in kws:
         )
 
     data_all_time_state[kw].columns = ["geoCode", "trend_index"]
-    data_all_time_state[kw]["keyword"] = kw
+    data_all_time_state[kw]["keyword"] = kw.replace(" ", "_")
     data_all_time_state[kw]["date_range"] = TOTAL_DATE_RANGE
     data_all_time_state[kw]["state"] = data_all_time_state[kw].index
     data_all_time_state_transformed = pd.concat(
@@ -99,7 +99,7 @@ for kw in kws:
     )
 
     data_all_time_DMA[kw].columns = ["geoCode", "trend_index"]
-    data_all_time_DMA[kw]["keyword"] = kw
+    data_all_time_DMA[kw]["keyword"] = kw.replace(" ", "_")
     data_all_time_DMA[kw]["date_range"] = TOTAL_DATE_RANGE
     data_all_time_DMA[kw]["DMA"] = data_all_time_DMA[kw].index
     data_all_time_DMA_transformed = pd.concat(

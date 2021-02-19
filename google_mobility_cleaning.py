@@ -28,5 +28,5 @@ us_mobility_state["non_residential_percent_change_from_baseline"] = us_mobility_
         "transit_stations_percent_change_from_baseline",
         "workplaces_percent_change_from_baseline",
     ]
-].mean(axis=0)
+].mean(axis=1)
 us_mobility_state.to_csv("data/cleaned/US_mobility_state_cleaned.csv")
