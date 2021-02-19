@@ -22,6 +22,18 @@ US_response = US_response.drop("Date", axis=1)
 
 daily_df = pd.merge(daily_df, US_response, on=["state", "date"], how="left")
 
+## US_state_pop
+pop = pd.read_csv("data/us_pop.csv")
+pop.columns = ["state", "pop_2019"]
+
+daily_df = pd.merge(daily_df, pop, on=["state"], how="left")
+
+# US_state_gdp
+gdp = pd.read_csv("data/us_gdp.csv")
+gdp = gdp.loc[gdp["LineCode"] == 1, ["GeoName", "2019"]]
+gdp.columns = ["state", "GDP_2019"]
+
+daily_df = pd.merge(daily_df, gdp, on=["state"], how="left")
 # Aggregate data
 
 daily_df.to_csv("data/cleaned/daily_df.csv")
