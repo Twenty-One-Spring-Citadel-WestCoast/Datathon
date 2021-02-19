@@ -8,9 +8,7 @@ TOTAL_DATE_RANGE = "2020-03-01 2021-01-31"
 
 pytrends = TrendReq(hl="en-US", tz=360)
 
-kws = [
-    "plandemic",
-]
+kws = ["plandemic", "covid hoax", "wuhan lab", "covid conspiracy", "pizzagate"]
 
 # Create monthly timeframes
 def last_day_of_month(date_value):
@@ -108,6 +106,35 @@ for kw in kws:
         [data_all_time_DMA_transformed, data_all_time_DMA[kw]],
         ignore_index=True,
     )
+data_all_time_state_transformed = data_all_time_state_transformed.drop(
+    ["geocode", "geoCode"], axis=1
+)
+data_all_time_state_transformed = data_all_time_state_transformed.pivot(
+    index=["date_range", "state"], columns="keyword", values="trend_index"
+)
+data_all_time_state_transformed = pd.DataFrame(
+    data_all_time_state_transformed.to_records()
+)
+
+month_state_transformed = month_state_transformed.drop(["geocode", "geoCode"], axis=1)
+month_state_transformed = month_state_transformed.pivot(
+    index=["date_range", "state"], columns="keyword", values="trend_index"
+)
+month_state_transformed = pd.DataFrame(month_state_transformed.to_records())
+
+data_all_time_DMA_transformed = data_all_time_DMA_transformed.drop(
+    ["geocode", "geoCode", "state"], axis=1
+)
+data_all_time_DMA_transformed = data_all_time_DMA_transformed.pivot(
+    index=["date_range", "DMA"], columns="keyword", values="trend_index"
+)
+data_all_time_DMA_transformed = pd.DataFrame(data_all_time_DMA_transformed.to_records())
+
+month_DMA_transformed = month_DMA_transformed.drop(["geocode", "geoCode"], axis=1)
+month_DMA_transformed = month_DMA_transformed.pivot(
+    index=["date_range", "DMA"], columns="keyword", values="trend_index"
+)
+month_DMA_transformed = pd.DataFrame(month_DMA_transformed.to_records())
 
 # Save cleaned data
 month_state_transformed.to_csv("data/cleaned/trend_month_state.csv")

@@ -1,52 +1,256 @@
 ,geocode,trend_index,keyword,date_range,state,geoCode
-0,,64.0,plandemic,2020-03-01 2021-01-31,Alabama,US-AL
-1,,65.0,plandemic,2020-03-01 2021-01-31,Alaska,US-AK
-2,,67.0,plandemic,2020-03-01 2021-01-31,Arizona,US-AZ
-3,,52.0,plandemic,2020-03-01 2021-01-31,Arkansas,US-AR
-4,,69.0,plandemic,2020-03-01 2021-01-31,California,US-CA
-5,,86.0,plandemic,2020-03-01 2021-01-31,Colorado,US-CO
-6,,58.0,plandemic,2020-03-01 2021-01-31,Connecticut,US-CT
-7,,39.0,plandemic,2020-03-01 2021-01-31,Delaware,US-DE
-8,,77.0,plandemic,2020-03-01 2021-01-31,District of Columbia,US-DC
-9,,53.0,plandemic,2020-03-01 2021-01-31,Florida,US-FL
-10,,49.0,plandemic,2020-03-01 2021-01-31,Georgia,US-GA
-11,,77.0,plandemic,2020-03-01 2021-01-31,Hawaii,US-HI
-12,,72.0,plandemic,2020-03-01 2021-01-31,Idaho,US-ID
-13,,71.0,plandemic,2020-03-01 2021-01-31,Illinois,US-IL
-14,,69.0,plandemic,2020-03-01 2021-01-31,Indiana,US-IN
-15,,80.0,plandemic,2020-03-01 2021-01-31,Iowa,US-IA
-16,,86.0,plandemic,2020-03-01 2021-01-31,Kansas,US-KS
-17,,68.0,plandemic,2020-03-01 2021-01-31,Kentucky,US-KY
-18,,53.0,plandemic,2020-03-01 2021-01-31,Louisiana,US-LA
-19,,96.0,plandemic,2020-03-01 2021-01-31,Maine,US-ME
-20,,63.0,plandemic,2020-03-01 2021-01-31,Maryland,US-MD
-21,,65.0,plandemic,2020-03-01 2021-01-31,Massachusetts,US-MA
-22,,76.0,plandemic,2020-03-01 2021-01-31,Michigan,US-MI
-23,,97.0,plandemic,2020-03-01 2021-01-31,Minnesota,US-MN
-24,,45.0,plandemic,2020-03-01 2021-01-31,Mississippi,US-MS
-25,,79.0,plandemic,2020-03-01 2021-01-31,Missouri,US-MO
-26,,90.0,plandemic,2020-03-01 2021-01-31,Montana,US-MT
-27,,93.0,plandemic,2020-03-01 2021-01-31,Nebraska,US-NE
-28,,63.0,plandemic,2020-03-01 2021-01-31,Nevada,US-NV
-29,,100.0,plandemic,2020-03-01 2021-01-31,New Hampshire,US-NH
-30,,69.0,plandemic,2020-03-01 2021-01-31,New Jersey,US-NJ
-31,,53.0,plandemic,2020-03-01 2021-01-31,New Mexico,US-NM
-32,,59.0,plandemic,2020-03-01 2021-01-31,New York,US-NY
-33,,60.0,plandemic,2020-03-01 2021-01-31,North Carolina,US-NC
-34,,78.0,plandemic,2020-03-01 2021-01-31,North Dakota,US-ND
-35,,77.0,plandemic,2020-03-01 2021-01-31,Ohio,US-OH
-36,,54.0,plandemic,2020-03-01 2021-01-31,Oklahoma,US-OK
-37,,86.0,plandemic,2020-03-01 2021-01-31,Oregon,US-OR
-38,,81.0,plandemic,2020-03-01 2021-01-31,Pennsylvania,US-PA
-39,,46.0,plandemic,2020-03-01 2021-01-31,Rhode Island,US-RI
-40,,60.0,plandemic,2020-03-01 2021-01-31,South Carolina,US-SC
-41,,78.0,plandemic,2020-03-01 2021-01-31,South Dakota,US-SD
-42,,69.0,plandemic,2020-03-01 2021-01-31,Tennessee,US-TN
-43,,50.0,plandemic,2020-03-01 2021-01-31,Texas,US-TX
-44,,84.0,plandemic,2020-03-01 2021-01-31,Utah,US-UT
+0,,60.0,plandemic,2020-03-01 2021-01-31,Alabama,US-AL
+1,,79.0,plandemic,2020-03-01 2021-01-31,Alaska,US-AK
+2,,58.0,plandemic,2020-03-01 2021-01-31,Arizona,US-AZ
+3,,57.0,plandemic,2020-03-01 2021-01-31,Arkansas,US-AR
+4,,62.0,plandemic,2020-03-01 2021-01-31,California,US-CA
+5,,78.0,plandemic,2020-03-01 2021-01-31,Colorado,US-CO
+6,,38.0,plandemic,2020-03-01 2021-01-31,Connecticut,US-CT
+7,,53.0,plandemic,2020-03-01 2021-01-31,Delaware,US-DE
+8,,63.0,plandemic,2020-03-01 2021-01-31,District of Columbia,US-DC
+9,,48.0,plandemic,2020-03-01 2021-01-31,Florida,US-FL
+10,,48.0,plandemic,2020-03-01 2021-01-31,Georgia,US-GA
+11,,59.0,plandemic,2020-03-01 2021-01-31,Hawaii,US-HI
+12,,73.0,plandemic,2020-03-01 2021-01-31,Idaho,US-ID
+13,,62.0,plandemic,2020-03-01 2021-01-31,Illinois,US-IL
+14,,57.0,plandemic,2020-03-01 2021-01-31,Indiana,US-IN
+15,,60.0,plandemic,2020-03-01 2021-01-31,Iowa,US-IA
+16,,67.0,plandemic,2020-03-01 2021-01-31,Kansas,US-KS
+17,,62.0,plandemic,2020-03-01 2021-01-31,Kentucky,US-KY
+18,,55.0,plandemic,2020-03-01 2021-01-31,Louisiana,US-LA
+19,,77.0,plandemic,2020-03-01 2021-01-31,Maine,US-ME
+20,,60.0,plandemic,2020-03-01 2021-01-31,Maryland,US-MD
+21,,52.0,plandemic,2020-03-01 2021-01-31,Massachusetts,US-MA
+22,,77.0,plandemic,2020-03-01 2021-01-31,Michigan,US-MI
+23,,78.0,plandemic,2020-03-01 2021-01-31,Minnesota,US-MN
+24,,50.0,plandemic,2020-03-01 2021-01-31,Mississippi,US-MS
+25,,68.0,plandemic,2020-03-01 2021-01-31,Missouri,US-MO
+26,,100.0,plandemic,2020-03-01 2021-01-31,Montana,US-MT
+27,,92.0,plandemic,2020-03-01 2021-01-31,Nebraska,US-NE
+28,,47.0,plandemic,2020-03-01 2021-01-31,Nevada,US-NV
+29,,80.0,plandemic,2020-03-01 2021-01-31,New Hampshire,US-NH
+30,,70.0,plandemic,2020-03-01 2021-01-31,New Jersey,US-NJ
+31,,51.0,plandemic,2020-03-01 2021-01-31,New Mexico,US-NM
+32,,53.0,plandemic,2020-03-01 2021-01-31,New York,US-NY
+33,,58.0,plandemic,2020-03-01 2021-01-31,North Carolina,US-NC
+34,,64.0,plandemic,2020-03-01 2021-01-31,North Dakota,US-ND
+35,,72.0,plandemic,2020-03-01 2021-01-31,Ohio,US-OH
+36,,47.0,plandemic,2020-03-01 2021-01-31,Oklahoma,US-OK
+37,,74.0,plandemic,2020-03-01 2021-01-31,Oregon,US-OR
+38,,71.0,plandemic,2020-03-01 2021-01-31,Pennsylvania,US-PA
+39,,38.0,plandemic,2020-03-01 2021-01-31,Rhode Island,US-RI
+40,,43.0,plandemic,2020-03-01 2021-01-31,South Carolina,US-SC
+41,,90.0,plandemic,2020-03-01 2021-01-31,South Dakota,US-SD
+42,,72.0,plandemic,2020-03-01 2021-01-31,Tennessee,US-TN
+43,,47.0,plandemic,2020-03-01 2021-01-31,Texas,US-TX
+44,,75.0,plandemic,2020-03-01 2021-01-31,Utah,US-UT
 45,,81.0,plandemic,2020-03-01 2021-01-31,Vermont,US-VT
-46,,67.0,plandemic,2020-03-01 2021-01-31,Virginia,US-VA
-47,,98.0,plandemic,2020-03-01 2021-01-31,Washington,US-WA
-48,,70.0,plandemic,2020-03-01 2021-01-31,West Virginia,US-WV
-49,,74.0,plandemic,2020-03-01 2021-01-31,Wisconsin,US-WI
-50,,97.0,plandemic,2020-03-01 2021-01-31,Wyoming,US-WY
+46,,63.0,plandemic,2020-03-01 2021-01-31,Virginia,US-VA
+47,,77.0,plandemic,2020-03-01 2021-01-31,Washington,US-WA
+48,,71.0,plandemic,2020-03-01 2021-01-31,West Virginia,US-WV
+49,,70.0,plandemic,2020-03-01 2021-01-31,Wisconsin,US-WI
+50,,67.0,plandemic,2020-03-01 2021-01-31,Wyoming,US-WY
+51,,51.0,covid hoax,2020-03-01 2021-01-31,Alabama,US-AL
+52,,100.0,covid hoax,2020-03-01 2021-01-31,Alaska,US-AK
+53,,54.0,covid hoax,2020-03-01 2021-01-31,Arizona,US-AZ
+54,,56.0,covid hoax,2020-03-01 2021-01-31,Arkansas,US-AR
+55,,51.0,covid hoax,2020-03-01 2021-01-31,California,US-CA
+56,,78.0,covid hoax,2020-03-01 2021-01-31,Colorado,US-CO
+57,,52.0,covid hoax,2020-03-01 2021-01-31,Connecticut,US-CT
+58,,37.0,covid hoax,2020-03-01 2021-01-31,Delaware,US-DE
+59,,38.0,covid hoax,2020-03-01 2021-01-31,District of Columbia,US-DC
+60,,40.0,covid hoax,2020-03-01 2021-01-31,Florida,US-FL
+61,,33.0,covid hoax,2020-03-01 2021-01-31,Georgia,US-GA
+62,,21.0,covid hoax,2020-03-01 2021-01-31,Hawaii,US-HI
+63,,53.0,covid hoax,2020-03-01 2021-01-31,Idaho,US-ID
+64,,50.0,covid hoax,2020-03-01 2021-01-31,Illinois,US-IL
+65,,59.0,covid hoax,2020-03-01 2021-01-31,Indiana,US-IN
+66,,32.0,covid hoax,2020-03-01 2021-01-31,Iowa,US-IA
+67,,32.0,covid hoax,2020-03-01 2021-01-31,Kansas,US-KS
+68,,30.0,covid hoax,2020-03-01 2021-01-31,Kentucky,US-KY
+69,,21.0,covid hoax,2020-03-01 2021-01-31,Louisiana,US-LA
+70,,62.0,covid hoax,2020-03-01 2021-01-31,Maine,US-ME
+71,,41.0,covid hoax,2020-03-01 2021-01-31,Maryland,US-MD
+72,,48.0,covid hoax,2020-03-01 2021-01-31,Massachusetts,US-MA
+73,,54.0,covid hoax,2020-03-01 2021-01-31,Michigan,US-MI
+74,,68.0,covid hoax,2020-03-01 2021-01-31,Minnesota,US-MN
+75,,21.0,covid hoax,2020-03-01 2021-01-31,Mississippi,US-MS
+76,,48.0,covid hoax,2020-03-01 2021-01-31,Missouri,US-MO
+77,,51.0,covid hoax,2020-03-01 2021-01-31,Montana,US-MT
+78,,47.0,covid hoax,2020-03-01 2021-01-31,Nebraska,US-NE
+79,,65.0,covid hoax,2020-03-01 2021-01-31,Nevada,US-NV
+80,,75.0,covid hoax,2020-03-01 2021-01-31,New Hampshire,US-NH
+81,,40.0,covid hoax,2020-03-01 2021-01-31,New Jersey,US-NJ
+82,,70.0,covid hoax,2020-03-01 2021-01-31,New Mexico,US-NM
+83,,38.0,covid hoax,2020-03-01 2021-01-31,New York,US-NY
+84,,39.0,covid hoax,2020-03-01 2021-01-31,North Carolina,US-NC
+85,,67.0,covid hoax,2020-03-01 2021-01-31,North Dakota,US-ND
+86,,55.0,covid hoax,2020-03-01 2021-01-31,Ohio,US-OH
+87,,53.0,covid hoax,2020-03-01 2021-01-31,Oklahoma,US-OK
+88,,53.0,covid hoax,2020-03-01 2021-01-31,Oregon,US-OR
+89,,56.0,covid hoax,2020-03-01 2021-01-31,Pennsylvania,US-PA
+90,,60.0,covid hoax,2020-03-01 2021-01-31,Rhode Island,US-RI
+91,,42.0,covid hoax,2020-03-01 2021-01-31,South Carolina,US-SC
+92,,52.0,covid hoax,2020-03-01 2021-01-31,South Dakota,US-SD
+93,,55.0,covid hoax,2020-03-01 2021-01-31,Tennessee,US-TN
+94,,35.0,covid hoax,2020-03-01 2021-01-31,Texas,US-TX
+95,,47.0,covid hoax,2020-03-01 2021-01-31,Utah,US-UT
+96,,30.0,covid hoax,2020-03-01 2021-01-31,Vermont,US-VT
+97,,46.0,covid hoax,2020-03-01 2021-01-31,Virginia,US-VA
+98,,63.0,covid hoax,2020-03-01 2021-01-31,Washington,US-WA
+99,,40.0,covid hoax,2020-03-01 2021-01-31,West Virginia,US-WV
+100,,64.0,covid hoax,2020-03-01 2021-01-31,Wisconsin,US-WI
+101,,0.0,covid hoax,2020-03-01 2021-01-31,Wyoming,US-WY
+102,,31.0,wuhan lab,2020-03-01 2021-01-31,Alabama,US-AL
+103,,71.0,wuhan lab,2020-03-01 2021-01-31,Alaska,US-AK
+104,,47.0,wuhan lab,2020-03-01 2021-01-31,Arizona,US-AZ
+105,,33.0,wuhan lab,2020-03-01 2021-01-31,Arkansas,US-AR
+106,,42.0,wuhan lab,2020-03-01 2021-01-31,California,US-CA
+107,,41.0,wuhan lab,2020-03-01 2021-01-31,Colorado,US-CO
+108,,48.0,wuhan lab,2020-03-01 2021-01-31,Connecticut,US-CT
+109,,39.0,wuhan lab,2020-03-01 2021-01-31,Delaware,US-DE
+110,,76.0,wuhan lab,2020-03-01 2021-01-31,District of Columbia,US-DC
+111,,36.0,wuhan lab,2020-03-01 2021-01-31,Florida,US-FL
+112,,35.0,wuhan lab,2020-03-01 2021-01-31,Georgia,US-GA
+113,,47.0,wuhan lab,2020-03-01 2021-01-31,Hawaii,US-HI
+114,,45.0,wuhan lab,2020-03-01 2021-01-31,Idaho,US-ID
+115,,43.0,wuhan lab,2020-03-01 2021-01-31,Illinois,US-IL
+116,,32.0,wuhan lab,2020-03-01 2021-01-31,Indiana,US-IN
+117,,26.0,wuhan lab,2020-03-01 2021-01-31,Iowa,US-IA
+118,,24.0,wuhan lab,2020-03-01 2021-01-31,Kansas,US-KS
+119,,35.0,wuhan lab,2020-03-01 2021-01-31,Kentucky,US-KY
+120,,27.0,wuhan lab,2020-03-01 2021-01-31,Louisiana,US-LA
+121,,86.0,wuhan lab,2020-03-01 2021-01-31,Maine,US-ME
+122,,42.0,wuhan lab,2020-03-01 2021-01-31,Maryland,US-MD
+123,,50.0,wuhan lab,2020-03-01 2021-01-31,Massachusetts,US-MA
+124,,42.0,wuhan lab,2020-03-01 2021-01-31,Michigan,US-MI
+125,,37.0,wuhan lab,2020-03-01 2021-01-31,Minnesota,US-MN
+126,,34.0,wuhan lab,2020-03-01 2021-01-31,Mississippi,US-MS
+127,,42.0,wuhan lab,2020-03-01 2021-01-31,Missouri,US-MO
+128,,58.0,wuhan lab,2020-03-01 2021-01-31,Montana,US-MT
+129,,45.0,wuhan lab,2020-03-01 2021-01-31,Nebraska,US-NE
+130,,34.0,wuhan lab,2020-03-01 2021-01-31,Nevada,US-NV
+131,,77.0,wuhan lab,2020-03-01 2021-01-31,New Hampshire,US-NH
+132,,47.0,wuhan lab,2020-03-01 2021-01-31,New Jersey,US-NJ
+133,,27.0,wuhan lab,2020-03-01 2021-01-31,New Mexico,US-NM
+134,,37.0,wuhan lab,2020-03-01 2021-01-31,New York,US-NY
+135,,35.0,wuhan lab,2020-03-01 2021-01-31,North Carolina,US-NC
+136,,38.0,wuhan lab,2020-03-01 2021-01-31,North Dakota,US-ND
+137,,38.0,wuhan lab,2020-03-01 2021-01-31,Ohio,US-OH
+138,,38.0,wuhan lab,2020-03-01 2021-01-31,Oklahoma,US-OK
+139,,43.0,wuhan lab,2020-03-01 2021-01-31,Oregon,US-OR
+140,,52.0,wuhan lab,2020-03-01 2021-01-31,Pennsylvania,US-PA
+141,,57.0,wuhan lab,2020-03-01 2021-01-31,Rhode Island,US-RI
+142,,35.0,wuhan lab,2020-03-01 2021-01-31,South Carolina,US-SC
+143,,12.0,wuhan lab,2020-03-01 2021-01-31,South Dakota,US-SD
+144,,37.0,wuhan lab,2020-03-01 2021-01-31,Tennessee,US-TN
+145,,35.0,wuhan lab,2020-03-01 2021-01-31,Texas,US-TX
+146,,38.0,wuhan lab,2020-03-01 2021-01-31,Utah,US-UT
+147,,57.0,wuhan lab,2020-03-01 2021-01-31,Vermont,US-VT
+148,,44.0,wuhan lab,2020-03-01 2021-01-31,Virginia,US-VA
+149,,42.0,wuhan lab,2020-03-01 2021-01-31,Washington,US-WA
+150,,64.0,wuhan lab,2020-03-01 2021-01-31,West Virginia,US-WV
+151,,40.0,wuhan lab,2020-03-01 2021-01-31,Wisconsin,US-WI
+152,,100.0,wuhan lab,2020-03-01 2021-01-31,Wyoming,US-WY
+153,,44.0,covid conspiracy,2020-03-01 2021-01-31,Alabama,US-AL
+154,,40.0,covid conspiracy,2020-03-01 2021-01-31,Alaska,US-AK
+155,,63.0,covid conspiracy,2020-03-01 2021-01-31,Arizona,US-AZ
+156,,32.0,covid conspiracy,2020-03-01 2021-01-31,Arkansas,US-AR
+157,,54.0,covid conspiracy,2020-03-01 2021-01-31,California,US-CA
+158,,63.0,covid conspiracy,2020-03-01 2021-01-31,Colorado,US-CO
+159,,43.0,covid conspiracy,2020-03-01 2021-01-31,Connecticut,US-CT
+160,,37.0,covid conspiracy,2020-03-01 2021-01-31,Delaware,US-DE
+161,,30.0,covid conspiracy,2020-03-01 2021-01-31,District of Columbia,US-DC
+162,,38.0,covid conspiracy,2020-03-01 2021-01-31,Florida,US-FL
+163,,34.0,covid conspiracy,2020-03-01 2021-01-31,Georgia,US-GA
+164,,97.0,covid conspiracy,2020-03-01 2021-01-31,Hawaii,US-HI
+165,,42.0,covid conspiracy,2020-03-01 2021-01-31,Idaho,US-ID
+166,,54.0,covid conspiracy,2020-03-01 2021-01-31,Illinois,US-IL
+167,,38.0,covid conspiracy,2020-03-01 2021-01-31,Indiana,US-IN
+168,,20.0,covid conspiracy,2020-03-01 2021-01-31,Iowa,US-IA
+169,,69.0,covid conspiracy,2020-03-01 2021-01-31,Kansas,US-KS
+170,,43.0,covid conspiracy,2020-03-01 2021-01-31,Kentucky,US-KY
+171,,39.0,covid conspiracy,2020-03-01 2021-01-31,Louisiana,US-LA
+172,,50.0,covid conspiracy,2020-03-01 2021-01-31,Maine,US-ME
+173,,37.0,covid conspiracy,2020-03-01 2021-01-31,Maryland,US-MD
+174,,36.0,covid conspiracy,2020-03-01 2021-01-31,Massachusetts,US-MA
+175,,48.0,covid conspiracy,2020-03-01 2021-01-31,Michigan,US-MI
+176,,53.0,covid conspiracy,2020-03-01 2021-01-31,Minnesota,US-MN
+177,,36.0,covid conspiracy,2020-03-01 2021-01-31,Mississippi,US-MS
+178,,56.0,covid conspiracy,2020-03-01 2021-01-31,Missouri,US-MO
+179,,32.0,covid conspiracy,2020-03-01 2021-01-31,Montana,US-MT
+180,,45.0,covid conspiracy,2020-03-01 2021-01-31,Nebraska,US-NE
+181,,43.0,covid conspiracy,2020-03-01 2021-01-31,Nevada,US-NV
+182,,100.0,covid conspiracy,2020-03-01 2021-01-31,New Hampshire,US-NH
+183,,35.0,covid conspiracy,2020-03-01 2021-01-31,New Jersey,US-NJ
+184,,71.0,covid conspiracy,2020-03-01 2021-01-31,New Mexico,US-NM
+185,,38.0,covid conspiracy,2020-03-01 2021-01-31,New York,US-NY
+186,,49.0,covid conspiracy,2020-03-01 2021-01-31,North Carolina,US-NC
+187,,64.0,covid conspiracy,2020-03-01 2021-01-31,North Dakota,US-ND
+188,,49.0,covid conspiracy,2020-03-01 2021-01-31,Ohio,US-OH
+189,,27.0,covid conspiracy,2020-03-01 2021-01-31,Oklahoma,US-OK
+190,,66.0,covid conspiracy,2020-03-01 2021-01-31,Oregon,US-OR
+191,,42.0,covid conspiracy,2020-03-01 2021-01-31,Pennsylvania,US-PA
+192,,66.0,covid conspiracy,2020-03-01 2021-01-31,Rhode Island,US-RI
+193,,32.0,covid conspiracy,2020-03-01 2021-01-31,South Carolina,US-SC
+194,,82.0,covid conspiracy,2020-03-01 2021-01-31,South Dakota,US-SD
+195,,60.0,covid conspiracy,2020-03-01 2021-01-31,Tennessee,US-TN
+196,,40.0,covid conspiracy,2020-03-01 2021-01-31,Texas,US-TX
+197,,51.0,covid conspiracy,2020-03-01 2021-01-31,Utah,US-UT
+198,,48.0,covid conspiracy,2020-03-01 2021-01-31,Vermont,US-VT
+199,,31.0,covid conspiracy,2020-03-01 2021-01-31,Virginia,US-VA
+200,,52.0,covid conspiracy,2020-03-01 2021-01-31,Washington,US-WA
+201,,48.0,covid conspiracy,2020-03-01 2021-01-31,West Virginia,US-WV
+202,,56.0,covid conspiracy,2020-03-01 2021-01-31,Wisconsin,US-WI
+203,,76.0,covid conspiracy,2020-03-01 2021-01-31,Wyoming,US-WY
+204,,82.0,pizzagate,2020-03-01 2021-01-31,Alabama,US-AL
+205,,69.0,pizzagate,2020-03-01 2021-01-31,Alaska,US-AK
+206,,82.0,pizzagate,2020-03-01 2021-01-31,Arizona,US-AZ
+207,,70.0,pizzagate,2020-03-01 2021-01-31,Arkansas,US-AR
+208,,63.0,pizzagate,2020-03-01 2021-01-31,California,US-CA
+209,,65.0,pizzagate,2020-03-01 2021-01-31,Colorado,US-CO
+210,,58.0,pizzagate,2020-03-01 2021-01-31,Connecticut,US-CT
+211,,64.0,pizzagate,2020-03-01 2021-01-31,Delaware,US-DE
+212,,35.0,pizzagate,2020-03-01 2021-01-31,District of Columbia,US-DC
+213,,63.0,pizzagate,2020-03-01 2021-01-31,Florida,US-FL
+214,,66.0,pizzagate,2020-03-01 2021-01-31,Georgia,US-GA
+215,,70.0,pizzagate,2020-03-01 2021-01-31,Hawaii,US-HI
+216,,88.0,pizzagate,2020-03-01 2021-01-31,Idaho,US-ID
+217,,77.0,pizzagate,2020-03-01 2021-01-31,Illinois,US-IL
+218,,80.0,pizzagate,2020-03-01 2021-01-31,Indiana,US-IN
+219,,78.0,pizzagate,2020-03-01 2021-01-31,Iowa,US-IA
+220,,66.0,pizzagate,2020-03-01 2021-01-31,Kansas,US-KS
+221,,84.0,pizzagate,2020-03-01 2021-01-31,Kentucky,US-KY
+222,,80.0,pizzagate,2020-03-01 2021-01-31,Louisiana,US-LA
+223,,60.0,pizzagate,2020-03-01 2021-01-31,Maine,US-ME
+224,,47.0,pizzagate,2020-03-01 2021-01-31,Maryland,US-MD
+225,,59.0,pizzagate,2020-03-01 2021-01-31,Massachusetts,US-MA
+226,,75.0,pizzagate,2020-03-01 2021-01-31,Michigan,US-MI
+227,,58.0,pizzagate,2020-03-01 2021-01-31,Minnesota,US-MN
+228,,69.0,pizzagate,2020-03-01 2021-01-31,Mississippi,US-MS
+229,,86.0,pizzagate,2020-03-01 2021-01-31,Missouri,US-MO
+230,,82.0,pizzagate,2020-03-01 2021-01-31,Montana,US-MT
+231,,71.0,pizzagate,2020-03-01 2021-01-31,Nebraska,US-NE
+232,,72.0,pizzagate,2020-03-01 2021-01-31,Nevada,US-NV
+233,,59.0,pizzagate,2020-03-01 2021-01-31,New Hampshire,US-NH
+234,,60.0,pizzagate,2020-03-01 2021-01-31,New Jersey,US-NJ
+235,,85.0,pizzagate,2020-03-01 2021-01-31,New Mexico,US-NM
+236,,54.0,pizzagate,2020-03-01 2021-01-31,New York,US-NY
+237,,67.0,pizzagate,2020-03-01 2021-01-31,North Carolina,US-NC
+238,,82.0,pizzagate,2020-03-01 2021-01-31,North Dakota,US-ND
+239,,84.0,pizzagate,2020-03-01 2021-01-31,Ohio,US-OH
+240,,100.0,pizzagate,2020-03-01 2021-01-31,Oklahoma,US-OK
+241,,77.0,pizzagate,2020-03-01 2021-01-31,Oregon,US-OR
+242,,74.0,pizzagate,2020-03-01 2021-01-31,Pennsylvania,US-PA
+243,,39.0,pizzagate,2020-03-01 2021-01-31,Rhode Island,US-RI
+244,,56.0,pizzagate,2020-03-01 2021-01-31,South Carolina,US-SC
+245,,73.0,pizzagate,2020-03-01 2021-01-31,South Dakota,US-SD
+246,,71.0,pizzagate,2020-03-01 2021-01-31,Tennessee,US-TN
+247,,80.0,pizzagate,2020-03-01 2021-01-31,Texas,US-TX
+248,,84.0,pizzagate,2020-03-01 2021-01-31,Utah,US-UT
+249,,39.0,pizzagate,2020-03-01 2021-01-31,Vermont,US-VT
+250,,61.0,pizzagate,2020-03-01 2021-01-31,Virginia,US-VA
+251,,63.0,pizzagate,2020-03-01 2021-01-31,Washington,US-WA
+252,,84.0,pizzagate,2020-03-01 2021-01-31,West Virginia,US-WV
+253,,53.0,pizzagate,2020-03-01 2021-01-31,Wisconsin,US-WI
+254,,92.0,pizzagate,2020-03-01 2021-01-31,Wyoming,US-WY
