@@ -59,7 +59,7 @@ education = education[
         "Median_Household_Income_2019",
         "Percent_less_than_high_school",
         "Percent_bachelor_or_higher",
-        "Percent _some_college_or_associate",
+        "Percent_some_college_or_associate",
         "Percent_high_school_only",
         "AverageTemperature",
         "Urbanization_rate",
