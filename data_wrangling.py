@@ -34,6 +34,39 @@ gdp = gdp.loc[gdp["LineCode"] == 1, ["GeoName", "2019"]]
 gdp.columns = ["state", "GDP_2019"]
 
 daily_df = pd.merge(daily_df, gdp, on=["state"], how="left")
+
+# US_state_education
+education = pd.read_csv("data/cleaned/educationStateDataset.csv", index_col=0)
+education.columns = [
+    "FIPS_Code",
+    "state_code",
+    "state",
+    "Unemployment_rate_2019",
+    "Median_Household_Income_2019",
+    "Percent_less_than_high_school",
+    "Percent_bachelor_or_higher",
+    "Percent_some_college_or_associate",
+    "Percent_high_school_only",
+    "AverageTemperature",
+    "Urbanization_rate",
+    "Pop_2019",
+]
+education = education[
+    [
+        "state_code",
+        "state",
+        "Unemployment_rate_2019",
+        "Median_Household_Income_2019",
+        "Percent_less_than_high_school",
+        "Percent_bachelor_or_higher",
+        "Percent _some_college_or_associate",
+        "Percent_high_school_only",
+        "AverageTemperature",
+        "Urbanization_rate",
+    ]
+]
+
+daily_df = pd.merge(daily_df, education, on=["state"], how="left")
 # Aggregate data
 
 daily_df.to_csv("data/cleaned/daily_df.csv")
