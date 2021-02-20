@@ -66,19 +66,22 @@ raceDataset = raceDataset[colNames]
 
 singleRaceDataset = raceDataset.loc[raceDataset["SEX"] == 0]
 raceGroups = singleRaceDataset.groupby(["NAME","RACE"]).agg(np.sum)
-totalStateGroups = singleRaceDataset.groupby("NAME").agg(np.sum)
+raceGroups = raceGroups["POPESTIMATE2019"].unstack(level=-1)
 
-
-print(raceGroups)
-print(totalStateGroups)
+raceDict = {1:"White",2:"Black",3:"American Native",4:"Asian",5:"Pacific Islander"}
+raceGroups = raceGroups.rename(columns=raceDict)
+raceGroups["Total"] = np.sum(raceGroups, axis=1)
+raceGroups = raceGroups.iloc[:,:-1].div(raceGroups["Total"], axis=0).reset_index()
+raceGroups = raceGroups.rename(columns={"NAME":"State"})
 
 ### Construct and save merged dataset ###
 stateDataset = temperatureDataset.merge(urbanizationDataset, how='left', on="State")
 stateDataset = stateDataset.merge(populationDataset, how='left', on="State")
+stateDataset = stateDataset.merge(raceGroups, how='left', on="State")
 stateDataset["FIPS Code"] = stateDataset["FIPS Code"].astype(str) + "000"
 stateDataset["FIPS Code"] = stateDataset["FIPS Code"].astype(int)
 stateDataset = stateDataset.drop(columns=["State"])
-#print(stateDataset)
+print(stateDataset)
 
 fullDataset = economicDataset.merge(educationDataset,how='left',on="FIPS Code")
 fullDataset = fullDataset.merge(stateDataset,how='left', on ="FIPS Code")
