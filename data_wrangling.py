@@ -50,6 +50,11 @@ education.columns = [
     "AverageTemperature",
     "Urbanization_rate",
     "Pop_2019",
+    "White",
+    "Black",
+    "American_Native",
+    "Asian",
+    "Pacific_Islander",
 ]
 education = education[
     [
@@ -63,6 +68,11 @@ education = education[
         "Percent_high_school_only",
         "AverageTemperature",
         "Urbanization_rate",
+        "White",
+        "Black",
+        "American_Native",
+        "Asian",
+        "Pacific_Islander",
     ]
 ]
 
