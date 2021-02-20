@@ -1,11 +1,13 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+import numpy as np
 import plotly.express as px
 from urllib.request import urlopen
 import json
 
 pd.set_option('display.max_columns', 5)
+pd.set_option('display.max_columns', 100)
 pd.set_option('display.width', 1000)
 
 educationDataset = pd.read_csv("data/education/Education.csv")
@@ -13,6 +15,8 @@ economicDataset = pd.read_csv("data/education/Unemployment.csv")
 temperatureDataset = pd.read_csv("data/education/tempData.csv")
 urbanizationDataset = pd.read_csv("data/education/pop-urban-pct-historical.csv")
 populationDataset = pd.read_csv('data/us_pop.csv')
+ageDataset = pd.read_csv('data/education/sc-est2019-agesex-civ.csv')
+raceDataset = pd.read_csv('data/education/sc-est2019-alldata5.csv')
 
 ### Education dataset cleaning ###
 colNames = ["FIPS Code",
@@ -20,7 +24,6 @@ colNames = ["FIPS Code",
             "Percent of adults with a bachelor's degree or higher, 2014-18",
             "Percent of adults completing some college or associate's degree, 2014-18",
             "Percent of adults with a high school diploma only, 2014-18"]
-
 
 educationDataset = educationDataset[colNames]
 
@@ -49,14 +52,33 @@ urbanizationDataset["Urbanization %"] = urbanizationDataset["Urbanization %"].as
 ### Population Dataset ###
 populationDataset = populationDataset.rename(columns={"state":"State"})
 
+### Age Dataset ###
+colNames = ["NAME","AGE","POPEST2019_CIV"]
+ageDataset = ageDataset[colNames]
+
+ageDataset = ageDataset.groupby("NAME")
+#print(ageDataset.groups)
+
+
+### Race Dataset ###
+colNames = ["NAME","RACE","SEX","POPESTIMATE2019"]
+raceDataset = raceDataset[colNames]
+
+singleRaceDataset = raceDataset.loc[raceDataset["SEX"] == 0]
+raceGroups = singleRaceDataset.groupby(["NAME","RACE"]).agg(np.sum)
+totalStateGroups = singleRaceDataset.groupby("NAME").agg(np.sum)
+
+
+print(raceGroups)
+print(totalStateGroups)
+
 ### Construct and save merged dataset ###
-print(populationDataset)
 stateDataset = temperatureDataset.merge(urbanizationDataset, how='left', on="State")
 stateDataset = stateDataset.merge(populationDataset, how='left', on="State")
 stateDataset["FIPS Code"] = stateDataset["FIPS Code"].astype(str) + "000"
 stateDataset["FIPS Code"] = stateDataset["FIPS Code"].astype(int)
 stateDataset = stateDataset.drop(columns=["State"])
-print(stateDataset)
+#print(stateDataset)
 
 fullDataset = economicDataset.merge(educationDataset,how='left',on="FIPS Code")
 fullDataset = fullDataset.merge(stateDataset,how='left', on ="FIPS Code")
