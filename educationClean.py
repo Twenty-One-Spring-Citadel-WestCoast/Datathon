@@ -26,6 +26,10 @@ colNames = ["FIPS Code",
             "Percent of adults with a high school diploma only, 2014-18"]
 
 educationDataset = educationDataset[colNames]
+educationDataset = educationDataset.rename(columns={"Percent of adults with less than a high school diploma, 2014-18":"% < high school diploma",
+                                                    "Percent of adults with a bachelor's degree or higher, 2014-18":"% > bachelors degree",
+                                                    "Percent of adults completing some college or associate's degree, 2014-18":"% some college/associates",
+                                                    "Percent of adults with a high school diploma only, 2014-18": "% only high school diploma"})
 
 ### Unemployment/wealth dataset cleaning ###
 colNames = ["fips_txt",
@@ -53,12 +57,30 @@ urbanizationDataset["Urbanization %"] = urbanizationDataset["Urbanization %"].as
 populationDataset = populationDataset.rename(columns={"state":"State"})
 
 ### Age Dataset ###
-colNames = ["NAME","AGE","POPEST2019_CIV"]
+colNames = ["NAME","AGE","SEX","POPEST2019_CIV"]
 ageDataset = ageDataset[colNames]
+ageDataset = ageDataset.loc[ageDataset["SEX"]==0]
+#agePivot = ageDataset.reset_index().pivot(index="NAME", columns = "AGE", values = "POPEST2019_CIV")
 
-ageDataset = ageDataset.groupby("NAME")
-#print(ageDataset.groups)
 
+ageDataset = ageDataset.set_index(["NAME","AGE"])
+ageDataset = ageDataset["POPEST2019_CIV"].unstack(level=1)
+ageDataset["median"] = ageDataset[999]//2
+ageDataset.iloc[:,:-2] = ageDataset.iloc[:,:-2].cumsum(axis=1)
+
+medianAgeList = []
+for index, row in ageDataset.iterrows():
+    upperAge = row.loc[row.ge(row["median"])].index.values[0]
+    lowerAge = upperAge - 1
+
+    medianAge = round((row["median"]-row[lowerAge])/(row[upperAge]-row[lowerAge]),2) + lowerAge
+    medianAgeList.append(medianAge)
+
+ageDataset["Median Age"] = medianAgeList
+ageDataset = ageDataset[["Median Age"]]
+ageDataset = ageDataset.reset_index()
+ageDataset = ageDataset.rename(columns={"NAME":"State"})
+print(ageDataset)
 
 ### Race Dataset ###
 colNames = ["NAME","RACE","SEX","POPESTIMATE2019"]
@@ -66,6 +88,7 @@ raceDataset = raceDataset[colNames]
 
 singleRaceDataset = raceDataset.loc[raceDataset["SEX"] == 0]
 raceGroups = singleRaceDataset.groupby(["NAME","RACE"]).agg(np.sum)
+#print(raceGroups)
 raceGroups = raceGroups["POPESTIMATE2019"].unstack(level=-1)
 
 raceDict = {1:"White",2:"Black",3:"American Native",4:"Asian",5:"Pacific Islander"}
@@ -78,6 +101,7 @@ raceGroups = raceGroups.rename(columns={"NAME":"State"})
 stateDataset = temperatureDataset.merge(urbanizationDataset, how='left', on="State")
 stateDataset = stateDataset.merge(populationDataset, how='left', on="State")
 stateDataset = stateDataset.merge(raceGroups, how='left', on="State")
+stateDataset = stateDataset.merge(ageDataset, how='left', on='State')
 stateDataset["FIPS Code"] = stateDataset["FIPS Code"].astype(str) + "000"
 stateDataset["FIPS Code"] = stateDataset["FIPS Code"].astype(int)
 stateDataset = stateDataset.drop(columns=["State"])
