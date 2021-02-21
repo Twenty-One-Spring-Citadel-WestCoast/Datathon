@@ -6,7 +6,7 @@ import altair as alt
 us_mobility = pd.read_csv("data/google_mobility/2020_US_Region_Mobility_Report.csv")
 
 us_mobility_state = us_mobility.loc[
-    us_mobility["sub_region_2"].isnull() == True,
+    (us_mobility["sub_region_2"].isnull() == True) and (us_mobility["sub_region_1"].isnull() == False),
     [
         "sub_region_1",
         "date",
